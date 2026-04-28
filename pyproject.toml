@@ -1,0 +1,25 @@
+[project]
+name = "tech-lead-notes"
+version = "0.1.0"
+description = "Operational playbook for tech leads — mirror of CC-licensed PM/Scrum/DORA resources with distilled cards for humans and LLM agents."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "CC-BY-SA-4.0" }
+authors = [
+  { name = "Tech Lead Notes contributors" },
+]
+dependencies = []
+
+[dependency-groups]
+docs = [
+  "mkdocs-material>=9.5",
+  "mkdocs>=1.6",
+]
+ingest = [
+  "httpx>=0.27",
+  "beautifulsoup4>=4.12",
+  "markdownify>=0.13",
+]
+
+[tool.uv]
+package = false

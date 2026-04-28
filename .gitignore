@@ -1,0 +1,21 @@
+# Build artifacts
+site/
+__pycache__/
+*.py[cod]
+
+# Python venv
+.venv/
+.uv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor / personal / MCP state — not part of the project
+.claude/
+.contextstream/
+.idea/
+.vscode/
+*.swp
+.env
+.envrc

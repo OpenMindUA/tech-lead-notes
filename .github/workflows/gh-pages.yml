@@ -1,0 +1,83 @@
+name: Build & Deploy MkDocs to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v3
+
+      - name: Install dependencies (docs + ingest)
+        run: uv sync --group docs --group ingest
+
+      # Soft fetch: try to refresh from upstream; on failure fall back to
+      # the committed snapshots in raw-sources/ + docs/sources/ so the site
+      # still builds.
+      - name: Refresh Scrum Guide from upstream (best-effort)
+        run: |
+          uv run python scripts/ingest_scrum_guide.py \
+            || echo "::warning::scrumguides.org fetch failed; using committed snapshot"
+
+      - name: Refresh Scrum Guide Expanded from upstream (best-effort)
+        run: |
+          uv run python scripts/ingest_scrum_guide_expanded.py \
+            || echo "::warning::scrumexpansion.org fetch failed; using committed snapshot"
+
+      # Deterministic re-splits from committed raw-sources/ — always run,
+      # never depend on network.
+      - name: Re-split Underneath the Surface
+        run: uv run python scripts/split_book.py
+
+      - name: Re-split DORA Metrics doc
+        run: uv run python scripts/split_dora_metrics.py
+
+      - name: Regenerate llms.txt / llms-full.txt
+        env:
+          LLMS_RAW_BASE: https://raw.githubusercontent.com/${{ github.repository }}/${{ github.ref_name }}/docs
+          LLMS_SITE_BASE: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}
+        run: uv run python scripts/build_llms_txt.py
+
+      - name: Build MkDocs site
+        run: uv run mkdocs build --strict
+
+      - name: Copy llms files into site/
+        run: |
+          cp llms.txt site/
+          cp llms-full.txt site/
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
