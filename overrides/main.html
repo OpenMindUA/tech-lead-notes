@@ -1,7 +1,12 @@
 {% extends "base.html" %}
 
 {# Context7 chat widget — floating bottom-right button on every page.
-   See https://context7.com/docs/howto/chat-widget for options. #}
+   See https://context7.com/docs/howto/chat-widget for options.
+
+   Note: the widget renders inside a closed shadow DOM, so external
+   CSS overrides (width/height) do not reach its internal elements.
+   Only the documented data-* attributes (color, position, placeholder)
+   are customizable from outside. #}
 {% block extrahead %}
   {{ super() }}
   <script
@@ -10,18 +15,6 @@
     data-color="#3f51b5"
     data-position="bottom-right"
     data-placeholder="Ask about Scrum, PMBOK, DORA…"
-    async
+    defer
   ></script>
-  <style>
-    /* Enlarge the Context7 chat panel on desktop. The widget defaults to
-       400x600 px; we bump to ~640x800 px while keeping the responsive
-       fullscreen behaviour on small screens (≤ 640 px viewport). */
-    @media (min-width: 641px) {
-      .c7-panel {
-        width: 640px !important;
-        height: 800px !important;
-        max-height: 90vh !important;
-      }
-    }
-  </style>
 {% endblock %}
