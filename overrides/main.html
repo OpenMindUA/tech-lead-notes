@@ -12,4 +12,16 @@
     data-placeholder="Ask about Scrum, PMBOK, DORA…"
     async
   ></script>
+  <style>
+    /* Enlarge the Context7 chat panel on desktop. The widget defaults to
+       400x600 px; we bump to ~640x800 px while keeping the responsive
+       fullscreen behaviour on small screens (≤ 640 px viewport). */
+    @media (min-width: 641px) {
+      .c7-panel {
+        width: 640px !important;
+        height: 800px !important;
+        max-height: 90vh !important;
+      }
+    }
+  </style>
 {% endblock %}
