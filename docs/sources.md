@@ -61,6 +61,39 @@ licensing combines from all of them.
 - **Local Tier 2 distillation:** [`docs/distilled/dora-metrics-jira/`](distilled/dora-metrics-jira/index.md)
 - **Files:** 6 chunks · 6 distilled cards
 
+### 5. NUPP — Nearly Universal Principles of Projects
+
+- **Authors:** PTCoE — Nader K. Rad et al.
+- **Type:** Open principle set (6 principles)
+- **Original URL:** <https://nupp.guide/>
+- **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+- **Local Tier 3 path:** [`docs/sources/nupp/`](sources/nupp/index.md)
+- **Local Tier 2 distillation:** [`docs/distilled/principles/nupp/`](distilled/principles/nupp/index.md) — synthesis cards originally derived from the *Underneath the Surface* commentary now cross-link to this canonical text.
+- **Files:** 7 chunks · 7 existing distilled cards
+
+### 6. P3.express manual (v2)
+
+- **Authors:** PTCoE — Nader K. Rad et al.
+- **Type:** Open minimalist project-management methodology
+- **Original URL:** <https://p3.express/manual/v2/>
+- **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+- **Version:** v2
+- **Local Tier 3 path:** [`docs/sources/p3-express/`](sources/p3-express/index.md)
+- **Local Tier 2 distillation:** distilled cards pending; existing methodology card at [`distilled/methodologies/p3-express.md`](distilled/methodologies/p3-express.md) (UtS-derived) cross-links here.
+- **Files:** 41 chunks (7 activity groups × 1-10 activities; 33 activities total)
+- **Notes:** Closes the maximalist (PRINCE2) / framework (Scrum) / minimalist (P3.express) triad already cross-referenced throughout the *Underneath the Surface* distilled cards.
+
+### 7. micro.P3.express manual
+
+- **Authors:** PTCoE — Nader K. Rad et al.
+- **Type:** Variant of P3.express designed for very small projects (1-4 people)
+- **Original URL:** <https://micro.p3.express/>
+- **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+- **Local Tier 3 path:** [`docs/sources/micro-p3-express/`](sources/micro-p3-express/index.md)
+- **Local Tier 2 distillation:** distilled cards pending.
+- **Files:** 34 chunks (6 activity groups × 2-7 activities; 27 activities total)
+- **Notes:** Replaces P3.express's monthly cycle with weekly only; introduces the **hats** concept (people swap hats between roles) for tiny teams.
+
 ## License combinations
 
 The repository combines content under two Creative Commons licenses:

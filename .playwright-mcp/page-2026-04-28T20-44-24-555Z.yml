@@ -1,0 +1,1254 @@
+- generic [active] [ref=e1]:
+  - link "Skip to content" [ref=e2] [cursor=pointer]:
+    - /url: http://127.0.0.1:8000/tech-lead-notes/#tech-lead-notes
+  - banner [ref=e3]:
+    - navigation "Header" [ref=e4]:
+      - img [ref=e6] [cursor=pointer]
+      - generic [ref=e9]:
+        - generic [ref=e11]: Tech Lead Notes
+        - generic:
+          - generic: Tech Lead Notes
+      - generic [ref=e12]:
+        - radio "Switch to dark mode"
+        - generic "Switch to dark mode" [ref=e13] [cursor=pointer]:
+          - img [ref=e14]
+        - radio "Switch to light mode"
+      - img [ref=e17] [cursor=pointer]
+      - dialog:
+        - search:
+          - generic:
+            - textbox "Search" [ref=e19]
+            - img [ref=e21] [cursor=pointer]
+            - navigation "Search":
+              - button "Clear":
+                - img
+          - generic [ref=e24]: Initializing search
+  - generic [ref=e25]:
+    - main [ref=e26]:
+      - generic [ref=e27]:
+        - navigation "Navigation" [ref=e30]:
+          - generic [ref=e31] [cursor=pointer]:
+            - link "Tech Lead Notes" [ref=e32]:
+              - /url: http://127.0.0.1:8000/tech-lead-notes/
+              - img [ref=e33]
+            - text: Tech Lead Notes
+          - link "GitHub" [ref=e36] [cursor=pointer]:
+            - /url: https://github.com/OpenMindUA/tech-lead-notes
+            - img [ref=e38]
+            - generic [ref=e40]: GitHub
+          - list [ref=e41]:
+            - listitem [ref=e42]:
+              - generic [ref=e44]: Home
+              - navigation "Table of contents" [ref=e46]:
+                - generic [ref=e47] [cursor=pointer]: Table of contents
+                - list [ref=e49]:
+                  - listitem [ref=e50]:
+                    - link "Three tiers" [ref=e51] [cursor=pointer]:
+                      - /url: http://127.0.0.1:8000/tech-lead-notes/#three-tiers
+                      - generic [ref=e52]: Three tiers
+                  - listitem [ref=e53]:
+                    - link "Sources" [ref=e54] [cursor=pointer]:
+                      - /url: http://127.0.0.1:8000/tech-lead-notes/#sources
+                      - generic [ref=e55]: Sources
+                  - listitem [ref=e56]:
+                    - link "How agents should consume this" [ref=e57] [cursor=pointer]:
+                      - /url: http://127.0.0.1:8000/tech-lead-notes/#how-agents-should-consume-this
+                      - generic [ref=e58]: How agents should consume this
+                  - listitem [ref=e59]:
+                    - link "Licensing" [ref=e60] [cursor=pointer]:
+                      - /url: http://127.0.0.1:8000/tech-lead-notes/#licensing
+                      - generic [ref=e61]: Licensing
+            - listitem [ref=e62]:
+              - generic [ref=e64]: For agents (Tier 1)
+              - navigation "For agents (Tier 1)" [ref=e66]:
+                - generic [ref=e67] [cursor=pointer]: For agents (Tier 1)
+                - list [ref=e69]:
+                  - listitem [ref=e70]:
+                    - link "Agent index" [ref=e71] [cursor=pointer]:
+                      - /url: http://127.0.0.1:8000/tech-lead-notes/agent-index/
+                      - generic [ref=e72]: Agent index
+            - listitem [ref=e73]:
+              - link "Distilled (Tier 2)" [ref=e75] [cursor=pointer]:
+                - /url: http://127.0.0.1:8000/tech-lead-notes/distilled/
+                - generic [ref=e76]: Distilled (Tier 2)
+              - navigation [ref=e79]:
+                - generic [ref=e80] [cursor=pointer]: Distilled (Tier 2)
+                - list [ref=e82]:
+                  - listitem [ref=e83]:
+                    - link "About / disclaimer" [ref=e84] [cursor=pointer]:
+                      - /url: http://127.0.0.1:8000/tech-lead-notes/distilled/about/
+                      - generic [ref=e85]: About / disclaimer
+                  - listitem [ref=e86]:
+                    - link "Glossary" [ref=e87] [cursor=pointer]:
+                      - /url: http://127.0.0.1:8000/tech-lead-notes/distilled/glossary/
+                      - generic [ref=e88]: Glossary
+                  - listitem [ref=e89]:
+                    - link "Cross-references" [ref=e90] [cursor=pointer]:
+                      - /url: http://127.0.0.1:8000/tech-lead-notes/distilled/cross-references/
+                      - generic [ref=e91]: Cross-references
+                  - listitem [ref=e92]:
+                    - link "PMBOK 7 principles" [ref=e94] [cursor=pointer]:
+                      - /url: http://127.0.0.1:8000/tech-lead-notes/distilled/principles/pmbok-7/
+                      - generic [ref=e95]: PMBOK 7 principles
+                    - navigation [ref=e98]:
+                      - generic [ref=e99] [cursor=pointer]: PMBOK 7 principles
+                      - list [ref=e101]:
+                        - listitem [ref=e102]:
+                          - link "1. Stewardship" [ref=e103] [cursor=pointer]:
+                            - /url: http://127.0.0.1:8000/tech-lead-notes/distilled/principles/pmbok-7/01-stewardship/
+                            - generic [ref=e104]: 1. Stewardship
+                        - listitem [ref=e105]:
+                          - link "2. Collaborative team" [ref=e106] [cursor=pointer]:
+                            - /url: http://127.0.0.1:8000/tech-lead-notes/distilled/principles/pmbok-7/02-collaborative-team/
+                            - generic [ref=e107]: 2. Collaborative team
+                        - listitem [ref=e108]:
+                          - link "3. Engage stakeholders" [ref=e109] [cursor=pointer]:
+                            - /url: http://127.0.0.1:8000/tech-lead-notes/distilled/principles/pmbok-7/03-engage-stakeholders/
+                            - generic [ref=e110]: 3. Engage stakeholders
+                        - listitem [ref=e111]:
+                          - link "4. Focus on value" [ref=e112] [cursor=pointer]:
+                            - /url: http://127.0.0.1:8000/tech-lead-notes/distilled/principles/pmbok-7/04-focus-on-value/
+                            - generic [ref=e113]: 4. Focus on value
+                        - listitem [ref=e114]:
+                          - link "5. System interactions" [ref=e115] [cursor=pointer]:
+                            - /url: http://127.0.0.1:8000/tech-lead-notes/distilled/principles/pmbok-7/05-system-interactions/
+                            - generic [ref=e116]: 5. System interactions
+                        - listitem [ref=e117]:
+                          - link "6. Leadership" [ref=e118] [cursor=pointer]:
+                            - /url: http://127.0.0.1:8000/tech-lead-notes/distilled/principles/pmbok-7/06-leadership/
+                            - generic [ref=e119]: 6. Leadership
+                        - listitem [ref=e120]:
+                          - link "7. Tailor" [ref=e121] [cursor=pointer]:
+                            - /url: http://127.0.0.1:8000/tech-lead-notes/distilled/principles/pmbok-7/07-tailor/
+                            - generic [ref=e122]: 7. Tailor
+                        - listitem [ref=e123]:
+                          - link "8. Build quality in" [ref=e124] [cursor=pointer]:
+                            - /url: http://127.0.0.1:8000/tech-lead-notes/distilled/principles/pmbok-7/08-quality/
+                            - generic [ref=e125]: 8. Build quality in
+                        - listitem [ref=e126]:
+                          - link "9. Optimize risk" [ref=e127] [cursor=pointer]:
+                            - /url: http://127.0.0.1:8000/tech-lead-notes/distilled/principles/pmbok-7/09-risk/
+                            - generic [ref=e128]: 9. Optimize risk
+                        - listitem [ref=e129]:
+                          - link "10. Navigate complexity" [ref=e130] [cursor=pointer]:
+                            - /url: http://127.0.0.1:8000/tech-lead-notes/distilled/principles/pmbok-7/10-complexity/
+                            - generic [ref=e131]: 10. Navigate complexity
+                        - listitem [ref=e132]:
+                          - link "11. Adaptability" [ref=e133] [cursor=pointer]:
+                            - /url: http://127.0.0.1:8000/tech-lead-notes/distilled/principles/pmbok-7/11-adaptability/
+                            - generic [ref=e134]: 11. Adaptability
+                        - listitem [ref=e135]:
+                          - link "12. Enable change" [ref=e136] [cursor=pointer]:
+                            - /url: http://127.0.0.1:8000/tech-lead-notes/distilled/principles/pmbok-7/12-enable-change/
+                            - generic [ref=e137]: 12. Enable change
+                  - listitem [ref=e138]:
+                    - link "NUPP principles" [ref=e140] [cursor=pointer]:
+                      - /url: http://127.0.0.1:8000/tech-lead-notes/distilled/principles/nupp/
+                      - generic [ref=e141]: NUPP principles
+                    - navigation [ref=e144]:
+                      - generic [ref=e145] [cursor=pointer]: NUPP principles
+                      - list [ref=e147]:
+                        - listitem [ref=e148]:
+                          - link "1. Results over affiliations" [ref=e149] [cursor=pointer]:
+                            - /url: http://127.0.0.1:8000/tech-lead-notes/distilled/principles/nupp/01-results-over-affiliations/
+                            - generic [ref=e150]: 1. Results over affiliations
+                        - listitem [ref=e151]:
+                          - link "2. Preserve energy" [ref=e152] [cursor=pointer]:
+                            - /url: http://127.0.0.1:8000/tech-lead-notes/distilled/principles/nupp/02-preserve-energy/
+                            - generic [ref=e153]: 2. Preserve energy
+                        - listitem [ref=e154]:
+                          - link "3. Always be proactive" [ref=e155] [cursor=pointer]:
+                            - /url: http://127.0.0.1:8000/tech-lead-notes/distilled/principles/nupp/03-always-be-proactive/
+                            - generic [ref=e156]: 3. Always be proactive
+                        - listitem [ref=e157]:
+                          - link "4. Weakest link" [ref=e158] [cursor=pointer]:
+                            - /url: http://127.0.0.1:8000/tech-lead-notes/distilled/principles/nupp/04-weakest-link/
+                            - generic [ref=e159]: 4. Weakest link
+                        - listitem [ref=e160]:
+                          - link "5. Clear purpose" [ref=e161] [cursor=pointer]:
+                            - /url: http://127.0.0.1:8000/tech-lead-notes/distilled/principles/nupp/05-clear-purpose/
+                            - generic [ref=e162]: 5. Clear purpose
+                        - listitem [ref=e163]:
+                          - link "6. Repeatable elements" [ref=e164] [cursor=pointer]:
+                            - /url: http://127.0.0.1:8000/tech-lead-notes/distilled/principles/nupp/06-repeatable-elements/
+                            - generic [ref=e165]: 6. Repeatable elements
+                  - listitem [ref=e166]:
+                    - link "PRINCE2 principles" [ref=e168] [cursor=pointer]:
+                      - /url: http://127.0.0.1:8000/tech-lead-notes/distilled/principles/prince2/
+                      - generic [ref=e169]: PRINCE2 principles
+                    - navigation [ref=e172]:
+                      - generic [ref=e173] [cursor=pointer]: PRINCE2 principles
+                      - list [ref=e175]:
+                        - listitem [ref=e176]:
+                          - link "1. Continued business justification" [ref=e177] [cursor=pointer]:
+                            - /url: http://127.0.0.1:8000/tech-lead-notes/distilled/principles/prince2/01-continued-business-justification/
+                            - generic [ref=e178]: 1. Continued business justification
+                        - listitem [ref=e179]:
+                          - link "2. Learn from experience" [ref=e180] [cursor=pointer]:
+                            - /url: http://127.0.0.1:8000/tech-lead-notes/distilled/principles/prince2/02-learn-from-experience/
+                            - generic [ref=e181]: 2. Learn from experience
+                        - listitem [ref=e182]:
+                          - link "3. Defined roles" [ref=e183] [cursor=pointer]:
+                            - /url: http://127.0.0.1:8000/tech-lead-notes/distilled/principles/prince2/03-roles/
+                            - generic [ref=e184]: 3. Defined roles
+                        - listitem [ref=e185]:
+                          - link "4. Manage by stages" [ref=e186] [cursor=pointer]:
+                            - /url: http://127.0.0.1:8000/tech-lead-notes/distilled/principles/prince2/04-manage-by-stages/
+                            - generic [ref=e187]: 4. Manage by stages
+                        - listitem [ref=e188]:
+                          - link "5. Manage by exception" [ref=e189] [cursor=pointer]:
+                            - /url: http://127.0.0.1:8000/tech-lead-notes/distilled/principles/prince2/05-manage-by-exception/
+                            - generic [ref=e190]: 5. Manage by exception
+                        - listitem [ref=e191]:
+                          - link "6. Focus on products" [ref=e192] [cursor=pointer]:
+                            - /url: http://127.0.0.1:8000/tech-lead-notes/distilled/principles/prince2/06-focus-on-products/
+                            - generic [ref=e193]: 6. Focus on products
+                        - listitem [ref=e194]:
+                          - link "7. Tailor to project" [ref=e195] [cursor=pointer]:
+                            - /url: http://127.0.0.1:8000/tech-lead-notes/distilled/principles/prince2/07-tailor-to-project/
+                            - generic [ref=e196]: 7. Tailor to project
+                  - listitem [ref=e197]:
+                    - link "Performance domains" [ref=e199] [cursor=pointer]:
+                      - /url: http://127.0.0.1:8000/tech-lead-notes/distilled/performance-domains/
+                      - generic [ref=e200]: Performance domains
+                    - navigation [ref=e203]:
+                      - generic [ref=e204] [cursor=pointer]: Performance domains
+                      - list [ref=e206]:
+                        - listitem [ref=e207]:
+                          - link "1. Stakeholders" [ref=e208] [cursor=pointer]:
+                            - /url: http://127.0.0.1:8000/tech-lead-notes/distilled/performance-domains/01-stakeholders/
+                            - generic [ref=e209]: 1. Stakeholders
+                        - listitem [ref=e210]:
+                          - link "2. Team" [ref=e211] [cursor=pointer]:
+                            - /url: http://127.0.0.1:8000/tech-lead-notes/distilled/performance-domains/02-team/
+                            - generic [ref=e212]: 2. Team
+                        - listitem [ref=e213]:
+                          - link "3. Development approach" [ref=e214] [cursor=pointer]:
+                            - /url: http://127.0.0.1:8000/tech-lead-notes/distilled/performance-domains/03-development-approach/
+                            - generic [ref=e215]: 3. Development approach
+                        - listitem [ref=e216]:
+                          - link "4. Planning" [ref=e217] [cursor=pointer]:
+                            - /url: http://127.0.0.1:8000/tech-lead-notes/distilled/performance-domains/04-planning/
+                            - generic [ref=e218]: 4. Planning
+                        - listitem [ref=e219]:
+                          - link "5. Project Work" [ref=e220] [cursor=pointer]:
+                            - /url: http://127.0.0.1:8000/tech-lead-notes/distilled/performance-domains/05-project-work/
+                            - generic [ref=e221]: 5. Project Work
+                        - listitem [ref=e222]:
+                          - link "6. Measurement" [ref=e223] [cursor=pointer]:
+                            - /url: http://127.0.0.1:8000/tech-lead-notes/distilled/performance-domains/06-measurement/
+                            - generic [ref=e224]: 6. Measurement
+                        - listitem [ref=e225]:
+                          - link "7. Delivery" [ref=e226] [cursor=pointer]:
+                            - /url: http://127.0.0.1:8000/tech-lead-notes/distilled/performance-domains/07-delivery/
+                            - generic [ref=e227]: 7. Delivery
+                        - listitem [ref=e228]:
+                          - link "8. Uncertainty" [ref=e229] [cursor=pointer]:
+                            - /url: http://127.0.0.1:8000/tech-lead-notes/distilled/performance-domains/08-uncertainty/
+                            - generic [ref=e230]: 8. Uncertainty
+                  - listitem [ref=e231]:
+                    - link "Methodologies" [ref=e233] [cursor=pointer]:
+                      - /url: http://127.0.0.1:8000/tech-lead-notes/distilled/methodologies/
+                      - generic [ref=e234]: Methodologies
+                    - navigation [ref=e237]:
+                      - generic [ref=e238] [cursor=pointer]: Methodologies
+                      - list [ref=e240]:
+                        - listitem [ref=e241]:
+                          - link "Comparison" [ref=e242] [cursor=pointer]:
+                            - /url: http://127.0.0.1:8000/tech-lead-notes/distilled/methodologies/comparison/
+                            - generic [ref=e243]: Comparison
+                        - listitem [ref=e244]:
+                          - link "P3.express" [ref=e245] [cursor=pointer]:
+                            - /url: http://127.0.0.1:8000/tech-lead-notes/distilled/methodologies/p3-express/
+                            - generic [ref=e246]: P3.express
+                        - listitem [ref=e247]:
+                          - link "PRINCE2" [ref=e248] [cursor=pointer]:
+                            - /url: http://127.0.0.1:8000/tech-lead-notes/distilled/methodologies/prince2/
+                            - generic [ref=e249]: PRINCE2
+                        - listitem [ref=e250]:
+                          - link "Scrum" [ref=e251] [cursor=pointer]:
+                            - /url: http://127.0.0.1:8000/tech-lead-notes/distilled/methodologies/scrum/
+                            - generic [ref=e252]: Scrum
+                        - listitem [ref=e253]:
+                          - link "DSDM" [ref=e254] [cursor=pointer]:
+                            - /url: http://127.0.0.1:8000/tech-lead-notes/distilled/methodologies/dsdm/
+                            - generic [ref=e255]: DSDM
+                  - listitem [ref=e256]:
+                    - link "Scrum Guide 2020" [ref=e258] [cursor=pointer]:
+                      - /url: http://127.0.0.1:8000/tech-lead-notes/distilled/scrum-guide/
+                      - generic [ref=e259]: Scrum Guide 2020
+                    - navigation [ref=e262]:
+                      - generic [ref=e263] [cursor=pointer]: Scrum Guide 2020
+                      - list [ref=e265]:
+                        - listitem [ref=e266]:
+                          - link "Scrum definition" [ref=e267] [cursor=pointer]:
+                            - /url: http://127.0.0.1:8000/tech-lead-notes/distilled/scrum-guide/01-scrum-definition/
+                            - generic [ref=e268]: Scrum definition
+                        - listitem [ref=e269]:
+                          - link "Theory and pillars" [ref=e270] [cursor=pointer]:
+                            - /url: http://127.0.0.1:8000/tech-lead-notes/distilled/scrum-guide/02-theory-and-pillars/
+                            - generic [ref=e271]: Theory and pillars
+                        - listitem [ref=e272]:
+                          - link "Scrum Values" [ref=e273] [cursor=pointer]:
+                            - /url: http://127.0.0.1:8000/tech-lead-notes/distilled/scrum-guide/03-scrum-values/
+                            - generic [ref=e274]: Scrum Values
+                        - listitem [ref=e275]:
+                          - link "Scrum Team — structure" [ref=e276] [cursor=pointer]:
+                            - /url: http://127.0.0.1:8000/tech-lead-notes/distilled/scrum-guide/04-scrum-team/
+                            - generic [ref=e277]: Scrum Team — structure
+                        - listitem [ref=e278]:
+                          - link "Developers" [ref=e279] [cursor=pointer]:
+                            - /url: http://127.0.0.1:8000/tech-lead-notes/distilled/scrum-guide/05-developers/
+                            - generic [ref=e280]: Developers
+                        - listitem [ref=e281]:
+                          - link "Product Owner" [ref=e282] [cursor=pointer]:
+                            - /url: http://127.0.0.1:8000/tech-lead-notes/distilled/scrum-guide/06-product-owner/
+                            - generic [ref=e283]: Product Owner
+                        - listitem [ref=e284]:
+                          - link "Scrum Master" [ref=e285] [cursor=pointer]:
+                            - /url: http://127.0.0.1:8000/tech-lead-notes/distilled/scrum-guide/07-scrum-master/
+                            - generic [ref=e286]: Scrum Master
+                        - listitem [ref=e287]:
+                          - link "Events — overview" [ref=e288] [cursor=pointer]:
+                            - /url: http://127.0.0.1:8000/tech-lead-notes/distilled/scrum-guide/08-events-overview/
+                            - generic [ref=e289]: Events — overview
+                        - listitem [ref=e290]:
+                          - link "The Sprint" [ref=e291] [cursor=pointer]:
+                            - /url: http://127.0.0.1:8000/tech-lead-notes/distilled/scrum-guide/09-the-sprint/
+                            - generic [ref=e292]: The Sprint
+                        - listitem [ref=e293]:
+                          - link "Sprint Planning" [ref=e294] [cursor=pointer]:
+                            - /url: http://127.0.0.1:8000/tech-lead-notes/distilled/scrum-guide/10-sprint-planning/
+                            - generic [ref=e295]: Sprint Planning
+                        - listitem [ref=e296]:
+                          - link "Daily Scrum" [ref=e297] [cursor=pointer]:
+                            - /url: http://127.0.0.1:8000/tech-lead-notes/distilled/scrum-guide/11-daily-scrum/
+                            - generic [ref=e298]: Daily Scrum
+                        - listitem [ref=e299]:
+                          - link "Sprint Review" [ref=e300] [cursor=pointer]:
+                            - /url: http://127.0.0.1:8000/tech-lead-notes/distilled/scrum-guide/12-sprint-review/
+                            - generic [ref=e301]: Sprint Review
+                        - listitem [ref=e302]:
+                          - link "Sprint Retrospective" [ref=e303] [cursor=pointer]:
+                            - /url: http://127.0.0.1:8000/tech-lead-notes/distilled/scrum-guide/13-sprint-retrospective/
+                            - generic [ref=e304]: Sprint Retrospective
+                        - listitem [ref=e305]:
+                          - link "Product Backlog (+ Product Goal)" [ref=e306] [cursor=pointer]:
+                            - /url: http://127.0.0.1:8000/tech-lead-notes/distilled/scrum-guide/14-product-backlog/
+                            - generic [ref=e307]: Product Backlog (+ Product Goal)
+                        - listitem [ref=e308]:
+                          - link "Sprint Backlog (+ Sprint Goal)" [ref=e309] [cursor=pointer]:
+                            - /url: http://127.0.0.1:8000/tech-lead-notes/distilled/scrum-guide/15-sprint-backlog/
+                            - generic [ref=e310]: Sprint Backlog (+ Sprint Goal)
+                        - listitem [ref=e311]:
+                          - link "Increment (+ DoD)" [ref=e312] [cursor=pointer]:
+                            - /url: http://127.0.0.1:8000/tech-lead-notes/distilled/scrum-guide/16-increment/
+                            - generic [ref=e313]: Increment (+ DoD)
+                  - listitem [ref=e314]:
+                    - link "Scrum Guide Expansion Pack (v2026.1)" [ref=e316] [cursor=pointer]:
+                      - /url: http://127.0.0.1:8000/tech-lead-notes/distilled/scrum-guide-expanded/
+                      - generic [ref=e317]: Scrum Guide Expansion Pack (v2026.1)
+                    - navigation [ref=e320]:
+                      - generic [ref=e321] [cursor=pointer]: Scrum Guide Expansion Pack (v2026.1)
+                      - list [ref=e323]:
+                        - listitem [ref=e324]:
+                          - link "Purpose & departures from SG2020" [ref=e325] [cursor=pointer]:
+                            - /url: http://127.0.0.1:8000/tech-lead-notes/distilled/scrum-guide-expanded/01-purpose-and-departures/
+                            - generic [ref=e326]: Purpose & departures from SG2020
+                        - listitem [ref=e327]:
+                          - link "Foundational theory" [ref=e328] [cursor=pointer]:
+                            - /url: http://127.0.0.1:8000/tech-lead-notes/distilled/scrum-guide-expanded/02-foundational-theory/
+                            - generic [ref=e329]: Foundational theory
+                        - listitem [ref=e330]:
+                          - link "Additional theory" [ref=e331] [cursor=pointer]:
+                            - /url: http://127.0.0.1:8000/tech-lead-notes/distilled/scrum-guide-expanded/03-additional-theory/
+                            - generic [ref=e332]: Additional theory
+                        - listitem [ref=e333]:
+                          - link "Stakeholder (4th role)" [ref=e334] [cursor=pointer]:
+                            - /url: http://127.0.0.1:8000/tech-lead-notes/distilled/scrum-guide-expanded/04-stakeholder/
+                            - generic [ref=e335]: Stakeholder (4th role)
+                        - listitem [ref=e336]:
+                          - link "Supporter" [ref=e337] [cursor=pointer]:
+                            - /url: http://127.0.0.1:8000/tech-lead-notes/distilled/scrum-guide-expanded/05-supporter/
+                            - generic [ref=e338]: Supporter
+                        - listitem [ref=e339]:
+                          - link "Artificial Intelligence" [ref=e340] [cursor=pointer]:
+                            - /url: http://127.0.0.1:8000/tech-lead-notes/distilled/scrum-guide-expanded/06-artificial-intelligence/
+                            - generic [ref=e341]: Artificial Intelligence
+                        - listitem [ref=e342]:
+                          - link "Product Developer" [ref=e343] [cursor=pointer]:
+                            - /url: http://127.0.0.1:8000/tech-lead-notes/distilled/scrum-guide-expanded/07-product-developer/
+                            - generic [ref=e344]: Product Developer
+                        - listitem [ref=e345]:
+                          - link "Product Owner — extensions" [ref=e346] [cursor=pointer]:
+                            - /url: http://127.0.0.1:8000/tech-lead-notes/distilled/scrum-guide-expanded/08-product-owner/
+                            - generic [ref=e347]: Product Owner — extensions
+                        - listitem [ref=e348]:
+                          - link "Scrum Master — extensions" [ref=e349] [cursor=pointer]:
+                            - /url: http://127.0.0.1:8000/tech-lead-notes/distilled/scrum-guide-expanded/09-scrum-master/
+                            - generic [ref=e350]: Scrum Master — extensions
+                        - listitem [ref=e351]:
+                          - link "Product (artifact) + Vision" [ref=e352] [cursor=pointer]:
+                            - /url: http://127.0.0.1:8000/tech-lead-notes/distilled/scrum-guide-expanded/10-product-and-vision/
+                            - generic [ref=e353]: Product (artifact) + Vision
+                        - listitem [ref=e354]:
+                          - link "Definition of Outcome Done" [ref=e355] [cursor=pointer]:
+                            - /url: http://127.0.0.1:8000/tech-lead-notes/distilled/scrum-guide-expanded/11-definition-of-outcome-done/
+                            - generic [ref=e356]: Definition of Outcome Done
+                        - listitem [ref=e357]:
+                          - link "Definition of Output Done" [ref=e358] [cursor=pointer]:
+                            - /url: http://127.0.0.1:8000/tech-lead-notes/distilled/scrum-guide-expanded/12-definition-of-output-done/
+                            - generic [ref=e359]: Definition of Output Done
+                        - listitem [ref=e360]:
+                          - link "Product Backlog extensions" [ref=e361] [cursor=pointer]:
+                            - /url: http://127.0.0.1:8000/tech-lead-notes/distilled/scrum-guide-expanded/13-product-backlog-extensions/
+                            - generic [ref=e362]: Product Backlog extensions
+                        - listitem [ref=e363]:
+                          - link "Sprint Backlog extensions" [ref=e364] [cursor=pointer]:
+                            - /url: http://127.0.0.1:8000/tech-lead-notes/distilled/scrum-guide-expanded/14-sprint-backlog-extensions/
+                            - generic [ref=e365]: Sprint Backlog extensions
+                        - listitem [ref=e366]:
+                          - link "Events — SGE extensions" [ref=e367] [cursor=pointer]:
+                            - /url: http://127.0.0.1:8000/tech-lead-notes/distilled/scrum-guide-expanded/15-events-extensions/
+                            - generic [ref=e368]: Events — SGE extensions
+                  - listitem [ref=e369]:
+                    - link "DORA Metrics in Jira" [ref=e371] [cursor=pointer]:
+                      - /url: http://127.0.0.1:8000/tech-lead-notes/distilled/dora-metrics-jira/
+                      - generic [ref=e372]: DORA Metrics in Jira
+                    - navigation [ref=e375]:
+                      - generic [ref=e376] [cursor=pointer]: DORA Metrics in Jira
+                      - list [ref=e378]:
+                        - listitem [ref=e379]:
+                          - link "DORA fundamentals" [ref=e380] [cursor=pointer]:
+                            - /url: http://127.0.0.1:8000/tech-lead-notes/distilled/dora-metrics-jira/01-dora-fundamentals/
+                            - generic [ref=e381]: DORA fundamentals
+                        - listitem [ref=e382]:
+                          - link "Ticket discipline" [ref=e383] [cursor=pointer]:
+                            - /url: http://127.0.0.1:8000/tech-lead-notes/distilled/dora-metrics-jira/02-ticket-discipline/
+                            - generic [ref=e384]: Ticket discipline
+                        - listitem [ref=e385]:
+                          - link "GitHub-side enforcement" [ref=e386] [cursor=pointer]:
+                            - /url: http://127.0.0.1:8000/tech-lead-notes/distilled/dora-metrics-jira/03-github-side/
+                            - generic [ref=e387]: GitHub-side enforcement
+                        - listitem [ref=e388]:
+                          - link "Jira setup checklist" [ref=e389] [cursor=pointer]:
+                            - /url: http://127.0.0.1:8000/tech-lead-notes/distilled/dora-metrics-jira/04-jira-setup-checklist/
+                            - generic [ref=e390]: Jira setup checklist
+                        - listitem [ref=e391]:
+                          - link "Anti-patterns and pitfalls" [ref=e392] [cursor=pointer]:
+                            - /url: http://127.0.0.1:8000/tech-lead-notes/distilled/dora-metrics-jira/05-anti-patterns/
+                            - generic [ref=e393]: Anti-patterns and pitfalls
+                  - listitem [ref=e394]:
+                    - link "Synthesis (cross-source)" [ref=e396] [cursor=pointer]:
+                      - /url: http://127.0.0.1:8000/tech-lead-notes/distilled/synthesis/
+                      - generic [ref=e397]: Synthesis (cross-source)
+                    - navigation [ref=e400]:
+                      - generic [ref=e401] [cursor=pointer]: Synthesis (cross-source)
+                      - list [ref=e403]:
+                        - listitem [ref=e404]:
+                          - link "\"Done\", quality, peer review" [ref=e405] [cursor=pointer]:
+                            - /url: http://127.0.0.1:8000/tech-lead-notes/distilled/synthesis/01-done-and-quality/
+                            - generic [ref=e406]: "\"Done\", quality, peer review"
+                        - listitem [ref=e407]:
+                          - link "Stakeholders cross-source" [ref=e408] [cursor=pointer]:
+                            - /url: http://127.0.0.1:8000/tech-lead-notes/distilled/synthesis/02-stakeholders-cross-source/
+                            - generic [ref=e409]: Stakeholders cross-source
+                        - listitem [ref=e410]:
+                          - link "Output vs Outcome" [ref=e411] [cursor=pointer]:
+                            - /url: http://127.0.0.1:8000/tech-lead-notes/distilled/synthesis/03-outcome-vs-output/
+                            - generic [ref=e412]: Output vs Outcome
+                        - listitem [ref=e413]:
+                          - link "Measurement and metrics" [ref=e414] [cursor=pointer]:
+                            - /url: http://127.0.0.1:8000/tech-lead-notes/distilled/synthesis/04-measurement-and-metrics/
+                            - generic [ref=e415]: Measurement and metrics
+                        - listitem [ref=e416]:
+                          - link "Risk, incidents, stability" [ref=e417] [cursor=pointer]:
+                            - /url: http://127.0.0.1:8000/tech-lead-notes/distilled/synthesis/05-risk-and-stability/
+                            - generic [ref=e418]: Risk, incidents, stability
+                        - listitem [ref=e419]:
+                          - link "Tailoring and method selection" [ref=e420] [cursor=pointer]:
+                            - /url: http://127.0.0.1:8000/tech-lead-notes/distilled/synthesis/06-tailoring-and-method-selection/
+                            - generic [ref=e421]: Tailoring and method selection
+                        - listitem [ref=e422]:
+                          - link "Roles across frameworks" [ref=e423] [cursor=pointer]:
+                            - /url: http://127.0.0.1:8000/tech-lead-notes/distilled/synthesis/07-roles-across-frameworks/
+                            - generic [ref=e424]: Roles across frameworks
+            - listitem [ref=e425]:
+              - link "Sources manifest" [ref=e426] [cursor=pointer]:
+                - /url: http://127.0.0.1:8000/tech-lead-notes/sources/
+                - generic [ref=e427]: Sources manifest
+            - listitem [ref=e428]:
+              - generic [ref=e430]: Sources (Tier 3)
+              - navigation "Sources (Tier 3)" [ref=e432]:
+                - generic [ref=e433] [cursor=pointer]: Sources (Tier 3)
+                - list [ref=e435]:
+                  - listitem [ref=e436]:
+                    - link "Underneath the Surface" [ref=e438] [cursor=pointer]:
+                      - /url: http://127.0.0.1:8000/tech-lead-notes/sources/underneath-the-surface/
+                      - generic [ref=e439]: Underneath the Surface
+                    - navigation [ref=e442]:
+                      - generic [ref=e443] [cursor=pointer]: Underneath the Surface
+                      - list [ref=e445]:
+                        - listitem [ref=e446]:
+                          - link "1. What is the PMBOK Guide?" [ref=e448] [cursor=pointer]:
+                            - /url: http://127.0.0.1:8000/tech-lead-notes/sources/underneath-the-surface/01-what-is-the-pmbok-guide/
+                            - generic [ref=e449]: 1. What is the PMBOK Guide?
+                          - navigation [ref=e452]:
+                            - generic [ref=e453] [cursor=pointer]: 1. What is the PMBOK Guide?
+                            - list [ref=e455]:
+                              - listitem [ref=e456]:
+                                - link "The certification program" [ref=e457] [cursor=pointer]:
+                                  - /url: http://127.0.0.1:8000/tech-lead-notes/sources/underneath-the-surface/01-what-is-the-pmbok-guide/01-the-certification-program/
+                                  - generic [ref=e458]: The certification program
+                              - listitem [ref=e459]:
+                                - link "The structured guide" [ref=e460] [cursor=pointer]:
+                                  - /url: http://127.0.0.1:8000/tech-lead-notes/sources/underneath-the-surface/01-what-is-the-pmbok-guide/02-the-structured-guide/
+                                  - generic [ref=e461]: The structured guide
+                              - listitem [ref=e462]:
+                                - link "The extension of the family" [ref=e463] [cursor=pointer]:
+                                  - /url: http://127.0.0.1:8000/tech-lead-notes/sources/underneath-the-surface/01-what-is-the-pmbok-guide/03-the-extension-of-the-family/
+                                  - generic [ref=e464]: The extension of the family
+                              - listitem [ref=e465]:
+                                - link "The nature of the PMBOK Guide" [ref=e466] [cursor=pointer]:
+                                  - /url: http://127.0.0.1:8000/tech-lead-notes/sources/underneath-the-surface/01-what-is-the-pmbok-guide/04-the-nature-of-the-pmbok-guide/
+                                  - generic [ref=e467]: The nature of the PMBOK Guide
+                              - listitem [ref=e468]:
+                                - link "The process of developing the PMBOK Guide" [ref=e469] [cursor=pointer]:
+                                  - /url: http://127.0.0.1:8000/tech-lead-notes/sources/underneath-the-surface/01-what-is-the-pmbok-guide/05-the-process-of-developing-the-pmbok-guide/
+                                  - generic [ref=e470]: The process of developing the PMBOK Guide
+                        - listitem [ref=e471]:
+                          - link "2. Understanding and Interpreting" [ref=e473] [cursor=pointer]:
+                            - /url: http://127.0.0.1:8000/tech-lead-notes/sources/underneath-the-surface/02-understanding-and-interpreting/
+                            - generic [ref=e474]: 2. Understanding and Interpreting
+                          - navigation [ref=e477]:
+                            - generic [ref=e478] [cursor=pointer]: 2. Understanding and Interpreting
+                            - list [ref=e480]:
+                              - listitem [ref=e481]:
+                                - link "PMBOK 7 principles" [ref=e483] [cursor=pointer]:
+                                  - /url: http://127.0.0.1:8000/tech-lead-notes/sources/underneath-the-surface/02-understanding-and-interpreting/01-pmbok-7-principles/
+                                  - generic [ref=e484]: PMBOK 7 principles
+                                - navigation [ref=e487]:
+                                  - generic [ref=e488] [cursor=pointer]: PMBOK 7 principles
+                                  - list [ref=e490]:
+                                    - listitem [ref=e491]:
+                                      - link "1. Stewardship" [ref=e492] [cursor=pointer]:
+                                        - /url: http://127.0.0.1:8000/tech-lead-notes/sources/underneath-the-surface/02-understanding-and-interpreting/01-pmbok-7-principles/01-be-a-diligent-respectful-and-caring-steward/
+                                        - generic [ref=e493]: 1. Stewardship
+                                    - listitem [ref=e494]:
+                                      - link "2. Collaborative team" [ref=e495] [cursor=pointer]:
+                                        - /url: http://127.0.0.1:8000/tech-lead-notes/sources/underneath-the-surface/02-understanding-and-interpreting/01-pmbok-7-principles/02-create-a-collaborative-project-team-environment/
+                                        - generic [ref=e496]: 2. Collaborative team
+                                    - listitem [ref=e497]:
+                                      - link "3. Engage stakeholders" [ref=e498] [cursor=pointer]:
+                                        - /url: http://127.0.0.1:8000/tech-lead-notes/sources/underneath-the-surface/02-understanding-and-interpreting/01-pmbok-7-principles/03-effectively-engage-with-stakeholders/
+                                        - generic [ref=e499]: 3. Engage stakeholders
+                                    - listitem [ref=e500]:
+                                      - link "4. Focus on value" [ref=e501] [cursor=pointer]:
+                                        - /url: http://127.0.0.1:8000/tech-lead-notes/sources/underneath-the-surface/02-understanding-and-interpreting/01-pmbok-7-principles/04-focus-on-value/
+                                        - generic [ref=e502]: 4. Focus on value
+                                    - listitem [ref=e503]:
+                                      - link "5. System interactions" [ref=e504] [cursor=pointer]:
+                                        - /url: http://127.0.0.1:8000/tech-lead-notes/sources/underneath-the-surface/02-understanding-and-interpreting/01-pmbok-7-principles/05-recognize-evaluate-and-respond-to-system-interactions/
+                                        - generic [ref=e505]: 5. System interactions
+                                    - listitem [ref=e506]:
+                                      - link "6. Leadership" [ref=e507] [cursor=pointer]:
+                                        - /url: http://127.0.0.1:8000/tech-lead-notes/sources/underneath-the-surface/02-understanding-and-interpreting/01-pmbok-7-principles/06-demonstrate-leadership-behaviors/
+                                        - generic [ref=e508]: 6. Leadership
+                                    - listitem [ref=e509]:
+                                      - link "7. Tailor based on context" [ref=e510] [cursor=pointer]:
+                                        - /url: http://127.0.0.1:8000/tech-lead-notes/sources/underneath-the-surface/02-understanding-and-interpreting/01-pmbok-7-principles/07-tailor-based-on-context/
+                                        - generic [ref=e511]: 7. Tailor based on context
+                                    - listitem [ref=e512]:
+                                      - link "8. Build quality in" [ref=e513] [cursor=pointer]:
+                                        - /url: http://127.0.0.1:8000/tech-lead-notes/sources/underneath-the-surface/02-understanding-and-interpreting/01-pmbok-7-principles/08-build-quality-into-processes-and-deliverables/
+                                        - generic [ref=e514]: 8. Build quality in
+                                    - listitem [ref=e515]:
+                                      - link "9. Optimize risk responses" [ref=e516] [cursor=pointer]:
+                                        - /url: http://127.0.0.1:8000/tech-lead-notes/sources/underneath-the-surface/02-understanding-and-interpreting/01-pmbok-7-principles/09-optimize-risk-responses/
+                                        - generic [ref=e517]: 9. Optimize risk responses
+                                    - listitem [ref=e518]:
+                                      - link "10. Navigate complexity" [ref=e519] [cursor=pointer]:
+                                        - /url: http://127.0.0.1:8000/tech-lead-notes/sources/underneath-the-surface/02-understanding-and-interpreting/01-pmbok-7-principles/10-navigate-complexity/
+                                        - generic [ref=e520]: 10. Navigate complexity
+                                    - listitem [ref=e521]:
+                                      - link "11. Adaptability and resiliency" [ref=e522] [cursor=pointer]:
+                                        - /url: http://127.0.0.1:8000/tech-lead-notes/sources/underneath-the-surface/02-understanding-and-interpreting/01-pmbok-7-principles/11-embrace-adaptability-and-resiliency/
+                                        - generic [ref=e523]: 11. Adaptability and resiliency
+                                    - listitem [ref=e524]:
+                                      - link "12. Enable change" [ref=e525] [cursor=pointer]:
+                                        - /url: http://127.0.0.1:8000/tech-lead-notes/sources/underneath-the-surface/02-understanding-and-interpreting/01-pmbok-7-principles/12-enable-change-to-achieve-the-envisioned-future-state/
+                                        - generic [ref=e526]: 12. Enable change
+                              - listitem [ref=e527]:
+                                - link "NUPP principles" [ref=e529] [cursor=pointer]:
+                                  - /url: http://127.0.0.1:8000/tech-lead-notes/sources/underneath-the-surface/02-understanding-and-interpreting/02-nupp-principles/
+                                  - generic [ref=e530]: NUPP principles
+                                - navigation [ref=e533]:
+                                  - generic [ref=e534] [cursor=pointer]: NUPP principles
+                                  - list [ref=e536]:
+                                    - listitem [ref=e537]:
+                                      - link "Results and truth over affiliations" [ref=e538] [cursor=pointer]:
+                                        - /url: http://127.0.0.1:8000/tech-lead-notes/sources/underneath-the-surface/02-understanding-and-interpreting/02-nupp-principles/01-prefer-results-and-the-truth-to-affiliations/
+                                        - generic [ref=e539]: Results and truth over affiliations
+                                    - listitem [ref=e540]:
+                                      - link "Preserve and optimize energy" [ref=e541] [cursor=pointer]:
+                                        - /url: http://127.0.0.1:8000/tech-lead-notes/sources/underneath-the-surface/02-understanding-and-interpreting/02-nupp-principles/02-preserve-and-optimize-energy-and-resources/
+                                        - generic [ref=e542]: Preserve and optimize energy
+                                    - listitem [ref=e543]:
+                                      - link "Always be proactive" [ref=e544] [cursor=pointer]:
+                                        - /url: http://127.0.0.1:8000/tech-lead-notes/sources/underneath-the-surface/02-understanding-and-interpreting/02-nupp-principles/03-always-be-proactive/
+                                        - generic [ref=e545]: Always be proactive
+                                    - listitem [ref=e546]:
+                                      - link "Weakest link" [ref=e547] [cursor=pointer]:
+                                        - /url: http://127.0.0.1:8000/tech-lead-notes/sources/underneath-the-surface/02-understanding-and-interpreting/02-nupp-principles/04-remember-that-a-chain-is-only-as-strong-as-its-weakest-link/
+                                        - generic [ref=e548]: Weakest link
+                                    - listitem [ref=e549]:
+                                      - link "Clear purpose" [ref=e550] [cursor=pointer]:
+                                        - /url: http://127.0.0.1:8000/tech-lead-notes/sources/underneath-the-surface/02-understanding-and-interpreting/02-nupp-principles/05-don-t-do-anything-without-a-clear-purpose/
+                                        - generic [ref=e551]: Clear purpose
+                                    - listitem [ref=e552]:
+                                      - link "Repeatable elements" [ref=e553] [cursor=pointer]:
+                                        - /url: http://127.0.0.1:8000/tech-lead-notes/sources/underneath-the-surface/02-understanding-and-interpreting/02-nupp-principles/06-use-repeatable-elements/
+                                        - generic [ref=e554]: Repeatable elements
+                              - listitem [ref=e555]:
+                                - link "PRINCE2 principles" [ref=e557] [cursor=pointer]:
+                                  - /url: http://127.0.0.1:8000/tech-lead-notes/sources/underneath-the-surface/02-understanding-and-interpreting/03-prince2-principles/
+                                  - generic [ref=e558]: PRINCE2 principles
+                                - navigation [ref=e561]:
+                                  - generic [ref=e562] [cursor=pointer]: PRINCE2 principles
+                                  - list [ref=e564]:
+                                    - listitem [ref=e565]:
+                                      - link "Continued business justification" [ref=e566] [cursor=pointer]:
+                                        - /url: http://127.0.0.1:8000/tech-lead-notes/sources/underneath-the-surface/02-understanding-and-interpreting/03-prince2-principles/01-continued-business-justification/
+                                        - generic [ref=e567]: Continued business justification
+                                    - listitem [ref=e568]:
+                                      - link "Learn from experience" [ref=e569] [cursor=pointer]:
+                                        - /url: http://127.0.0.1:8000/tech-lead-notes/sources/underneath-the-surface/02-understanding-and-interpreting/03-prince2-principles/02-learn-from-experience/
+                                        - generic [ref=e570]: Learn from experience
+                                    - listitem [ref=e571]:
+                                      - link "Defined roles and responsibilities" [ref=e572] [cursor=pointer]:
+                                        - /url: http://127.0.0.1:8000/tech-lead-notes/sources/underneath-the-surface/02-understanding-and-interpreting/03-prince2-principles/03-defined-roles-and-responsibilities/
+                                        - generic [ref=e573]: Defined roles and responsibilities
+                                    - listitem [ref=e574]:
+                                      - link "Manage by stages" [ref=e575] [cursor=pointer]:
+                                        - /url: http://127.0.0.1:8000/tech-lead-notes/sources/underneath-the-surface/02-understanding-and-interpreting/03-prince2-principles/04-manage-by-stages/
+                                        - generic [ref=e576]: Manage by stages
+                                    - listitem [ref=e577]:
+                                      - link "Manage by exception" [ref=e578] [cursor=pointer]:
+                                        - /url: http://127.0.0.1:8000/tech-lead-notes/sources/underneath-the-surface/02-understanding-and-interpreting/03-prince2-principles/05-manage-by-exception/
+                                        - generic [ref=e579]: Manage by exception
+                                    - listitem [ref=e580]:
+                                      - link "Focus on products" [ref=e581] [cursor=pointer]:
+                                        - /url: http://127.0.0.1:8000/tech-lead-notes/sources/underneath-the-surface/02-understanding-and-interpreting/03-prince2-principles/06-focus-on-products/
+                                        - generic [ref=e582]: Focus on products
+                                    - listitem [ref=e583]:
+                                      - link "Tailor to suit the project" [ref=e584] [cursor=pointer]:
+                                        - /url: http://127.0.0.1:8000/tech-lead-notes/sources/underneath-the-surface/02-understanding-and-interpreting/03-prince2-principles/07-tailor-to-suit-the-project/
+                                        - generic [ref=e585]: Tailor to suit the project
+                        - listitem [ref=e586]:
+                          - link "3. Selecting a Methodology" [ref=e588] [cursor=pointer]:
+                            - /url: http://127.0.0.1:8000/tech-lead-notes/sources/underneath-the-surface/03-selecting-a-methodology/
+                            - generic [ref=e589]: 3. Selecting a Methodology
+                          - navigation [ref=e592]:
+                            - generic [ref=e593] [cursor=pointer]: 3. Selecting a Methodology
+                            - list [ref=e595]:
+                              - listitem [ref=e596]:
+                                - link "P3.express" [ref=e597] [cursor=pointer]:
+                                  - /url: http://127.0.0.1:8000/tech-lead-notes/sources/underneath-the-surface/03-selecting-a-methodology/01-p3-express/
+                                  - generic [ref=e598]: P3.express
+                              - listitem [ref=e599]:
+                                - link "PRINCE2" [ref=e600] [cursor=pointer]:
+                                  - /url: http://127.0.0.1:8000/tech-lead-notes/sources/underneath-the-surface/03-selecting-a-methodology/02-prince2/
+                                  - generic [ref=e601]: PRINCE2
+                              - listitem [ref=e602]:
+                                - link "Scrum" [ref=e603] [cursor=pointer]:
+                                  - /url: http://127.0.0.1:8000/tech-lead-notes/sources/underneath-the-surface/03-selecting-a-methodology/03-scrum/
+                                  - generic [ref=e604]: Scrum
+                              - listitem [ref=e605]:
+                                - link "DSDM" [ref=e606] [cursor=pointer]:
+                                  - /url: http://127.0.0.1:8000/tech-lead-notes/sources/underneath-the-surface/03-selecting-a-methodology/04-dsdm/
+                                  - generic [ref=e607]: DSDM
+                        - listitem [ref=e608]:
+                          - link "4. Enriching the Methodology (Performance Domains)" [ref=e610] [cursor=pointer]:
+                            - /url: http://127.0.0.1:8000/tech-lead-notes/sources/underneath-the-surface/04-enriching-the-methodology/
+                            - generic [ref=e611]: 4. Enriching the Methodology (Performance Domains)
+                          - navigation [ref=e614]:
+                            - generic [ref=e615] [cursor=pointer]: 4. Enriching the Methodology (Performance Domains)
+                            - list [ref=e617]:
+                              - listitem [ref=e618]:
+                                - link "Stakeholders" [ref=e619] [cursor=pointer]:
+                                  - /url: http://127.0.0.1:8000/tech-lead-notes/sources/underneath-the-surface/04-enriching-the-methodology/01-stakeholders/
+                                  - generic [ref=e620]: Stakeholders
+                              - listitem [ref=e621]:
+                                - link "Team" [ref=e622] [cursor=pointer]:
+                                  - /url: http://127.0.0.1:8000/tech-lead-notes/sources/underneath-the-surface/04-enriching-the-methodology/02-team/
+                                  - generic [ref=e623]: Team
+                              - listitem [ref=e624]:
+                                - link "Development approach and life cycle" [ref=e625] [cursor=pointer]:
+                                  - /url: http://127.0.0.1:8000/tech-lead-notes/sources/underneath-the-surface/04-enriching-the-methodology/03-development-approach-and-life-cycle/
+                                  - generic [ref=e626]: Development approach and life cycle
+                              - listitem [ref=e627]:
+                                - link "Planning" [ref=e628] [cursor=pointer]:
+                                  - /url: http://127.0.0.1:8000/tech-lead-notes/sources/underneath-the-surface/04-enriching-the-methodology/04-planning/
+                                  - generic [ref=e629]: Planning
+                              - listitem [ref=e630]:
+                                - link "Project Work" [ref=e631] [cursor=pointer]:
+                                  - /url: http://127.0.0.1:8000/tech-lead-notes/sources/underneath-the-surface/04-enriching-the-methodology/05-project-work/
+                                  - generic [ref=e632]: Project Work
+                              - listitem [ref=e633]:
+                                - link "Measurement" [ref=e634] [cursor=pointer]:
+                                  - /url: http://127.0.0.1:8000/tech-lead-notes/sources/underneath-the-surface/04-enriching-the-methodology/06-measurement/
+                                  - generic [ref=e635]: Measurement
+                              - listitem [ref=e636]:
+                                - link "Delivery" [ref=e637] [cursor=pointer]:
+                                  - /url: http://127.0.0.1:8000/tech-lead-notes/sources/underneath-the-surface/04-enriching-the-methodology/07-delivery/
+                                  - generic [ref=e638]: Delivery
+                              - listitem [ref=e639]:
+                                - link "Uncertainty" [ref=e640] [cursor=pointer]:
+                                  - /url: http://127.0.0.1:8000/tech-lead-notes/sources/underneath-the-surface/04-enriching-the-methodology/08-uncertainty/
+                                  - generic [ref=e641]: Uncertainty
+                        - listitem [ref=e642]:
+                          - link "5. Where to Go from Here" [ref=e643] [cursor=pointer]:
+                            - /url: http://127.0.0.1:8000/tech-lead-notes/sources/underneath-the-surface/05-where-to-go-from-here/
+                            - generic [ref=e644]: 5. Where to Go from Here
+                  - listitem [ref=e645]:
+                    - link "The 2020 Scrum Guide" [ref=e647] [cursor=pointer]:
+                      - /url: http://127.0.0.1:8000/tech-lead-notes/sources/scrum-guide/
+                      - generic [ref=e648]: The 2020 Scrum Guide
+                    - navigation [ref=e651]:
+                      - generic [ref=e652] [cursor=pointer]: The 2020 Scrum Guide
+                      - list [ref=e654]:
+                        - listitem [ref=e655]:
+                          - link "1. Purpose of the Scrum Guide" [ref=e656] [cursor=pointer]:
+                            - /url: http://127.0.0.1:8000/tech-lead-notes/sources/scrum-guide/01-purpose-of-the-scrum-guide/
+                            - generic [ref=e657]: 1. Purpose of the Scrum Guide
+                        - listitem [ref=e658]:
+                          - link "2. Scrum Definition" [ref=e659] [cursor=pointer]:
+                            - /url: http://127.0.0.1:8000/tech-lead-notes/sources/scrum-guide/02-scrum-definition/
+                            - generic [ref=e660]: 2. Scrum Definition
+                        - listitem [ref=e661]:
+                          - link "3. Scrum Theory" [ref=e663] [cursor=pointer]:
+                            - /url: http://127.0.0.1:8000/tech-lead-notes/sources/scrum-guide/03-scrum-theory/
+                            - generic [ref=e664]: 3. Scrum Theory
+                          - navigation [ref=e667]:
+                            - generic [ref=e668] [cursor=pointer]: 3. Scrum Theory
+                            - list [ref=e670]:
+                              - listitem [ref=e671]:
+                                - link "Transparency" [ref=e672] [cursor=pointer]:
+                                  - /url: http://127.0.0.1:8000/tech-lead-notes/sources/scrum-guide/03-scrum-theory/01-transparency/
+                                  - generic [ref=e673]: Transparency
+                              - listitem [ref=e674]:
+                                - link "Inspection" [ref=e675] [cursor=pointer]:
+                                  - /url: http://127.0.0.1:8000/tech-lead-notes/sources/scrum-guide/03-scrum-theory/02-inspection/
+                                  - generic [ref=e676]: Inspection
+                              - listitem [ref=e677]:
+                                - link "Adaptation" [ref=e678] [cursor=pointer]:
+                                  - /url: http://127.0.0.1:8000/tech-lead-notes/sources/scrum-guide/03-scrum-theory/03-adaptation/
+                                  - generic [ref=e679]: Adaptation
+                        - listitem [ref=e680]:
+                          - link "4. Scrum Values" [ref=e681] [cursor=pointer]:
+                            - /url: http://127.0.0.1:8000/tech-lead-notes/sources/scrum-guide/04-scrum-values/
+                            - generic [ref=e682]: 4. Scrum Values
+                        - listitem [ref=e683]:
+                          - link "5. Scrum Team" [ref=e685] [cursor=pointer]:
+                            - /url: http://127.0.0.1:8000/tech-lead-notes/sources/scrum-guide/05-scrum-team/
+                            - generic [ref=e686]: 5. Scrum Team
+                          - navigation [ref=e689]:
+                            - generic [ref=e690] [cursor=pointer]: 5. Scrum Team
+                            - list [ref=e692]:
+                              - listitem [ref=e693]:
+                                - link "Developers" [ref=e694] [cursor=pointer]:
+                                  - /url: http://127.0.0.1:8000/tech-lead-notes/sources/scrum-guide/05-scrum-team/01-developers/
+                                  - generic [ref=e695]: Developers
+                              - listitem [ref=e696]:
+                                - link "Product Owner" [ref=e697] [cursor=pointer]:
+                                  - /url: http://127.0.0.1:8000/tech-lead-notes/sources/scrum-guide/05-scrum-team/02-product-owner/
+                                  - generic [ref=e698]: Product Owner
+                              - listitem [ref=e699]:
+                                - link "Scrum Master" [ref=e700] [cursor=pointer]:
+                                  - /url: http://127.0.0.1:8000/tech-lead-notes/sources/scrum-guide/05-scrum-team/03-scrum-master/
+                                  - generic [ref=e701]: Scrum Master
+                        - listitem [ref=e702]:
+                          - link "6. Scrum Events" [ref=e704] [cursor=pointer]:
+                            - /url: http://127.0.0.1:8000/tech-lead-notes/sources/scrum-guide/06-scrum-events/
+                            - generic [ref=e705]: 6. Scrum Events
+                          - navigation [ref=e708]:
+                            - generic [ref=e709] [cursor=pointer]: 6. Scrum Events
+                            - list [ref=e711]:
+                              - listitem [ref=e712]:
+                                - link "The Sprint" [ref=e713] [cursor=pointer]:
+                                  - /url: http://127.0.0.1:8000/tech-lead-notes/sources/scrum-guide/06-scrum-events/01-the-sprint/
+                                  - generic [ref=e714]: The Sprint
+                              - listitem [ref=e715]:
+                                - link "Sprint Planning" [ref=e716] [cursor=pointer]:
+                                  - /url: http://127.0.0.1:8000/tech-lead-notes/sources/scrum-guide/06-scrum-events/02-sprint-planning/
+                                  - generic [ref=e717]: Sprint Planning
+                              - listitem [ref=e718]:
+                                - link "Daily Scrum" [ref=e719] [cursor=pointer]:
+                                  - /url: http://127.0.0.1:8000/tech-lead-notes/sources/scrum-guide/06-scrum-events/03-daily-scrum/
+                                  - generic [ref=e720]: Daily Scrum
+                              - listitem [ref=e721]:
+                                - link "Sprint Review" [ref=e722] [cursor=pointer]:
+                                  - /url: http://127.0.0.1:8000/tech-lead-notes/sources/scrum-guide/06-scrum-events/04-sprint-review/
+                                  - generic [ref=e723]: Sprint Review
+                              - listitem [ref=e724]:
+                                - link "Sprint Retrospective" [ref=e725] [cursor=pointer]:
+                                  - /url: http://127.0.0.1:8000/tech-lead-notes/sources/scrum-guide/06-scrum-events/05-sprint-retrospective/
+                                  - generic [ref=e726]: Sprint Retrospective
+                        - listitem [ref=e727]:
+                          - link "7. Scrum Artifacts" [ref=e729] [cursor=pointer]:
+                            - /url: http://127.0.0.1:8000/tech-lead-notes/sources/scrum-guide/07-scrum-artifacts/
+                            - generic [ref=e730]: 7. Scrum Artifacts
+                          - navigation [ref=e733]:
+                            - generic [ref=e734] [cursor=pointer]: 7. Scrum Artifacts
+                            - list [ref=e736]:
+                              - listitem [ref=e737]:
+                                - link "Product Backlog" [ref=e738] [cursor=pointer]:
+                                  - /url: http://127.0.0.1:8000/tech-lead-notes/sources/scrum-guide/07-scrum-artifacts/01-product-backlog/
+                                  - generic [ref=e739]: Product Backlog
+                              - listitem [ref=e740]:
+                                - link "Sprint Backlog" [ref=e741] [cursor=pointer]:
+                                  - /url: http://127.0.0.1:8000/tech-lead-notes/sources/scrum-guide/07-scrum-artifacts/02-sprint-backlog/
+                                  - generic [ref=e742]: Sprint Backlog
+                              - listitem [ref=e743]:
+                                - link "Increment" [ref=e744] [cursor=pointer]:
+                                  - /url: http://127.0.0.1:8000/tech-lead-notes/sources/scrum-guide/07-scrum-artifacts/03-increment/
+                                  - generic [ref=e745]: Increment
+                        - listitem [ref=e746]:
+                          - link "8. End Note" [ref=e747] [cursor=pointer]:
+                            - /url: http://127.0.0.1:8000/tech-lead-notes/sources/scrum-guide/08-end-note/
+                            - generic [ref=e748]: 8. End Note
+                  - listitem [ref=e749]:
+                    - link "Scrum Guide Expansion Pack (v2026.1)" [ref=e751] [cursor=pointer]:
+                      - /url: http://127.0.0.1:8000/tech-lead-notes/sources/scrum-guide-expanded/
+                      - generic [ref=e752]: Scrum Guide Expansion Pack (v2026.1)
+                    - navigation [ref=e755]:
+                      - generic [ref=e756] [cursor=pointer]: Scrum Guide Expansion Pack (v2026.1)
+                      - list [ref=e758]:
+                        - listitem [ref=e759]:
+                          - link "1. Background" [ref=e760] [cursor=pointer]:
+                            - /url: http://127.0.0.1:8000/tech-lead-notes/sources/scrum-guide-expanded/01-background/
+                            - generic [ref=e761]: 1. Background
+                        - listitem [ref=e762]:
+                          - link "2. Purpose of the Expansion Pack" [ref=e763] [cursor=pointer]:
+                            - /url: http://127.0.0.1:8000/tech-lead-notes/sources/scrum-guide-expanded/02-purpose-of-the-scrum-guide-expansion-pack/
+                            - generic [ref=e764]: 2. Purpose of the Expansion Pack
+                        - listitem [ref=e765]:
+                          - link "3. Scrum in a Nutshell" [ref=e766] [cursor=pointer]:
+                            - /url: http://127.0.0.1:8000/tech-lead-notes/sources/scrum-guide-expanded/03-scrum-in-a-nutshell/
+                            - generic [ref=e767]: 3. Scrum in a Nutshell
+                        - listitem [ref=e768]:
+                          - link "4. Supporting and Complementary Theory" [ref=e770] [cursor=pointer]:
+                            - /url: http://127.0.0.1:8000/tech-lead-notes/sources/scrum-guide-expanded/04-supporting-and-complementary-theory/
+                            - generic [ref=e771]: 4. Supporting and Complementary Theory
+                          - navigation [ref=e774]:
+                            - generic [ref=e775] [cursor=pointer]: 4. Supporting and Complementary Theory
+                            - list [ref=e777]:
+                              - listitem [ref=e778]:
+                                - link "Complexity — The Case for Scrum" [ref=e779] [cursor=pointer]:
+                                  - /url: http://127.0.0.1:8000/tech-lead-notes/sources/scrum-guide-expanded/04-supporting-and-complementary-theory/01-complexity-the-case-for-scrum/
+                                  - generic [ref=e780]: Complexity — The Case for Scrum
+                              - listitem [ref=e781]:
+                                - link "Emergence" [ref=e782] [cursor=pointer]:
+                                  - /url: http://127.0.0.1:8000/tech-lead-notes/sources/scrum-guide-expanded/04-supporting-and-complementary-theory/02-emergence/
+                                  - generic [ref=e783]: Emergence
+                              - listitem [ref=e784]:
+                                - link "Self-Managing Scrum Team" [ref=e785] [cursor=pointer]:
+                                  - /url: http://127.0.0.1:8000/tech-lead-notes/sources/scrum-guide-expanded/04-supporting-and-complementary-theory/03-self-managing-scrum-team/
+                                  - generic [ref=e786]: Self-Managing Scrum Team
+                              - listitem [ref=e787]:
+                                - link "Professionalism" [ref=e788] [cursor=pointer]:
+                                  - /url: http://127.0.0.1:8000/tech-lead-notes/sources/scrum-guide-expanded/04-supporting-and-complementary-theory/04-professionalism/
+                                  - generic [ref=e789]: Professionalism
+                              - listitem [ref=e790]:
+                                - link "Lean Thinking" [ref=e791] [cursor=pointer]:
+                                  - /url: http://127.0.0.1:8000/tech-lead-notes/sources/scrum-guide-expanded/04-supporting-and-complementary-theory/05-lean-thinking/
+                                  - generic [ref=e792]: Lean Thinking
+                              - listitem [ref=e793]:
+                                - link "Empiricism" [ref=e794] [cursor=pointer]:
+                                  - /url: http://127.0.0.1:8000/tech-lead-notes/sources/scrum-guide-expanded/04-supporting-and-complementary-theory/06-empiricism/
+                                  - generic [ref=e795]: Empiricism
+                              - listitem [ref=e796]:
+                                - link "Cadence" [ref=e797] [cursor=pointer]:
+                                  - /url: http://127.0.0.1:8000/tech-lead-notes/sources/scrum-guide-expanded/04-supporting-and-complementary-theory/07-cadence/
+                                  - generic [ref=e798]: Cadence
+                        - listitem [ref=e799]:
+                          - link "5. The Three Pillars" [ref=e801] [cursor=pointer]:
+                            - /url: http://127.0.0.1:8000/tech-lead-notes/sources/scrum-guide-expanded/05-the-three-pillars-of-scrum-s-empirical-process-control/
+                            - generic [ref=e802]: 5. The Three Pillars
+                          - navigation [ref=e805]:
+                            - generic [ref=e806] [cursor=pointer]: 5. The Three Pillars
+                            - list [ref=e808]:
+                              - listitem [ref=e809]:
+                                - link "Transparency" [ref=e810] [cursor=pointer]:
+                                  - /url: http://127.0.0.1:8000/tech-lead-notes/sources/scrum-guide-expanded/05-the-three-pillars-of-scrum-s-empirical-process-control/01-transparency/
+                                  - generic [ref=e811]: Transparency
+                              - listitem [ref=e812]:
+                                - link "Inspection" [ref=e813] [cursor=pointer]:
+                                  - /url: http://127.0.0.1:8000/tech-lead-notes/sources/scrum-guide-expanded/05-the-three-pillars-of-scrum-s-empirical-process-control/02-inspection/
+                                  - generic [ref=e814]: Inspection
+                              - listitem [ref=e815]:
+                                - link "Adaptation" [ref=e816] [cursor=pointer]:
+                                  - /url: http://127.0.0.1:8000/tech-lead-notes/sources/scrum-guide-expanded/05-the-three-pillars-of-scrum-s-empirical-process-control/03-adaptation/
+                                  - generic [ref=e817]: Adaptation
+                        - listitem [ref=e818]:
+                          - link "6. The Scrum Values" [ref=e819] [cursor=pointer]:
+                            - /url: http://127.0.0.1:8000/tech-lead-notes/sources/scrum-guide-expanded/06-the-scrum-values/
+                            - generic [ref=e820]: 6. The Scrum Values
+                        - listitem [ref=e821]:
+                          - link "7. More Supporting and Complementary Theory" [ref=e823] [cursor=pointer]:
+                            - /url: http://127.0.0.1:8000/tech-lead-notes/sources/scrum-guide-expanded/07-more-supporting-and-complementary-theory/
+                            - generic [ref=e824]: 7. More Supporting and Complementary Theory
+                          - navigation [ref=e827]:
+                            - generic [ref=e828] [cursor=pointer]: 7. More Supporting and Complementary Theory
+                            - list [ref=e830]:
+                              - listitem [ref=e831]:
+                                - link "Product Thinking" [ref=e832] [cursor=pointer]:
+                                  - /url: http://127.0.0.1:8000/tech-lead-notes/sources/scrum-guide-expanded/07-more-supporting-and-complementary-theory/01-product-thinking/
+                                  - generic [ref=e833]: Product Thinking
+                              - listitem [ref=e834]:
+                                - link "Systems Thinking" [ref=e835] [cursor=pointer]:
+                                  - /url: http://127.0.0.1:8000/tech-lead-notes/sources/scrum-guide-expanded/07-more-supporting-and-complementary-theory/02-systems-thinking/
+                                  - generic [ref=e836]: Systems Thinking
+                              - listitem [ref=e837]:
+                                - link "Discovery" [ref=e838] [cursor=pointer]:
+                                  - /url: http://127.0.0.1:8000/tech-lead-notes/sources/scrum-guide-expanded/07-more-supporting-and-complementary-theory/03-discovery/
+                                  - generic [ref=e839]: Discovery
+                              - listitem [ref=e840]:
+                                - link "Leadership" [ref=e841] [cursor=pointer]:
+                                  - /url: http://127.0.0.1:8000/tech-lead-notes/sources/scrum-guide-expanded/07-more-supporting-and-complementary-theory/04-leadership/
+                                  - generic [ref=e842]: Leadership
+                              - listitem [ref=e843]:
+                                - link "First Principles Thinking" [ref=e844] [cursor=pointer]:
+                                  - /url: http://127.0.0.1:8000/tech-lead-notes/sources/scrum-guide-expanded/07-more-supporting-and-complementary-theory/05-first-principles-thinking/
+                                  - generic [ref=e845]: First Principles Thinking
+                              - listitem [ref=e846]:
+                                - link "People and Change" [ref=e847] [cursor=pointer]:
+                                  - /url: http://127.0.0.1:8000/tech-lead-notes/sources/scrum-guide-expanded/07-more-supporting-and-complementary-theory/06-people-and-change/
+                                  - generic [ref=e848]: People and Change
+                        - listitem [ref=e849]:
+                          - link "8. The Scrum Roles" [ref=e851] [cursor=pointer]:
+                            - /url: http://127.0.0.1:8000/tech-lead-notes/sources/scrum-guide-expanded/08-the-scrum-roles-in-the-expansion-pack/
+                            - generic [ref=e852]: 8. The Scrum Roles
+                          - navigation [ref=e855]:
+                            - generic [ref=e856] [cursor=pointer]: 8. The Scrum Roles
+                            - list [ref=e858]:
+                              - listitem [ref=e859]:
+                                - link "Stakeholder" [ref=e860] [cursor=pointer]:
+                                  - /url: http://127.0.0.1:8000/tech-lead-notes/sources/scrum-guide-expanded/08-the-scrum-roles-in-the-expansion-pack/01-stakeholder/
+                                  - generic [ref=e861]: Stakeholder
+                              - listitem [ref=e862]:
+                                - link "Supporter" [ref=e863] [cursor=pointer]:
+                                  - /url: http://127.0.0.1:8000/tech-lead-notes/sources/scrum-guide-expanded/08-the-scrum-roles-in-the-expansion-pack/02-supporter/
+                                  - generic [ref=e864]: Supporter
+                              - listitem [ref=e865]:
+                                - link "Artificial Intelligence" [ref=e866] [cursor=pointer]:
+                                  - /url: http://127.0.0.1:8000/tech-lead-notes/sources/scrum-guide-expanded/08-the-scrum-roles-in-the-expansion-pack/03-artificial-intelligence/
+                                  - generic [ref=e867]: Artificial Intelligence
+                              - listitem [ref=e868]:
+                                - link "Product Developer" [ref=e869] [cursor=pointer]:
+                                  - /url: http://127.0.0.1:8000/tech-lead-notes/sources/scrum-guide-expanded/08-the-scrum-roles-in-the-expansion-pack/04-product-developer/
+                                  - generic [ref=e870]: Product Developer
+                              - listitem [ref=e871]:
+                                - link "Product Owner" [ref=e872] [cursor=pointer]:
+                                  - /url: http://127.0.0.1:8000/tech-lead-notes/sources/scrum-guide-expanded/08-the-scrum-roles-in-the-expansion-pack/05-product-owner/
+                                  - generic [ref=e873]: Product Owner
+                              - listitem [ref=e874]:
+                                - link "Scrum Master" [ref=e875] [cursor=pointer]:
+                                  - /url: http://127.0.0.1:8000/tech-lead-notes/sources/scrum-guide-expanded/08-the-scrum-roles-in-the-expansion-pack/06-scrum-master/
+                                  - generic [ref=e876]: Scrum Master
+                        - listitem [ref=e877]:
+                          - link "9. The Scrum Artifacts" [ref=e879] [cursor=pointer]:
+                            - /url: http://127.0.0.1:8000/tech-lead-notes/sources/scrum-guide-expanded/09-the-scrum-artifacts-in-the-expansion-pack/
+                            - generic [ref=e880]: 9. The Scrum Artifacts
+                          - navigation [ref=e883]:
+                            - generic [ref=e884] [cursor=pointer]: 9. The Scrum Artifacts
+                            - list [ref=e886]:
+                              - listitem [ref=e887]:
+                                - link "Product" [ref=e888] [cursor=pointer]:
+                                  - /url: http://127.0.0.1:8000/tech-lead-notes/sources/scrum-guide-expanded/09-the-scrum-artifacts-in-the-expansion-pack/01-product/
+                                  - generic [ref=e889]: Product
+                              - listitem [ref=e890]:
+                                - link "Commitment — Definition of Outcome Done" [ref=e891] [cursor=pointer]:
+                                  - /url: http://127.0.0.1:8000/tech-lead-notes/sources/scrum-guide-expanded/09-the-scrum-artifacts-in-the-expansion-pack/02-commitment-definition-of-outcome-done/
+                                  - generic [ref=e892]: Commitment — Definition of Outcome Done
+                              - listitem [ref=e893]:
+                                - link "Increment" [ref=e894] [cursor=pointer]:
+                                  - /url: http://127.0.0.1:8000/tech-lead-notes/sources/scrum-guide-expanded/09-the-scrum-artifacts-in-the-expansion-pack/03-increment/
+                                  - generic [ref=e895]: Increment
+                              - listitem [ref=e896]:
+                                - link "Commitment — Definition of Output Done" [ref=e897] [cursor=pointer]:
+                                  - /url: http://127.0.0.1:8000/tech-lead-notes/sources/scrum-guide-expanded/09-the-scrum-artifacts-in-the-expansion-pack/04-commitment-definition-of-output-done/
+                                  - generic [ref=e898]: Commitment — Definition of Output Done
+                              - listitem [ref=e899]:
+                                - link "Product Backlog" [ref=e900] [cursor=pointer]:
+                                  - /url: http://127.0.0.1:8000/tech-lead-notes/sources/scrum-guide-expanded/09-the-scrum-artifacts-in-the-expansion-pack/05-product-backlog/
+                                  - generic [ref=e901]: Product Backlog
+                              - listitem [ref=e902]:
+                                - link "Product Backlog Item" [ref=e903] [cursor=pointer]:
+                                  - /url: http://127.0.0.1:8000/tech-lead-notes/sources/scrum-guide-expanded/09-the-scrum-artifacts-in-the-expansion-pack/06-product-backlog-item/
+                                  - generic [ref=e904]: Product Backlog Item
+                              - listitem [ref=e905]:
+                                - link "Acceptance Criteria" [ref=e906] [cursor=pointer]:
+                                  - /url: http://127.0.0.1:8000/tech-lead-notes/sources/scrum-guide-expanded/09-the-scrum-artifacts-in-the-expansion-pack/07-acceptance-criteria/
+                                  - generic [ref=e907]: Acceptance Criteria
+                              - listitem [ref=e908]:
+                                - link "Refinement" [ref=e909] [cursor=pointer]:
+                                  - /url: http://127.0.0.1:8000/tech-lead-notes/sources/scrum-guide-expanded/09-the-scrum-artifacts-in-the-expansion-pack/08-refinement/
+                                  - generic [ref=e910]: Refinement
+                              - listitem [ref=e911]:
+                                - link "Commitment — Product Goal" [ref=e912] [cursor=pointer]:
+                                  - /url: http://127.0.0.1:8000/tech-lead-notes/sources/scrum-guide-expanded/09-the-scrum-artifacts-in-the-expansion-pack/09-commitment-product-goal/
+                                  - generic [ref=e913]: Commitment — Product Goal
+                              - listitem [ref=e914]:
+                                - link "What about a Product Vision?" [ref=e915] [cursor=pointer]:
+                                  - /url: http://127.0.0.1:8000/tech-lead-notes/sources/scrum-guide-expanded/09-the-scrum-artifacts-in-the-expansion-pack/10-what-about-a-product-vision/
+                                  - generic [ref=e916]: What about a Product Vision?
+                              - listitem [ref=e917]:
+                                - link "Sprint Backlog" [ref=e918] [cursor=pointer]:
+                                  - /url: http://127.0.0.1:8000/tech-lead-notes/sources/scrum-guide-expanded/09-the-scrum-artifacts-in-the-expansion-pack/11-sprint-backlog/
+                                  - generic [ref=e919]: Sprint Backlog
+                              - listitem [ref=e920]:
+                                - link "Commitment — Sprint Goal" [ref=e921] [cursor=pointer]:
+                                  - /url: http://127.0.0.1:8000/tech-lead-notes/sources/scrum-guide-expanded/09-the-scrum-artifacts-in-the-expansion-pack/12-commitment-sprint-goal/
+                                  - generic [ref=e922]: Commitment — Sprint Goal
+                        - listitem [ref=e923]:
+                          - link "10. The Scrum Events" [ref=e925] [cursor=pointer]:
+                            - /url: http://127.0.0.1:8000/tech-lead-notes/sources/scrum-guide-expanded/10-the-scrum-events-in-the-expansion-pack/
+                            - generic [ref=e926]: 10. The Scrum Events
+                          - navigation [ref=e929]:
+                            - generic [ref=e930] [cursor=pointer]: 10. The Scrum Events
+                            - list [ref=e932]:
+                              - listitem [ref=e933]:
+                                - link "The Sprint" [ref=e934] [cursor=pointer]:
+                                  - /url: http://127.0.0.1:8000/tech-lead-notes/sources/scrum-guide-expanded/10-the-scrum-events-in-the-expansion-pack/01-the-sprint/
+                                  - generic [ref=e935]: The Sprint
+                              - listitem [ref=e936]:
+                                - link "Sprint Planning" [ref=e937] [cursor=pointer]:
+                                  - /url: http://127.0.0.1:8000/tech-lead-notes/sources/scrum-guide-expanded/10-the-scrum-events-in-the-expansion-pack/02-sprint-planning/
+                                  - generic [ref=e938]: Sprint Planning
+                              - listitem [ref=e939]:
+                                - link "The Why for the Sprint" [ref=e940] [cursor=pointer]:
+                                  - /url: http://127.0.0.1:8000/tech-lead-notes/sources/scrum-guide-expanded/10-the-scrum-events-in-the-expansion-pack/03-the-why-for-the-sprint/
+                                  - generic [ref=e941]: The Why for the Sprint
+                              - listitem [ref=e942]:
+                                - link "The What toward the Why" [ref=e943] [cursor=pointer]:
+                                  - /url: http://127.0.0.1:8000/tech-lead-notes/sources/scrum-guide-expanded/10-the-scrum-events-in-the-expansion-pack/04-the-what-toward-the-why/
+                                  - generic [ref=e944]: The What toward the Why
+                              - listitem [ref=e945]:
+                                - link "The How for the What" [ref=e946] [cursor=pointer]:
+                                  - /url: http://127.0.0.1:8000/tech-lead-notes/sources/scrum-guide-expanded/10-the-scrum-events-in-the-expansion-pack/05-the-how-for-the-what/
+                                  - generic [ref=e947]: The How for the What
+                              - listitem [ref=e948]:
+                                - link "Daily Scrum" [ref=e949] [cursor=pointer]:
+                                  - /url: http://127.0.0.1:8000/tech-lead-notes/sources/scrum-guide-expanded/10-the-scrum-events-in-the-expansion-pack/06-daily-scrum/
+                                  - generic [ref=e950]: Daily Scrum
+                              - listitem [ref=e951]:
+                                - link "Sprint Review" [ref=e952] [cursor=pointer]:
+                                  - /url: http://127.0.0.1:8000/tech-lead-notes/sources/scrum-guide-expanded/10-the-scrum-events-in-the-expansion-pack/07-sprint-review/
+                                  - generic [ref=e953]: Sprint Review
+                              - listitem [ref=e954]:
+                                - link "Sprint Retrospective" [ref=e955] [cursor=pointer]:
+                                  - /url: http://127.0.0.1:8000/tech-lead-notes/sources/scrum-guide-expanded/10-the-scrum-events-in-the-expansion-pack/08-sprint-retrospective/
+                                  - generic [ref=e956]: Sprint Retrospective
+                        - listitem [ref=e957]:
+                          - link "11. End Note" [ref=e958] [cursor=pointer]:
+                            - /url: http://127.0.0.1:8000/tech-lead-notes/sources/scrum-guide-expanded/11-end-note/
+                            - generic [ref=e959]: 11. End Note
+                        - listitem [ref=e960]:
+                          - link "12. Acknowledgments" [ref=e961] [cursor=pointer]:
+                            - /url: http://127.0.0.1:8000/tech-lead-notes/sources/scrum-guide-expanded/12-acknowledgments/
+                            - generic [ref=e962]: 12. Acknowledgments
+                        - listitem [ref=e963]:
+                          - link "13. Attribution" [ref=e964] [cursor=pointer]:
+                            - /url: http://127.0.0.1:8000/tech-lead-notes/sources/scrum-guide-expanded/13-attribution-for-the-scrum-guide-expansion-pack-collection/
+                            - generic [ref=e965]: 13. Attribution
+                        - listitem [ref=e966]:
+                          - link "14. References" [ref=e967] [cursor=pointer]:
+                            - /url: http://127.0.0.1:8000/tech-lead-notes/sources/scrum-guide-expanded/14-references/
+                            - generic [ref=e968]: 14. References
+                  - listitem [ref=e969]:
+                    - link "DORA Metrics in Jira" [ref=e971] [cursor=pointer]:
+                      - /url: http://127.0.0.1:8000/tech-lead-notes/sources/dora-metrics-jira/
+                      - generic [ref=e972]: DORA Metrics in Jira
+                    - navigation [ref=e975]:
+                      - generic [ref=e976] [cursor=pointer]: DORA Metrics in Jira
+                      - list [ref=e978]:
+                        - listitem [ref=e979]:
+                          - link "1. Introduction (methodology and indicators)" [ref=e980] [cursor=pointer]:
+                            - /url: http://127.0.0.1:8000/tech-lead-notes/sources/dora-metrics-jira/01-1-introduction-methodology-and-indicators/
+                            - generic [ref=e981]: 1. Introduction (methodology and indicators)
+                        - listitem [ref=e982]:
+                          - link "2. Ticket discipline rules" [ref=e983] [cursor=pointer]:
+                            - /url: http://127.0.0.1:8000/tech-lead-notes/sources/dora-metrics-jira/02-2-ticket-discipline-rules/
+                            - generic [ref=e984]: 2. Ticket discipline rules
+                        - listitem [ref=e985]:
+                          - link "3. Managing metrics from the GitHub side" [ref=e986] [cursor=pointer]:
+                            - /url: http://127.0.0.1:8000/tech-lead-notes/sources/dora-metrics-jira/03-3-managing-metrics-from-the-github-side/
+                            - generic [ref=e987]: 3. Managing metrics from the GitHub side
+                        - listitem [ref=e988]:
+                          - link "4. Jira setup checklist" [ref=e989] [cursor=pointer]:
+                            - /url: http://127.0.0.1:8000/tech-lead-notes/sources/dora-metrics-jira/04-4-jira-setup-checklist/
+                            - generic [ref=e990]: 4. Jira setup checklist
+                        - listitem [ref=e991]:
+                          - link "Appendix — common pitfalls" [ref=e992] [cursor=pointer]:
+                            - /url: http://127.0.0.1:8000/tech-lead-notes/sources/dora-metrics-jira/05-appendix-common-pitfalls-and-how-to-avoid-them/
+                            - generic [ref=e993]: Appendix — common pitfalls
+        - article [ref=e995]:
+          - navigation [ref=e996]:
+            - generic [ref=e997]: framework
+            - generic [ref=e998]: landing
+            - generic [ref=e999]: multi-source
+            - generic [ref=e1000]: tech-lead
+          - link "Edit this page" [ref=e1001] [cursor=pointer]:
+            - /url: https://github.com/OpenMindUA/tech-lead-notes/edit/main/docs/index.md
+            - img [ref=e1002]
+          - heading "Tech Lead Notes ¶" [level=1] [ref=e1004]:
+            - text: Tech Lead Notes
+            - link "¶" [ref=e1005] [cursor=pointer]:
+              - /url: http://127.0.0.1:8000/tech-lead-notes/#tech-lead-notes
+          - paragraph [ref=e1006]: Operational playbook for tech leads — a multi-source, three-tier mirror of CC-licensed project-management, Scrum, and engineering- effectiveness resources, split into navigable chunks with YAML frontmatter so humans, search engines and LLM agents can use them.
+          - heading "Three tiers ¶" [level=2] [ref=e1007]:
+            - text: Three tiers
+            - link "¶" [ref=e1008] [cursor=pointer]:
+              - /url: http://127.0.0.1:8000/tech-lead-notes/#three-tiers
+          - table [ref=e1011]:
+            - rowgroup [ref=e1012]:
+              - row "Tier Content When to use" [ref=e1013]:
+                - columnheader "Tier" [ref=e1014]
+                - columnheader "Content" [ref=e1015]
+                - columnheader "When to use" [ref=e1016]
+            - rowgroup [ref=e1017]:
+              - row "1 — Agent index One-line catalog of every concept. Stuff into a system prompt." [ref=e1018]:
+                - cell "1 — Agent index" [ref=e1019]:
+                  - strong [ref=e1020]:
+                    - text: 1 —
+                    - link "Agent index" [ref=e1021] [cursor=pointer]:
+                      - /url: http://127.0.0.1:8000/tech-lead-notes/agent-index/
+                - cell "One-line catalog of every concept." [ref=e1022]
+                - cell "Stuff into a system prompt." [ref=e1023]
+              - row "2 — Distilled cards Dense per-concept cards (TL;DR / core ideas / when applies / anti-patterns / cross-refs). Fast topical lookup; RAG retrieval." [ref=e1024]:
+                - cell "2 — Distilled cards" [ref=e1025]:
+                  - strong [ref=e1026]:
+                    - text: 2 —
+                    - link "Distilled cards" [ref=e1027] [cursor=pointer]:
+                      - /url: http://127.0.0.1:8000/tech-lead-notes/distilled/
+                - cell "Dense per-concept cards (TL;DR / core ideas / when applies / anti-patterns / cross-refs)." [ref=e1028]
+                - cell "Fast topical lookup; RAG retrieval." [ref=e1029]
+              - row "3 — Full source text (sources/) Original documents preserved verbatim, split per chapter/section. Verbatim citation; full nuance." [ref=e1030]:
+                - cell "3 — Full source text (sources/)" [ref=e1031]:
+                  - strong [ref=e1032]: 3 — Full source text
+                  - text: (
+                  - code [ref=e1033]: sources/
+                  - text: )
+                - cell "Original documents preserved verbatim, split per chapter/section." [ref=e1034]
+                - cell "Verbatim citation; full nuance." [ref=e1035]
+          - paragraph [ref=e1036]:
+            - text: "For LLM-tooling:"
+            - link "llms.txt" [ref=e1037] [cursor=pointer]:
+              - /url: http://127.0.0.1:8000/tech-lead-notes/llms.txt
+              - code [ref=e1038]: llms.txt
+            - text: is a structured catalog (
+            - link "llmstxt.org" [ref=e1039] [cursor=pointer]:
+              - /url: https://llmstxt.org
+            - text: ) and
+            - link "llms-full.txt" [ref=e1040] [cursor=pointer]:
+              - /url: http://127.0.0.1:8000/tech-lead-notes/llms-full.txt
+              - code [ref=e1041]: llms-full.txt
+            - text: is the entire corpus concatenated for full-context loading.
+          - heading "Sources ¶" [level=2] [ref=e1042]:
+            - text: Sources
+            - link "¶" [ref=e1043] [cursor=pointer]:
+              - /url: http://127.0.0.1:8000/tech-lead-notes/#sources
+          - table [ref=e1046]:
+            - rowgroup [ref=e1047]:
+              - row "Source Author(s) License Status" [ref=e1048]:
+                - columnheader "Source" [ref=e1049]
+                - columnheader "Author(s)" [ref=e1050]
+                - columnheader "License" [ref=e1051]
+                - columnheader "Status" [ref=e1052]
+            - rowgroup [ref=e1053]:
+              - row "PMBOK Guide — Underneath the Surface Nader K. Rad CC BY 4.0 included" [ref=e1054]:
+                - cell "PMBOK Guide — Underneath the Surface" [ref=e1055]:
+                  - link "PMBOK Guide — Underneath the Surface" [ref=e1056] [cursor=pointer]:
+                    - /url: http://127.0.0.1:8000/tech-lead-notes/sources/underneath-the-surface/
+                - cell "Nader K. Rad" [ref=e1057]
+                - cell "CC BY 4.0" [ref=e1058]
+                - cell "included" [ref=e1059]
+              - row "The 2020 Scrum Guide Ken Schwaber, Jeff Sutherland CC BY-SA 4.0 included" [ref=e1060]:
+                - cell "The 2020 Scrum Guide" [ref=e1061]:
+                  - link "The 2020 Scrum Guide" [ref=e1062] [cursor=pointer]:
+                    - /url: http://127.0.0.1:8000/tech-lead-notes/sources/scrum-guide/
+                - cell "Ken Schwaber, Jeff Sutherland" [ref=e1063]
+                - cell "CC BY-SA 4.0" [ref=e1064]
+                - cell "included" [ref=e1065]
+              - row "Scrum Guide Expansion Pack (v2026.1) Ralph Jocham, John Coleman, Jeff Sutherland CC BY-SA 4.0 included" [ref=e1066]:
+                - cell "Scrum Guide Expansion Pack (v2026.1)" [ref=e1067]:
+                  - link "Scrum Guide Expansion Pack (v2026.1)" [ref=e1068] [cursor=pointer]:
+                    - /url: http://127.0.0.1:8000/tech-lead-notes/sources/scrum-guide-expanded/
+                - cell "Ralph Jocham, John Coleman, Jeff Sutherland" [ref=e1069]
+                - cell "CC BY-SA 4.0" [ref=e1070]
+                - cell "included" [ref=e1071]
+              - row "DORA Metrics in Jira openmind (self-authored) CC BY-SA 4.0 included" [ref=e1072]:
+                - cell "DORA Metrics in Jira" [ref=e1073]:
+                  - link "DORA Metrics in Jira" [ref=e1074] [cursor=pointer]:
+                    - /url: http://127.0.0.1:8000/tech-lead-notes/sources/dora-metrics-jira/
+                - cell "openmind (self-authored)" [ref=e1075]
+                - cell "CC BY-SA 4.0" [ref=e1076]
+                - cell "included" [ref=e1077]
+          - paragraph [ref=e1078]:
+            - text: See
+            - link "About the distilled tier" [ref=e1079] [cursor=pointer]:
+              - /url: http://127.0.0.1:8000/tech-lead-notes/distilled/about/
+            - text: for the editorial policy, what was changed, and license attribution rules.
+          - heading "How agents should consume this ¶" [level=2] [ref=e1080]:
+            - text: How agents should consume this
+            - link "¶" [ref=e1081] [cursor=pointer]:
+              - /url: http://127.0.0.1:8000/tech-lead-notes/#how-agents-should-consume-this
+          - list [ref=e1082]:
+            - listitem [ref=e1083]:
+              - text: Load
+              - link "agent-index.md" [ref=e1084] [cursor=pointer]:
+                - /url: http://127.0.0.1:8000/tech-lead-notes/agent-index/
+                - code [ref=e1085]: agent-index.md
+              - text: in the system prompt for compact awareness of all topics.
+            - listitem [ref=e1086]:
+              - text: For a specific question, fetch the relevant Tier-2 card by URL (e.g.
+              - code [ref=e1087]: distilled/principles/pmbok-7/04-focus-on-value.md
+              - text: ).
+            - listitem [ref=e1088]:
+              - text: For verbatim citation, follow the
+              - strong [ref=e1089]: Source
+              - text: link inside the card to the Tier-3 chunk.
+            - listitem [ref=e1090]:
+              - text: For full-corpus loading, fetch
+              - link "llms-full.txt" [ref=e1091] [cursor=pointer]:
+                - /url: http://127.0.0.1:8000/tech-lead-notes/llms-full.txt
+                - code [ref=e1092]: llms-full.txt
+              - text: .
+          - heading "Licensing ¶" [level=2] [ref=e1093]:
+            - text: Licensing
+            - link "¶" [ref=e1094] [cursor=pointer]:
+              - /url: http://127.0.0.1:8000/tech-lead-notes/#licensing
+          - paragraph [ref=e1095]:
+            - text: Each chunk and each card carries a
+            - code [ref=e1096]: "license:"
+            - text: "field in its frontmatter. The repository combines:"
+          - list [ref=e1097]:
+            - listitem [ref=e1098]:
+              - strong [ref=e1099]: CC BY 4.0
+              - text: material (Underneath the Surface) — usable in any derivative as long as attribution is preserved.
+            - listitem [ref=e1100]:
+              - strong [ref=e1101]: CC BY-SA 4.0
+              - text: material (Scrum Guide and Scrum Guide Expanded when added) — derivatives must retain CC BY-SA.
+          - paragraph [ref=e1102]:
+            - text: Cross-source synthesis cards in
+            - code [ref=e1103]: distilled/synthesis/
+            - text: (when present) are CC BY-SA because they incorporate material from ShareAlike sources.
+      - button "Back to top":
+        - img
+        - text: Back to top
+    - contentinfo [ref=e1104]:
+      - generic [ref=e1107]:
+        - text: Made with
+        - link "Material for MkDocs" [ref=e1108] [cursor=pointer]:
+          - /url: https://squidfunk.github.io/mkdocs-material/

@@ -1,0 +1,311 @@
+- generic [active] [ref=e1]:
+  - link "Skip to content" [ref=e2] [cursor=pointer]:
+    - /url: http://127.0.0.1:8000/tech-lead-notes/#tech-lead-notes
+  - banner [ref=e3]:
+    - navigation "Header" [ref=e4]:
+      - link "Tech Lead Notes" [ref=e5] [cursor=pointer]:
+        - /url: http://127.0.0.1:8000/tech-lead-notes/
+        - img [ref=e6]
+      - generic [ref=e9]:
+        - generic [ref=e11]: Tech Lead Notes
+        - generic:
+          - generic: Tech Lead Notes
+      - generic [ref=e12]:
+        - radio "Switch to dark mode"
+        - generic "Switch to dark mode" [ref=e13] [cursor=pointer]:
+          - img [ref=e14]
+        - radio "Switch to light mode"
+      - dialog [ref=e16]:
+        - search [ref=e17]:
+          - generic [ref=e18]:
+            - textbox "Search" [ref=e19]
+            - generic:
+              - img
+            - navigation "Search":
+              - button "Clear":
+                - img
+          - generic [ref=e22]: Initializing search
+      - link "GitHub 0 0" [ref=e24] [cursor=pointer]:
+        - /url: https://github.com/OpenMindUA/tech-lead-notes
+        - img [ref=e26]
+        - generic [ref=e28]:
+          - text: GitHub
+          - list [ref=e29]:
+            - listitem [ref=e30]: "0"
+            - listitem [ref=e31]: "0"
+  - generic [ref=e32]:
+    - main [ref=e33]:
+      - generic [ref=e34]:
+        - navigation "Navigation" [ref=e38]:
+          - generic [ref=e39]: Tech Lead Notes
+          - list [ref=e40]:
+            - listitem [ref=e41]:
+              - link "Home" [ref=e42] [cursor=pointer]:
+                - /url: http://127.0.0.1:8000/tech-lead-notes/
+                - generic [ref=e43]: Home
+            - listitem [ref=e44]:
+              - generic:
+                - generic: For agents (Tier 1)
+              - navigation "For agents (Tier 1)" [ref=e45]:
+                - list [ref=e46]:
+                  - listitem [ref=e47]:
+                    - link "Agent index" [ref=e48] [cursor=pointer]:
+                      - /url: http://127.0.0.1:8000/tech-lead-notes/agent-index/
+                      - generic [ref=e49]: Agent index
+            - listitem [ref=e50]:
+              - link "Distilled (Tier 2)" [ref=e52] [cursor=pointer]:
+                - /url: http://127.0.0.1:8000/tech-lead-notes/distilled/
+                - generic [ref=e53]: Distilled (Tier 2)
+              - navigation [ref=e54]:
+                - list [ref=e55]:
+                  - listitem [ref=e56]:
+                    - link "About / disclaimer" [ref=e57] [cursor=pointer]:
+                      - /url: http://127.0.0.1:8000/tech-lead-notes/distilled/about/
+                      - generic [ref=e58]: About / disclaimer
+                  - listitem [ref=e59]:
+                    - link "Glossary" [ref=e60] [cursor=pointer]:
+                      - /url: http://127.0.0.1:8000/tech-lead-notes/distilled/glossary/
+                      - generic [ref=e61]: Glossary
+                  - listitem [ref=e62]:
+                    - link "Cross-references" [ref=e63] [cursor=pointer]:
+                      - /url: http://127.0.0.1:8000/tech-lead-notes/distilled/cross-references/
+                      - generic [ref=e64]: Cross-references
+                  - listitem [ref=e65]:
+                    - link "PMBOK 7 principles" [ref=e67] [cursor=pointer]:
+                      - /url: http://127.0.0.1:8000/tech-lead-notes/distilled/principles/pmbok-7/
+                      - generic [ref=e68]: PMBOK 7 principles
+                  - listitem [ref=e71]:
+                    - link "NUPP principles" [ref=e73] [cursor=pointer]:
+                      - /url: http://127.0.0.1:8000/tech-lead-notes/distilled/principles/nupp/
+                      - generic [ref=e74]: NUPP principles
+                  - listitem [ref=e77]:
+                    - link "PRINCE2 principles" [ref=e79] [cursor=pointer]:
+                      - /url: http://127.0.0.1:8000/tech-lead-notes/distilled/principles/prince2/
+                      - generic [ref=e80]: PRINCE2 principles
+                  - listitem [ref=e83]:
+                    - link "Performance domains" [ref=e85] [cursor=pointer]:
+                      - /url: http://127.0.0.1:8000/tech-lead-notes/distilled/performance-domains/
+                      - generic [ref=e86]: Performance domains
+                  - listitem [ref=e89]:
+                    - link "Methodologies" [ref=e91] [cursor=pointer]:
+                      - /url: http://127.0.0.1:8000/tech-lead-notes/distilled/methodologies/
+                      - generic [ref=e92]: Methodologies
+                  - listitem [ref=e95]:
+                    - link "Scrum Guide 2020" [ref=e97] [cursor=pointer]:
+                      - /url: http://127.0.0.1:8000/tech-lead-notes/distilled/scrum-guide/
+                      - generic [ref=e98]: Scrum Guide 2020
+                  - listitem [ref=e101]:
+                    - link "Scrum Guide Expansion Pack (v2026.1)" [ref=e103] [cursor=pointer]:
+                      - /url: http://127.0.0.1:8000/tech-lead-notes/distilled/scrum-guide-expanded/
+                      - generic [ref=e104]: Scrum Guide Expansion Pack (v2026.1)
+                  - listitem [ref=e107]:
+                    - link "DORA Metrics in Jira" [ref=e109] [cursor=pointer]:
+                      - /url: http://127.0.0.1:8000/tech-lead-notes/distilled/dora-metrics-jira/
+                      - generic [ref=e110]: DORA Metrics in Jira
+                  - listitem [ref=e113]:
+                    - link "Synthesis (cross-source)" [ref=e115] [cursor=pointer]:
+                      - /url: http://127.0.0.1:8000/tech-lead-notes/distilled/synthesis/
+                      - generic [ref=e116]: Synthesis (cross-source)
+            - listitem [ref=e119]:
+              - link "Sources manifest" [ref=e120] [cursor=pointer]:
+                - /url: http://127.0.0.1:8000/tech-lead-notes/sources/
+                - generic [ref=e121]: Sources manifest
+            - listitem [ref=e122]:
+              - generic:
+                - generic: Sources (Tier 3)
+              - navigation "Sources (Tier 3)" [ref=e123]:
+                - list [ref=e124]:
+                  - listitem [ref=e125]:
+                    - link "Underneath the Surface" [ref=e127] [cursor=pointer]:
+                      - /url: http://127.0.0.1:8000/tech-lead-notes/sources/underneath-the-surface/
+                      - generic [ref=e128]: Underneath the Surface
+                  - listitem [ref=e131]:
+                    - link "The 2020 Scrum Guide" [ref=e133] [cursor=pointer]:
+                      - /url: http://127.0.0.1:8000/tech-lead-notes/sources/scrum-guide/
+                      - generic [ref=e134]: The 2020 Scrum Guide
+                  - listitem [ref=e137]:
+                    - link "Scrum Guide Expansion Pack (v2026.1)" [ref=e139] [cursor=pointer]:
+                      - /url: http://127.0.0.1:8000/tech-lead-notes/sources/scrum-guide-expanded/
+                      - generic [ref=e140]: Scrum Guide Expansion Pack (v2026.1)
+                  - listitem [ref=e143]:
+                    - link "DORA Metrics in Jira" [ref=e145] [cursor=pointer]:
+                      - /url: http://127.0.0.1:8000/tech-lead-notes/sources/dora-metrics-jira/
+                      - generic [ref=e146]: DORA Metrics in Jira
+        - navigation "Table of contents" [ref=e152]:
+          - generic [ref=e153]: Table of contents
+          - list [ref=e154]:
+            - listitem [ref=e155]:
+              - link "Three tiers" [ref=e156] [cursor=pointer]:
+                - /url: http://127.0.0.1:8000/tech-lead-notes/#three-tiers
+                - generic [ref=e157]: Three tiers
+            - listitem [ref=e158]:
+              - link "Sources" [ref=e159] [cursor=pointer]:
+                - /url: http://127.0.0.1:8000/tech-lead-notes/#sources
+                - generic [ref=e160]: Sources
+            - listitem [ref=e161]:
+              - link "How agents should consume this" [ref=e162] [cursor=pointer]:
+                - /url: http://127.0.0.1:8000/tech-lead-notes/#how-agents-should-consume-this
+                - generic [ref=e163]: How agents should consume this
+            - listitem [ref=e164]:
+              - link "Licensing" [ref=e165] [cursor=pointer]:
+                - /url: http://127.0.0.1:8000/tech-lead-notes/#licensing
+                - generic [ref=e166]: Licensing
+        - article [ref=e168]:
+          - navigation [ref=e169]:
+            - generic [ref=e170]: framework
+            - generic [ref=e171]: landing
+            - generic [ref=e172]: multi-source
+            - generic [ref=e173]: tech-lead
+          - link "Edit this page" [ref=e174] [cursor=pointer]:
+            - /url: https://github.com/OpenMindUA/tech-lead-notes/edit/main/docs/index.md
+            - img [ref=e175]
+          - heading "Tech Lead Notes ¶" [level=1] [ref=e177]:
+            - text: Tech Lead Notes
+            - link "¶" [ref=e178] [cursor=pointer]:
+              - /url: http://127.0.0.1:8000/tech-lead-notes/#tech-lead-notes
+          - paragraph [ref=e179]: Operational playbook for tech leads — a multi-source, three-tier mirror of CC-licensed project-management, Scrum, and engineering- effectiveness resources, split into navigable chunks with YAML frontmatter so humans, search engines and LLM agents can use them.
+          - heading "Three tiers ¶" [level=2] [ref=e180]:
+            - text: Three tiers
+            - link "¶" [ref=e181] [cursor=pointer]:
+              - /url: http://127.0.0.1:8000/tech-lead-notes/#three-tiers
+          - table [ref=e184]:
+            - rowgroup [ref=e185]:
+              - row "Tier Content When to use" [ref=e186]:
+                - columnheader "Tier" [ref=e187]
+                - columnheader "Content" [ref=e188]
+                - columnheader "When to use" [ref=e189]
+            - rowgroup [ref=e190]:
+              - row "1 — Agent index One-line catalog of every concept. Stuff into a system prompt." [ref=e191]:
+                - cell "1 — Agent index" [ref=e192]:
+                  - strong [ref=e193]:
+                    - text: 1 —
+                    - link "Agent index" [ref=e194] [cursor=pointer]:
+                      - /url: http://127.0.0.1:8000/tech-lead-notes/agent-index/
+                - cell "One-line catalog of every concept." [ref=e195]
+                - cell "Stuff into a system prompt." [ref=e196]
+              - row "2 — Distilled cards Dense per-concept cards (TL;DR / core ideas / when applies / anti-patterns / cross-refs). Fast topical lookup; RAG retrieval." [ref=e197]:
+                - cell "2 — Distilled cards" [ref=e198]:
+                  - strong [ref=e199]:
+                    - text: 2 —
+                    - link "Distilled cards" [ref=e200] [cursor=pointer]:
+                      - /url: http://127.0.0.1:8000/tech-lead-notes/distilled/
+                - cell "Dense per-concept cards (TL;DR / core ideas / when applies / anti-patterns / cross-refs)." [ref=e201]
+                - cell "Fast topical lookup; RAG retrieval." [ref=e202]
+              - row "3 — Full source text (sources/) Original documents preserved verbatim, split per chapter/section. Verbatim citation; full nuance." [ref=e203]:
+                - cell "3 — Full source text (sources/)" [ref=e204]:
+                  - strong [ref=e205]: 3 — Full source text
+                  - text: (
+                  - code [ref=e206]: sources/
+                  - text: )
+                - cell "Original documents preserved verbatim, split per chapter/section." [ref=e207]
+                - cell "Verbatim citation; full nuance." [ref=e208]
+          - paragraph [ref=e209]:
+            - text: "For LLM-tooling:"
+            - link "llms.txt" [ref=e210] [cursor=pointer]:
+              - /url: http://127.0.0.1:8000/tech-lead-notes/llms.txt
+              - code [ref=e211]: llms.txt
+            - text: is a structured catalog (
+            - link "llmstxt.org" [ref=e212] [cursor=pointer]:
+              - /url: https://llmstxt.org
+            - text: ) and
+            - link "llms-full.txt" [ref=e213] [cursor=pointer]:
+              - /url: http://127.0.0.1:8000/tech-lead-notes/llms-full.txt
+              - code [ref=e214]: llms-full.txt
+            - text: is the entire corpus concatenated for full-context loading.
+          - heading "Sources ¶" [level=2] [ref=e215]:
+            - text: Sources
+            - link "¶" [ref=e216] [cursor=pointer]:
+              - /url: http://127.0.0.1:8000/tech-lead-notes/#sources
+          - table [ref=e219]:
+            - rowgroup [ref=e220]:
+              - row "Source Author(s) License Status" [ref=e221]:
+                - columnheader "Source" [ref=e222]
+                - columnheader "Author(s)" [ref=e223]
+                - columnheader "License" [ref=e224]
+                - columnheader "Status" [ref=e225]
+            - rowgroup [ref=e226]:
+              - row "PMBOK Guide — Underneath the Surface Nader K. Rad CC BY 4.0 included" [ref=e227]:
+                - cell "PMBOK Guide — Underneath the Surface" [ref=e228]:
+                  - link "PMBOK Guide — Underneath the Surface" [ref=e229] [cursor=pointer]:
+                    - /url: http://127.0.0.1:8000/tech-lead-notes/sources/underneath-the-surface/
+                - cell "Nader K. Rad" [ref=e230]
+                - cell "CC BY 4.0" [ref=e231]
+                - cell "included" [ref=e232]
+              - row "The 2020 Scrum Guide Ken Schwaber, Jeff Sutherland CC BY-SA 4.0 included" [ref=e233]:
+                - cell "The 2020 Scrum Guide" [ref=e234]:
+                  - link "The 2020 Scrum Guide" [ref=e235] [cursor=pointer]:
+                    - /url: http://127.0.0.1:8000/tech-lead-notes/sources/scrum-guide/
+                - cell "Ken Schwaber, Jeff Sutherland" [ref=e236]
+                - cell "CC BY-SA 4.0" [ref=e237]
+                - cell "included" [ref=e238]
+              - row "Scrum Guide Expansion Pack (v2026.1) Ralph Jocham, John Coleman, Jeff Sutherland CC BY-SA 4.0 included" [ref=e239]:
+                - cell "Scrum Guide Expansion Pack (v2026.1)" [ref=e240]:
+                  - link "Scrum Guide Expansion Pack (v2026.1)" [ref=e241] [cursor=pointer]:
+                    - /url: http://127.0.0.1:8000/tech-lead-notes/sources/scrum-guide-expanded/
+                - cell "Ralph Jocham, John Coleman, Jeff Sutherland" [ref=e242]
+                - cell "CC BY-SA 4.0" [ref=e243]
+                - cell "included" [ref=e244]
+              - row "DORA Metrics in Jira openmind (self-authored) CC BY-SA 4.0 included" [ref=e245]:
+                - cell "DORA Metrics in Jira" [ref=e246]:
+                  - link "DORA Metrics in Jira" [ref=e247] [cursor=pointer]:
+                    - /url: http://127.0.0.1:8000/tech-lead-notes/sources/dora-metrics-jira/
+                - cell "openmind (self-authored)" [ref=e248]
+                - cell "CC BY-SA 4.0" [ref=e249]
+                - cell "included" [ref=e250]
+          - paragraph [ref=e251]:
+            - text: See
+            - link "About the distilled tier" [ref=e252] [cursor=pointer]:
+              - /url: http://127.0.0.1:8000/tech-lead-notes/distilled/about/
+            - text: for the editorial policy, what was changed, and license attribution rules.
+          - heading "How agents should consume this ¶" [level=2] [ref=e253]:
+            - text: How agents should consume this
+            - link "¶" [ref=e254] [cursor=pointer]:
+              - /url: http://127.0.0.1:8000/tech-lead-notes/#how-agents-should-consume-this
+          - list [ref=e255]:
+            - listitem [ref=e256]:
+              - text: Load
+              - link "agent-index.md" [ref=e257] [cursor=pointer]:
+                - /url: http://127.0.0.1:8000/tech-lead-notes/agent-index/
+                - code [ref=e258]: agent-index.md
+              - text: in the system prompt for compact awareness of all topics.
+            - listitem [ref=e259]:
+              - text: For a specific question, fetch the relevant Tier-2 card by URL (e.g.
+              - code [ref=e260]: distilled/principles/pmbok-7/04-focus-on-value.md
+              - text: ).
+            - listitem [ref=e261]:
+              - text: For verbatim citation, follow the
+              - strong [ref=e262]: Source
+              - text: link inside the card to the Tier-3 chunk.
+            - listitem [ref=e263]:
+              - text: For full-corpus loading, fetch
+              - link "llms-full.txt" [ref=e264] [cursor=pointer]:
+                - /url: http://127.0.0.1:8000/tech-lead-notes/llms-full.txt
+                - code [ref=e265]: llms-full.txt
+              - text: .
+          - heading "Licensing ¶" [level=2] [ref=e266]:
+            - text: Licensing
+            - link "¶" [ref=e267] [cursor=pointer]:
+              - /url: http://127.0.0.1:8000/tech-lead-notes/#licensing
+          - paragraph [ref=e268]:
+            - text: Each chunk and each card carries a
+            - code [ref=e269]: "license:"
+            - text: "field in its frontmatter. The repository combines:"
+          - list [ref=e270]:
+            - listitem [ref=e271]:
+              - strong [ref=e272]: CC BY 4.0
+              - text: material (Underneath the Surface) — usable in any derivative as long as attribution is preserved.
+            - listitem [ref=e273]:
+              - strong [ref=e274]: CC BY-SA 4.0
+              - text: material (Scrum Guide and Scrum Guide Expanded when added) — derivatives must retain CC BY-SA.
+          - paragraph [ref=e275]:
+            - text: Cross-source synthesis cards in
+            - code [ref=e276]: distilled/synthesis/
+            - text: (when present) are CC BY-SA because they incorporate material from ShareAlike sources.
+      - button "Back to top":
+        - img
+        - text: Back to top
+    - contentinfo [ref=e277]:
+      - generic [ref=e280]:
+        - text: Made with
+        - link "Material for MkDocs" [ref=e281] [cursor=pointer]:
+          - /url: https://squidfunk.github.io/mkdocs-material/

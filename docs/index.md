@@ -33,6 +33,9 @@ is the entire corpus concatenated for full-context loading.
 | [The 2020 Scrum Guide](sources/scrum-guide/index.md) | Ken Schwaber, Jeff Sutherland | CC BY-SA 4.0 | included |
 | [Scrum Guide Expansion Pack (v2026.1)](sources/scrum-guide-expanded/index.md) | Ralph Jocham, John Coleman, Jeff Sutherland | CC BY-SA 4.0 | included |
 | [DORA Metrics in Jira](sources/dora-metrics-jira/index.md) | openmind (self-authored) | CC BY-SA 4.0 | included |
+| [NUPP — Nearly Universal Principles of Projects](sources/nupp/index.md) | PTCoE — Nader K. Rad et al. | CC BY 4.0 | included |
+| [P3.express manual (v2)](sources/p3-express/index.md) | PTCoE — Nader K. Rad et al. | CC BY 4.0 | included |
+| [micro.P3.express manual](sources/micro-p3-express/index.md) | PTCoE — Nader K. Rad et al. | CC BY 4.0 | included |
 
 See [About the distilled tier](distilled/about.md) for the editorial
 policy, what was changed, and license attribution rules.
@@ -47,8 +50,6 @@ for the "how to add a new source" checklist.
 
 | Source | Author(s) / Owner | License | Why it fits | Notes |
 |---|---|---|---|---|
-| **[P3.express](https://p3.express)** | PTCoE | CC BY 4.0 | Canonical text of the open minimalist methodology already cross-referenced throughout UtS distilled cards. | ~30-40 chunks; closes the maximalist (PRINCE2) / framework (Scrum) / minimalist (P3.express) triad. |
-| **[NUPP — Nearly Universal Principles of Projects](https://nupp.guide)** | PTCoE | CC BY 4.0 | The 6 NUPP principles already live in `distilled/principles/nupp/` via UtS commentary; this would replace the synthesis with the canonical text. | ~6-12 chunks; small win. |
 | **[Kanban Guide](https://kanbanguides.org/)** | Daniel Vacanti, Yuval Yeret et al. | CC BY-SA 4.0 | Flow-based work for teams that don't fit a Sprint cadence; pairs naturally with DORA cycle-time / lead-time metrics. | ~5-8 chunks; tiny but high-leverage. |
 
 ### Tier B — useful but with caveats
@@ -57,7 +58,6 @@ for the "how to add a new source" checklist.
 |---|---|---|
 | **[Open PM² Guide](https://www.open-pm2.org/)** (European Commission) | CC **BY-NC-SA** 4.0 | NonCommercial clause — incompatible with any commercial use of this repo or derivatives. Suitable only if the repo stays purely educational. |
 | **[GitLab Handbook](https://handbook.gitlab.com/)** (selected chapters: Engineering, People Operations, Communication) | CC BY-SA 4.0 | Massive (~200+ pages); only worth ingesting selected chapters as an "engineering culture" tier. |
-| **[micro.P3.express](https://micro.p3.express/)** | CC BY 4.0 | Very niche — designed for projects with 1-4 team members. Add if the audience explicitly needs it. |
 | **State of DevOps Report** (Google Cloud / DORA team) | typically CC BY 4.0, varies by year | Mostly charts and benchmarks; relatively little prose framework. Useful as DORA reference data, not as a "playbook". |
 
 ### Tier C — DO NOT add (license incompatibility)

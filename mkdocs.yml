@@ -323,3 +323,101 @@ nav:
       - 3. Managing metrics from the GitHub side: sources/dora-metrics-jira/03-3-managing-metrics-from-the-github-side.md
       - 4. Jira setup checklist: sources/dora-metrics-jira/04-4-jira-setup-checklist.md
       - Appendix — common pitfalls: sources/dora-metrics-jira/05-appendix-common-pitfalls-and-how-to-avoid-them.md
+    - NUPP — Nearly Universal Principles of Projects:
+      - About this source: sources/nupp/index.md
+      - NUP1 — Prefer results and the truth to affiliations: sources/nupp/01-nup1-prefer-results-and-the-truth-to-affiliations.md
+      - NUP2 — Preserve and optimize energy and resources: sources/nupp/02-nup2-preserve-and-optimize-energy-and-resources.md
+      - NUP3 — Always be proactive: sources/nupp/03-nup3-always-be-proactive.md
+      - NUP4 — A chain is only as strong as its weakest link: sources/nupp/04-nup4-a-chain-is-only-as-strong-as-its-weakest-link.md
+      - NUP5 — Don't do anything without a clear purpose: sources/nupp/05-nup5-don-t-do-anything-without-a-clear-purpose.md
+      - NUP6 — Use repeatable elements: sources/nupp/06-nup6-use-repeatable-elements.md
+    - P3.express manual:
+      - About this source: sources/p3-express/index.md
+      - "Group A — Project Initiation":
+        - Overview: sources/p3-express/01-a-project-initiation/index.md
+        - A01 — Appoint the sponsor: sources/p3-express/01-a-project-initiation/01-appoint-the-sponsor.md
+        - A02 — Appoint the project manager: sources/p3-express/01-a-project-initiation/02-appoint-the-project-manager.md
+        - A03 — Appoint key team members: sources/p3-express/01-a-project-initiation/03-appoint-key-team-members.md
+        - A04 — Describe the project: sources/p3-express/01-a-project-initiation/04-describe-the-project.md
+        - A05 — Identify and plan deliverables: sources/p3-express/01-a-project-initiation/05-identify-and-plan-deliverables.md
+        - A06 — Identify risks and plan responses: sources/p3-express/01-a-project-initiation/06-identify-risks-and-plan-responses.md
+        - A07 — Peer-review project initiation: sources/p3-express/01-a-project-initiation/07-peer-review-project-initiation.md
+        - A08 — Make a go/no-go decision: sources/p3-express/01-a-project-initiation/08-make-a-go-no-go-decision.md
+        - A09 — Kick off the project: sources/p3-express/01-a-project-initiation/09-kick-off-the-project.md
+        - A10 — Conduct a focused communication: sources/p3-express/01-a-project-initiation/10-conduct-a-focused-communication.md
+      - "Group B — Monthly Initiation":
+        - Overview: sources/p3-express/02-b-monthly-initiation/index.md
+        - B01 — Have the team revise the plans: sources/p3-express/02-b-monthly-initiation/01-have-the-team-revise-the-plans.md
+        - B02 — Revise the project description: sources/p3-express/02-b-monthly-initiation/02-revise-the-project-description.md
+        - B03 — Have Monthly Initiation peer-reviewed: sources/p3-express/02-b-monthly-initiation/03-have-monthly-initiation-peer-reviewed.md
+        - B04 — Make a go/no-go decision: sources/p3-express/02-b-monthly-initiation/04-make-a-go-no-go-decision.md
+        - B05 — Conduct a focused communication: sources/p3-express/02-b-monthly-initiation/05-conduct-a-focused-communication.md
+      - "Group C — Weekly Management":
+        - Overview: sources/p3-express/03-c-weekly-management/index.md
+        - C01 — Measure performance: sources/p3-express/03-c-weekly-management/01-measure-performance.md
+        - C02 — Plan responses to deviations: sources/p3-express/03-c-weekly-management/02-plan-responses-to-deviations.md
+        - C03 — Identify and respond to new risks: sources/p3-express/03-c-weekly-management/03-identify-and-respond-to-new-risks.md
+        - C04 — Conduct a focused communication: sources/p3-express/03-c-weekly-management/04-conduct-a-focused-communication.md
+      - "Group D — Daily Management":
+        - Overview: sources/p3-express/04-d-daily-management/index.md
+        - D01 — Manage follow-up items: sources/p3-express/04-d-daily-management/01-manage-follow-up-items.md
+        - D02 — Accept completed deliverables: sources/p3-express/04-d-daily-management/02-accept-completed-deliverables.md
+      - "Group E — Monthly Closure":
+        - Overview: sources/p3-express/05-e-monthly-closure/index.md
+        - E01 — Evaluate stakeholder satisfaction: sources/p3-express/05-e-monthly-closure/01-evaluate-stakeholder-satisfaction.md
+        - E02 — Plan improvements: sources/p3-express/05-e-monthly-closure/02-plan-improvements.md
+        - E03 — Conduct a focused communication: sources/p3-express/05-e-monthly-closure/03-conduct-a-focused-communication.md
+      - "Group F — Project Closure":
+        - Overview: sources/p3-express/06-f-project-closure/index.md
+        - F01 — Hand over the product: sources/p3-express/06-f-project-closure/01-hand-over-the-product.md
+        - F02 — Evaluate stakeholder satisfaction: sources/p3-express/06-f-project-closure/02-evaluate-stakeholder-satisfaction.md
+        - F03 — Have Project Closure peer-reviewed: sources/p3-express/06-f-project-closure/03-have-project-closure-peer-reviewed.md
+        - F04 — Archive project documents: sources/p3-express/06-f-project-closure/04-archive-project-documents.md
+        - F05 — Re-assign the team: sources/p3-express/06-f-project-closure/05-re-assign-the-team.md
+        - F06 — Celebrate: sources/p3-express/06-f-project-closure/06-celebrate.md
+      - "Group G — Post-Project Management":
+        - Overview: sources/p3-express/07-g-post-project-management/index.md
+        - G01 — Evaluate the benefits: sources/p3-express/07-g-post-project-management/01-evaluate-the-benefits.md
+        - G02 — Generate ideas for new projects: sources/p3-express/07-g-post-project-management/02-generate-ideas-for-new-projects.md
+        - G03 — Conduct a focused communication: sources/p3-express/07-g-post-project-management/03-conduct-a-focused-communication.md
+    - micro.P3.express manual:
+      - About this source: sources/micro-p3-express/index.md
+      - "Group A — Project Initiation":
+        - Overview: sources/micro-p3-express/01-a-project-initiation/index.md
+        - "A1 — Identify the high-level decision maker(s)": sources/micro-p3-express/01-a-project-initiation/01-identify-the-high-level-decision-maker-s.md
+        - A2 — Understand and distribute the hats: sources/micro-p3-express/01-a-project-initiation/02-understand-and-distribute-the-hats.md
+        - A3 — Select tools and create a project repository: sources/micro-p3-express/01-a-project-initiation/03-select-tools-and-create-a-project-repository.md
+        - A4 — Create a common understanding: sources/micro-p3-express/01-a-project-initiation/04-create-a-common-understanding.md
+        - A5 — Have Project Initiation peer-reviewed: sources/micro-p3-express/01-a-project-initiation/05-have-project-initiation-peer-reviewed.md
+        - A6 — Make a go/no-go decision: sources/micro-p3-express/01-a-project-initiation/06-make-a-go-no-go-decision.md
+        - A7 — Conduct a focused communication: sources/micro-p3-express/01-a-project-initiation/07-conduct-a-focused-communication.md
+      - "Group C — Weekly Initiation":
+        - Overview: sources/micro-p3-express/02-c-weekly-initiation/index.md
+        - C1 — Revise and refine the common understanding: sources/micro-p3-express/02-c-weekly-initiation/01-revise-and-refine-the-common-understanding.md
+        - C2 — Have the Weekly Initiation peer-reviewed: sources/micro-p3-express/02-c-weekly-initiation/02-have-the-weekly-initiation-peer-reviewed.md
+        - C3 — Make a go/no-go decision: sources/micro-p3-express/02-c-weekly-initiation/03-make-a-go-no-go-decision.md
+        - C4 — Conduct a focused communication: sources/micro-p3-express/02-c-weekly-initiation/04-conduct-a-focused-communication.md
+      - "Group D — Daily Management":
+        - Overview: sources/micro-p3-express/03-d-daily-management/index.md
+        - D1 — Manage follow-up items: sources/micro-p3-express/03-d-daily-management/01-manage-follow-up-items.md
+        - D2 — Close completed deliverables: sources/micro-p3-express/03-d-daily-management/02-close-completed-deliverables.md
+      - "Group E — Weekly Closure":
+        - Overview: sources/micro-p3-express/04-e-weekly-closure/index.md
+        - E1 — Measure and report performance: sources/micro-p3-express/04-e-weekly-closure/01-measure-and-report-performance.md
+        - E2 — Evaluate stakeholder satisfaction: sources/micro-p3-express/04-e-weekly-closure/02-evaluate-stakeholder-satisfaction.md
+        - E3 — Capture lessons and plan for improvements: sources/micro-p3-express/04-e-weekly-closure/03-capture-lessons-and-plan-for-improvements.md
+        - E4 — Consider swapping hats for the week: sources/micro-p3-express/04-e-weekly-closure/04-consider-swapping-hats-for-the-week.md
+      - "Group F — Project Closure":
+        - Overview: sources/micro-p3-express/05-f-project-closure/index.md
+        - F1 — Double-check and hand over the final output: sources/micro-p3-express/05-f-project-closure/01-double-check-and-hand-over-the-final-output.md
+        - F2 — Evaluate stakeholder satisfaction: sources/micro-p3-express/05-f-project-closure/02-evaluate-stakeholder-satisfaction.md
+        - F3 — Have the Project Closure peer-reviewed: sources/micro-p3-express/05-f-project-closure/03-have-the-project-closure-peer-reviewed.md
+        - F4 — Consider swapping hats for Post-Project Management: sources/micro-p3-express/05-f-project-closure/04-consider-swapping-hats-for-post-project-management.md
+        - F5 — Archive the project documents: sources/micro-p3-express/05-f-project-closure/05-archive-the-project-documents.md
+        - F6 — Celebrate: sources/micro-p3-express/05-f-project-closure/06-celebrate.md
+        - F7 — Conduct a focused communication: sources/micro-p3-express/05-f-project-closure/07-conduct-a-focused-communication.md
+      - "Group G — Post-Project Management":
+        - Overview: sources/micro-p3-express/06-g-post-project-management/index.md
+        - G1 — Evaluate the benefits: sources/micro-p3-express/06-g-post-project-management/01-evaluate-the-benefits.md
+        - G2 — Generate new ideas: sources/micro-p3-express/06-g-post-project-management/02-generate-new-ideas.md
+        - G3 — Conduct a focused communication: sources/micro-p3-express/06-g-post-project-management/03-conduct-a-focused-communication.md

@@ -44,6 +44,21 @@ jobs:
           uv run python scripts/ingest_scrum_guide_expanded.py \
             || echo "::warning::scrumexpansion.org fetch failed; using committed snapshot"
 
+      - name: Refresh NUPP from upstream (best-effort)
+        run: |
+          uv run python scripts/ingest_nupp.py \
+            || echo "::warning::nupp.guide fetch failed; using committed snapshot"
+
+      - name: Refresh P3.express from upstream (best-effort)
+        run: |
+          uv run python scripts/ingest_p3_express.py \
+            || echo "::warning::p3.express fetch failed; using committed snapshot"
+
+      - name: Refresh micro.P3.express from upstream (best-effort)
+        run: |
+          uv run python scripts/ingest_micro_p3_express.py \
+            || echo "::warning::micro.p3.express fetch failed; using committed snapshot"
+
       # Deterministic re-splits from committed raw-sources/ — always run,
       # never depend on network.
       - name: Re-split Underneath the Surface
