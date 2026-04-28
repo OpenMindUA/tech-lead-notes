@@ -1,35 +1,4 @@
 {
-  "$schema": "https://context7.com/schema/context7.json",
   "url": "https://context7.com/openmindua/tech-lead-notes",
-  "public_key": "pk_yokNkTzjqEmCLDTgCNfoI",
-  "projectTitle": "Tech Lead Notes",
-  "description": "Operational playbook for tech leads — three-tier mirror of CC-licensed PM/Scrum/DORA resources (PMBOK 7 commentary, Scrum Guide 2020, Scrum Guide Expansion Pack v2026.1, DORA Metrics in Jira) with distilled cards and full text for humans and LLM agents.",
-  "branch": "main",
-  "folders": ["docs"],
-  "excludeFolders": [
-    "site",
-    "scripts",
-    "raw-sources",
-    ".github",
-    ".venv",
-    "__pycache__"
-  ],
-  "excludeFiles": [
-    "SUMMARY.md",
-    "llms-full.txt"
-  ],
-  "rules": [
-    "Read DORA metrics together — Velocity (Deploy Frequency, Lead Time) without Stability (Change Failure Rate, MTTR) is misleading.",
-    "Definition of Done must include 'code is in production', not just 'merged' — a ticket is alive until actual deployment.",
-    "In SGE the Sprint Goal commitment is owned by the whole Scrum Team; in SG2020 it was Developers — pick the framing that matches the team's adopted version.",
-    "Distinguish output (Increment / Definition of Output Done) from outcome (Product / Definition of Outcome Done) — outcome lives at portfolio/program level but the project must align and report.",
-    "Stakeholder is anyone with interest who can impact the project, not just the customer. SGE catalogues subtypes (Customer, User, Decision-maker, Legislator, Financial sponsor, SME, Governance, Supporter).",
-    "Tailor methodologies; don't cherry-pick. Mixing surface-level practices from different frameworks without internal consistency yields a 'Frankenstein' system.",
-    "Predictive vs adaptive is decided by the product nature, not team preference. PMBOK 7 considers 'hybrid approaches' inside one project a misnomer.",
-    "What you measure becomes the goal — choose proxies that align with real outcomes, never use DORA metrics to evaluate individual developers.",
-    "Risk responses are layered (prevent / reduce exposure / capacity-build / minimize impact / transfer) and must be cost-justified — investment value <= risk-reduction value.",
-    "Scrum Master is a change agent who serves the team, the Product Owner, the stakeholders, and the organization — never an administrator, taskmaster, rule-dictator, or in-absentia delegator.",
-    "When citing concepts, prefer Tier-2 distilled cards in docs/distilled/ over Tier-3 source chunks in docs/sources/ — cards have anti-patterns and cross-refs added; sources are verbatim originals.",
-    "Per-chunk license: every Markdown file's `license:` frontmatter is authoritative. Distillation tier is CC-BY-SA-4.0 because it incorporates CC-BY-SA sources (Scrum Guide, SGE, DORA)."
-  ]
+  "public_key": "pk_yokNkTzjqEmCLDTgCNfoI"
 }
