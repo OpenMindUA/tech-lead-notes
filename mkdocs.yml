@@ -154,6 +154,17 @@ nav:
       - GitHub-side enforcement: distilled/dora-metrics-jira/03-github-side.md
       - Jira setup checklist: distilled/dora-metrics-jira/04-jira-setup-checklist.md
       - Anti-patterns and pitfalls: distilled/dora-metrics-jira/05-anti-patterns.md
+    - P3.express:
+      - Overview: distilled/p3-express/index.md
+      - Cycle and activity codes: distilled/p3-express/01-cycle-and-activities.md
+      - Roles: distilled/p3-express/02-roles.md
+      - Artifacts (4 documents): distilled/p3-express/03-artifacts.md
+      - Peer review and go/no-go gates: distilled/p3-express/04-peer-review-and-go-no-go.md
+      - Focused communication: distilled/p3-express/05-focused-communication.md
+    - micro.P3.express:
+      - Overview: distilled/micro-p3-express/index.md
+      - Overview and deltas: distilled/micro-p3-express/01-overview-and-deltas.md
+      - Hats, not roles: distilled/micro-p3-express/02-hats-not-roles.md
     - Synthesis (cross-source):
       - Overview: distilled/synthesis/index.md
       - '"Done", quality, peer review': distilled/synthesis/01-done-and-quality.md

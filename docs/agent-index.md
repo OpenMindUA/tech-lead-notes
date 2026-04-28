@@ -150,6 +150,23 @@ Artifacts and commitments:
 
 → overview: [DORA Metrics in Jira distilled](distilled/dora-metrics-jira/index.md)
 
+## P3.express manual (canonical, CC BY)
+
+- **Cycle and activity codes** — A01-G03 master map; Monthly + Weekly + Daily cadence. → [card](distilled/p3-express/01-cycle-and-activities.md)
+- **Roles** — Sponsor / PM / Team Leaders / Supplier PMs; perspective rule. → [card](distilled/p3-express/02-roles.md)
+- **Artifacts (4 documents)** — Project Description / Deliverables Map / Follow-Up Register / Health Register; custodian rule. → [card](distilled/p3-express/03-artifacts.md)
+- **Peer review and go/no-go gates** — A07/B03/F03 + A08/B04 pattern. → [card](distilled/p3-express/04-peer-review-and-go-no-go.md)
+- **Focused communication** — defined-message-to-defined-audience cadence (A10/B05/C04/E03/G03). → [card](distilled/p3-express/05-focused-communication.md)
+
+→ overview: [P3.express distilled](distilled/p3-express/index.md)
+
+## micro.P3.express manual (canonical, CC BY)
+
+- **Overview and deltas vs P3.express** — when to use micro; activity-code map; weekly-only cadence. → [card](distilled/micro-p3-express/01-overview-and-deltas.md)
+- **Hats, not roles** — PM / Investor / Creator / User hats; rotation rule. → [card](distilled/micro-p3-express/02-hats-not-roles.md)
+
+→ overview: [micro.P3.express distilled](distilled/micro-p3-express/index.md)
+
 ## Synthesis (cross-source, CC BY-SA)
 
 Cards that combine multiple sources for cross-cutting questions:

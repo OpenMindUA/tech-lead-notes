@@ -134,6 +134,8 @@ def render_tier2() -> list[str]:
         "scrum-guide",
         "scrum-guide-expanded",
         "dora-metrics-jira",
+        "p3-express",
+        "micro-p3-express",
         "synthesis",
     ]
     seen: set[str] = set()
@@ -154,6 +156,8 @@ def render_tier2() -> list[str]:
         "scrum-guide": "Distilled — Scrum Guide 2020",
         "scrum-guide-expanded": "Distilled — Scrum Guide Expansion Pack (v2026.1)",
         "dora-metrics-jira": "Distilled — DORA Metrics in Jira",
+        "p3-express": "Distilled — P3.express manual (v2)",
+        "micro-p3-express": "Distilled — micro.P3.express manual",
         "synthesis": "Distilled — Synthesis (cross-source)",
     }
 

@@ -91,8 +91,12 @@ uv run python scripts/split_book.py
 uv run python scripts/ingest_scrum_guide.py
 uv run python scripts/ingest_scrum_guide_expanded.py
 uv run python scripts/split_dora_metrics.py
+uv run python scripts/ingest_nupp.py
+uv run python scripts/ingest_p3_express.py
+uv run python scripts/ingest_micro_p3_express.py
 
-# regenerate llms.txt / llms-full.txt
+# regenerate llms.txt / llms-full.txt — required before mkdocs serve/build
+# because docs/llms.txt and docs/llms-full.txt are gitignored build artifacts
 LLMS_RAW_BASE=https://raw.githubusercontent.com/OpenMindUA/tech-lead-notes/main/docs \
 LLMS_SITE_BASE=https://openmindua.github.io/tech-lead-notes \
   uv run python scripts/build_llms_txt.py
