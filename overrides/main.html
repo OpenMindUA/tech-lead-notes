@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+
+{# Context7 chat widget — floating bottom-right button on every page.
+   See https://context7.com/docs/howto/chat-widget for options. #}
+{% block extrahead %}
+  {{ super() }}
+  <script
+    src="https://context7.com/widget.js"
+    data-library="/openmindua/tech-lead-notes"
+    data-color="#3f51b5"
+    data-position="bottom-right"
+    data-placeholder="Ask about Scrum, PMBOK, DORA…"
+    async
+  ></script>
+{% endblock %}
