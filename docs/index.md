@@ -37,6 +37,45 @@ is the entire corpus concatenated for full-context loading.
 See [About the distilled tier](distilled/about.md) for the editorial
 policy, what was changed, and license attribution rules.
 
+## Sources to consider adding
+
+CC-licensed candidates that fit the tech-lead audience but are not yet
+ingested. Listed in rough priority. PRs welcome — see [`docs/sources.md`](sources.md)
+for the "how to add a new source" checklist.
+
+### Tier A — high fit, clean licensing
+
+| Source | Author(s) / Owner | License | Why it fits | Notes |
+|---|---|---|---|---|
+| **[P3.express](https://p3.express)** | PTCoE | CC BY 4.0 | Canonical text of the open minimalist methodology already cross-referenced throughout UtS distilled cards. | ~30-40 chunks; closes the maximalist (PRINCE2) / framework (Scrum) / minimalist (P3.express) triad. |
+| **[NUPP — Nearly Universal Principles of Projects](https://nupp.guide)** | PTCoE | CC BY 4.0 | The 6 NUPP principles already live in `distilled/principles/nupp/` via UtS commentary; this would replace the synthesis with the canonical text. | ~6-12 chunks; small win. |
+| **[Kanban Guide](https://kanbanguides.org/)** | Daniel Vacanti, Yuval Yeret et al. | CC BY-SA 4.0 | Flow-based work for teams that don't fit a Sprint cadence; pairs naturally with DORA cycle-time / lead-time metrics. | ~5-8 chunks; tiny but high-leverage. |
+
+### Tier B — useful but with caveats
+
+| Source | License | Caveat |
+|---|---|---|
+| **[Open PM² Guide](https://www.open-pm2.org/)** (European Commission) | CC **BY-NC-SA** 4.0 | NonCommercial clause — incompatible with any commercial use of this repo or derivatives. Suitable only if the repo stays purely educational. |
+| **[GitLab Handbook](https://handbook.gitlab.com/)** (selected chapters: Engineering, People Operations, Communication) | CC BY-SA 4.0 | Massive (~200+ pages); only worth ingesting selected chapters as an "engineering culture" tier. |
+| **[micro.P3.express](https://micro.p3.express/)** | CC BY 4.0 | Very niche — designed for projects with 1-4 team members. Add if the audience explicitly needs it. |
+| **State of DevOps Report** (Google Cloud / DORA team) | typically CC BY 4.0, varies by year | Mostly charts and benchmarks; relatively little prose framework. Useful as DORA reference data, not as a "playbook". |
+
+### Tier C — DO NOT add (license incompatibility)
+
+| Source | Why excluded |
+|---|---|
+| **Google SRE Book / SRE Workbook** | CC BY-**NC-ND** 4.0 — "NoDerivatives" forbids the distillation tier. Mirroring full text is allowed but adds limited value without distilled cards. |
+| **Liberating Structures** | CC BY-**NC**-SA 4.0 — NonCommercial clause. |
+| **The Phoenix Project / The Unicorn Project / Accelerate / The Manager's Path / Staff Engineer / An Elegant Puzzle / Continuous Delivery / Modern Software Engineering** | All proprietary, all rights reserved. |
+| **Agile Practice Guide** (PMI) | Proprietary. |
+| **DSDM Manual / APMBoK / PRINCE2 Manual** | Proprietary. We rely on the UtS commentary's coverage instead. |
+
+### How to add one
+
+See [`docs/sources.md`](sources.md) → "Adding a new source" — short
+6-step checklist (verify license, write ingest script, generate Tier-3,
+optional Tier-2 cards, update manifest + nav).
+
 ## How agents should consume this
 
 1. Load [`agent-index.md`](agent-index.md) in the system prompt
