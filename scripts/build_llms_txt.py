@@ -136,6 +136,8 @@ def render_tier2() -> list[str]:
         "dora-metrics-jira",
         "p3-express",
         "micro-p3-express",
+        "kanban-guide",
+        "open-guide-to-kanban",
         "synthesis",
     ]
     seen: set[str] = set()
@@ -158,6 +160,8 @@ def render_tier2() -> list[str]:
         "dora-metrics-jira": "Distilled — DORA Metrics in Jira",
         "p3-express": "Distilled — P3.express manual (v2)",
         "micro-p3-express": "Distilled — micro.P3.express manual",
+        "kanban-guide": "Distilled — The Kanban Guide (v2025.5)",
+        "open-guide-to-kanban": "Distilled — Open Guide to Kanban (v2025.7)",
         "synthesis": "Distilled — Synthesis (cross-source)",
     }
 

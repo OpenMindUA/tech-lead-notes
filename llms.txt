@@ -13,7 +13,7 @@
 ### Distilled — overview, glossary, cross-references
 
 - [Distilled (Tier 2)](https://raw.githubusercontent.com/OpenMindUA/tech-lead-notes/main/docs/distilled/index.md): This is a dense, agent-friendly distillation of Nader K. Rad's PMBOK Guide: Underneath the Surface (CC-BY-4.0). Anecdotes, historical commentary and personal asides are removed. Each card is a self-contained brief with…
-- [About the distilled tier](https://raw.githubusercontent.com/OpenMindUA/tech-lead-notes/main/docs/distilled/about.md): The Tier-2 distilled cards (everything under docs/distilled/) are editorial summaries of the seven CC-licensed sources listed in docs/sources.md. The full original text is preserved in Tier 3…
+- [About the distilled tier](https://raw.githubusercontent.com/OpenMindUA/tech-lead-notes/main/docs/distilled/about.md): The Tier-2 distilled cards (everything under docs/distilled/) are editorial summaries of the nine CC-licensed sources listed in docs/sources.md. The full original text is preserved in Tier 3…
 - [Cross-references](https://raw.githubusercontent.com/OpenMindUA/tech-lead-notes/main/docs/distilled/cross-references.md): A topic-to-source map. Use these clusters when you want to gather all the cards related to a single concept.
 - [Glossary](https://raw.githubusercontent.com/OpenMindUA/tech-lead-notes/main/docs/distilled/glossary.md): Distilled definitions of recurring terms, derived from the book. Each entry links to the primary distilled card or full chunk that develops it.
 
@@ -138,6 +138,18 @@
 - [micro.P3.express overview and deltas vs P3.express](https://raw.githubusercontent.com/OpenMindUA/tech-lead-notes/main/docs/distilled/micro-p3-express/01-overview-and-deltas.md): TL;DR: Designed for 1-7 team members. Replaces P3.express's monthly cycle with a weekly-only cadence. Replaces named roles with hats that one person can swap. Tooling/repository setup is explicit (A3). Use it for tiny…
 - [Hats, not roles](https://raw.githubusercontent.com/OpenMindUA/tech-lead-notes/main/docs/distilled/micro-p3-express/02-hats-not-roles.md): TL;DR: micro.P3.express replaces P3.express's named roles with four hats, each owning a set of concerns. Hats don't grant authority — they assign responsibility for making sure those concerns aren't neglected. One…
 
+### Distilled — The Kanban Guide (v2025.5)
+
+- [The Kanban Guide — distilled](https://raw.githubusercontent.com/OpenMindUA/tech-lead-notes/main/docs/distilled/kanban-guide/index.md): Cards distilled from The Kanban Guide v2025.5 — the canonical, minimal definition of Kanban as a flow-optimization strategy. Kanban is not a methodology or a "Sprint replacement"; it is a strategy applied to whatever…
+- [Kanban — three practices and the Definition of Workflow](https://raw.githubusercontent.com/OpenMindUA/tech-lead-notes/main/docs/distilled/kanban-guide/01-three-practices-and-dow.md): TL;DR: Kanban is three practices working in tandem — Define and visualize the workflow, Actively manage items, Improve the workflow. The shared explicit understanding of what flows through the system is the Definition…
+- [Kanban — flow metrics (the four mandatory)](https://raw.githubusercontent.com/OpenMindUA/tech-lead-notes/main/docs/distilled/kanban-guide/02-flow-metrics.md): TL;DR: Kanban requires exactly four flow metrics; everything else is optional and context-specific. The four feed the three practices — they're how you tell whether your DoW is delivering effectiveness, efficiency and…
+- [Kanban — when to use (and when not)](https://raw.githubusercontent.com/OpenMindUA/tech-lead-notes/main/docs/distilled/kanban-guide/03-when-to-use.md): TL;DR: Kanban applies wherever value flows through a workflow — knowledge-work industry doesn't matter. The decision is rarely "Scrum or Kanban"; it's "what do we want from flow?". Use Kanban when iteration cadence is…
+
+### Distilled — Open Guide to Kanban (v2025.7)
+
+- [Open Guide to Kanban — distilled](https://raw.githubusercontent.com/OpenMindUA/tech-lead-notes/main/docs/distilled/open-guide-to-kanban/index.md): Cards distilled from The Open Guide to Kanban v2025.7 — a community-expanded adaptation of The Kanban Guide. The Open Guide preserves the original strictly and adds material in italics: more definitions, an expanded…
+- [Open Guide to Kanban — deltas from The Kanban Guide](https://raw.githubusercontent.com/OpenMindUA/tech-lead-notes/main/docs/distilled/open-guide-to-kanban/01-deltas-from-kanban-guide.md): TL;DR: The Open Guide preserves The Kanban Guide verbatim (kept in regular type) and adds material in italics. Five categories of additions: (1) expanded metrics catalog, (2) Outcomes/Impact/Value (OIV) extension, (3)…
+
 ### Distilled — Synthesis (cross-source)
 
 - [Synthesis cards (cross-source)](https://raw.githubusercontent.com/OpenMindUA/tech-lead-notes/main/docs/distilled/synthesis/index.md): These cards combine material from multiple sources in this repository. Where individual per-source cards answer "what does framework X say about Y?", synthesis cards answer *"what does the whole corpus say about Y, and…
@@ -176,6 +188,52 @@
 #### Appendix: Common Pitfalls and How to Avoid Them
 
 - [Appendix: Common Pitfalls and How to Avoid Them](https://raw.githubusercontent.com/OpenMindUA/tech-lead-notes/main/docs/sources/dora-metrics-jira/05-appendix-common-pitfalls-and-how-to-avoid-them.md): ---
+
+### Source: The Kanban Guide (v2025.5 (May 2025))
+
+#### (landing)
+
+- [The Kanban Guide (v2025.5 (May 2025))](https://raw.githubusercontent.com/OpenMindUA/tech-lead-notes/main/docs/sources/kanban-guide/index.md): Canonical, minimal Kanban reference. © 2019-2025 Orderly Disruption Limited, Daniel S. Vacanti, Inc.. Licensed under CC BY-SA 4.0.
+
+#### Preface
+
+- [Preface](https://raw.githubusercontent.com/OpenMindUA/tech-lead-notes/main/docs/sources/kanban-guide/01-preface.md): May 2025
+
+#### Definition of Kanban
+
+- [Definition of Kanban](https://raw.githubusercontent.com/OpenMindUA/tech-lead-notes/main/docs/sources/kanban-guide/02-definition-of-kanban.md): Kanban is a strategy for optimizing the flow of value through a process. It comprises the following three practices working in tandem:
+
+#### Why Use Kanban?
+
+- [Why Use Kanban?](https://raw.githubusercontent.com/OpenMindUA/tech-lead-notes/main/docs/sources/kanban-guide/03-why-use-kanban.md): Central to the definition of Kanban is the concept of flow. Flow is the movement of potential value through a system. As most workflows exist to optimize value, the strategy of Kanban is to optimize value by optimizing…
+
+#### Kanban Theory
+
+- [Kanban Theory](https://raw.githubusercontent.com/OpenMindUA/tech-lead-notes/main/docs/sources/kanban-guide/04-kanban-theory.md): Kanban draws on established flow theory, including but not limited to systems thinking, lean principles, queuing theory (batch size and queue size), variation, and quality control. Continually improving a Kanban system…
+
+#### Kanban Practices
+
+- [Kanban Practices](https://raw.githubusercontent.com/OpenMindUA/tech-lead-notes/main/docs/sources/kanban-guide/05-kanban-practices.md): Optimizing flow requires defining what flow means in a given context. The explicit shared understanding of flow among Kanban system members within their context is called a Definition of Workflow (DoW). DoW is a…
+
+#### Flow Metrics
+
+- [Flow Metrics](https://raw.githubusercontent.com/OpenMindUA/tech-lead-notes/main/docs/sources/kanban-guide/06-flow-metrics.md): The application of Kanban requires collecting and analyzing a minimum set of flow metrics. They reflect the Kanban system’s current health and performance and will help inform decisions about how value is delivered.…
+
+#### Endnote
+
+- [Endnote](https://raw.githubusercontent.com/OpenMindUA/tech-lead-notes/main/docs/sources/kanban-guide/07-endnote.md): One can and likely should add other principles, methodologies, and techniques to the Kanban system. Still, the minimum set of practices, metrics, and the spirit of optimizing value must be preserved.
+
+#### History of Kanban
+
+- [History of Kanban](https://raw.githubusercontent.com/OpenMindUA/tech-lead-notes/main/docs/sources/kanban-guide/08-history-of-kanban.md): The present state of Kanban can be traced to the Toyota Production System (and its antecedents) and the work of people like Taiichi Ohno and W. Edwards Deming. The collective set of practices for knowledge work, now…
+
+#### Acknowledgments
+
+- [Acknowledgments](https://raw.githubusercontent.com/OpenMindUA/tech-lead-notes/main/docs/sources/kanban-guide/09-acknowledgments.md): In addition to all who helped to develop Kanban over the years, we would like to thank the following individuals specifically for their contributions to this guide:
+
+#### License
+
+- [License](https://raw.githubusercontent.com/OpenMindUA/tech-lead-notes/main/docs/sources/kanban-guide/10-license.md): This work is licensed by Orderly Disruption Limited and Daniel S. Vacanti, Inc. under a Creative Commons Attribution 4.0 International License.
 
 ### Source: micro.P3.express manual
 
@@ -245,6 +303,56 @@
 - [NUP4 — A chain is only as strong as its weakest link](https://raw.githubusercontent.com/OpenMindUA/tech-lead-notes/main/docs/sources/nupp/04-nup4-a-chain-is-only-as-strong-as-its-weakest-link.md): There are various domains in projects, and they all need attention; we must have a holistic perspective of the project. Paying attention to a seemingly important domain (e.g., time) is not enough, because all domains…
 - [NUP5 — Don't do anything without a clear purpose](https://raw.githubusercontent.com/OpenMindUA/tech-lead-notes/main/docs/sources/nupp/05-nup5-don-t-do-anything-without-a-clear-purpose.md): You shouldn’t do anything unless it has a clear purpose. Imagine two parallel worlds where everything is the same except for the thing that you’re considering doing: How different would those worlds be? Is the…
 - [NUP6 — Use repeatable elements](https://raw.githubusercontent.com/OpenMindUA/tech-lead-notes/main/docs/sources/nupp/06-nup6-use-repeatable-elements.md): An ad hoc approach to the project takes too much energy and resources, and always runs the risk of missing some of the necessary elements. The best way of simplifying what has to be done is to use repeatable elements,…
+
+### Source: Open Guide to Kanban (v2025.7 (July 2025))
+
+#### (landing)
+
+- [Open Guide to Kanban (v2025.7 (July 2025))](https://raw.githubusercontent.com/OpenMindUA/tech-lead-notes/main/docs/sources/open-guide-to-kanban/index.md): Adaptation of The Kanban Guide for hybrid / knowledge-work contexts. © 2019-2025 Orderly Disruption Limited, Daniel S. Vacanti, Inc.. Licensed under CC BY-SA 4.0.
+
+#### Preface
+
+- [Preface](https://raw.githubusercontent.com/OpenMindUA/tech-lead-notes/main/docs/sources/open-guide-to-kanban/01-preface.md): This document aims to provide open and adaptable guidance for Kanban and Flow, drawing on ideas curated from various communities. It aims to serve as a coherent reference for various communities in addition to their…
+
+#### Definition of Kanban in the Context of Knowledge Work
+
+- [Definition of Kanban in the Context of Knowledge Work](https://raw.githubusercontent.com/OpenMindUA/tech-lead-notes/main/docs/sources/open-guide-to-kanban/02-definition-of-kanban-in-the-context-of-knowledge-work.md): Kanban is a strategy for optimizing the Flow of Value through a system. It is a signaling system to call for Work or inventory. It comprises the following three practices working in tandem:
+
+#### Why Use Kanban?
+
+- [Why Use Kanban?](https://raw.githubusercontent.com/OpenMindUA/tech-lead-notes/main/docs/sources/open-guide-to-kanban/03-why-use-kanban.md): Central to the understanding of Kanban is the concept of Flow. In a Kanban system, Flow is the movement of Value through that Kanban system. As most Kanban workflows exist to optimize Value, the strategy of Kanban is…
+
+#### Kanban Theory
+
+- [Kanban Theory](https://raw.githubusercontent.com/OpenMindUA/tech-lead-notes/main/docs/sources/open-guide-to-kanban/04-kanban-theory.md): The Kanban system draws on various approaches and understanding including, but not limited to, systems thinking (5), lean principles (4), queuing theory (batch size (6-7) and queue size (1,13-14)), variation (2,11),…
+
+#### Kanban Practices
+
+- [Kanban Practices](https://raw.githubusercontent.com/OpenMindUA/tech-lead-notes/main/docs/sources/open-guide-to-kanban/05-kanban-practices.md): Optimizing Flow requires defining what Flow of Value means in a given context, the (ideally) smooth movement and delivery of potential or (ideally) realized benefits for Stakeholders. The explicit shared understanding…
+
+#### Inform Flow Optimization with Appropriate Measures or Metrics
+
+- [Inform Flow Optimization with Appropriate Measures or Metrics](https://raw.githubusercontent.com/OpenMindUA/tech-lead-notes/main/docs/sources/open-guide-to-kanban/06-inform-flow-optimization-with-appropriate-measures-or-metrics.md): The Flow metrics and measures apply to the appropriate ‘started’ and ‘finished’ points established by the Kanban system members in their Definition of Workflow. If there are multiple sets of ‘started’ and ‘finished’…
+
+#### Endnote
+
+- [Endnote](https://raw.githubusercontent.com/OpenMindUA/tech-lead-notes/main/docs/sources/open-guide-to-kanban/07-endnote.md): Only the Kanban Practices, the minimum criteria Definition of Workflow, and a selection of metrics or measures are mandatory; everything else is optional. Consider the context. Kanban system members should foster the…
+
+#### History of Kanban
+
+- [History of Kanban](https://raw.githubusercontent.com/OpenMindUA/tech-lead-notes/main/docs/sources/open-guide-to-kanban/08-history-of-kanban.md): The present state of Kanban can be traced to the Toyota Production System (and its antecedents) and the work of people such as Taiichi Ohno (9). The collective set of practices for Knowledge Work, now commonly referred…
+
+#### Acknowledgments
+
+- [Acknowledgments](https://raw.githubusercontent.com/OpenMindUA/tech-lead-notes/main/docs/sources/open-guide-to-kanban/09-acknowledgments.md): People acknowledged here do not necessarily agree with what is written in this document, and that is ok. Nevertheless, the Open Guide to Kanban owes a massive debt of gratitude to:
+
+#### Appendix
+
+- [Appendix](https://raw.githubusercontent.com/OpenMindUA/tech-lead-notes/main/docs/sources/open-guide-to-kanban/10-appendix.md): Control of ‘Started but not Finished Work’, also referred to as WIP control, can be represented on a Kanban board in any way that Kanban system members deem appropriate, including, but not limited to, painter’s tape…
+
+#### References
+
+- [References](https://raw.githubusercontent.com/OpenMindUA/tech-lead-notes/main/docs/sources/open-guide-to-kanban/11-references.md): References are placed here to inform readers of opportunities for further study. They do not necessarily support the text in this guide:
 
 ### Source: P3.express manual (v2)
 

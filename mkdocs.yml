@@ -1,5 +1,5 @@
 site_name: Tech Lead Notes
-site_description: Operational playbook for tech leads — three-tier mirror of CC-licensed PM/Scrum/DORA resources (PMBOK 7 commentary, Scrum Guide 2020, Scrum Guide Expansion Pack v2026.1, DORA Metrics in Jira) with distilled cards and full text for humans and LLM agents.
+site_description: Operational playbook for tech leads — three-tier mirror of CC-licensed PM/Scrum/DORA/Kanban resources (PMBOK 7 commentary, Scrum Guide 2020, Scrum Guide Expansion Pack v2026.1, DORA Metrics in Jira, NUPP, P3.express, micro.P3.express, The Kanban Guide, Open Guide to Kanban) with distilled cards and full text for humans and LLM agents.
 site_url: https://openmindua.github.io/tech-lead-notes/
 repo_url: https://github.com/OpenMindUA/tech-lead-notes
 edit_uri: edit/main/docs/
@@ -165,6 +165,14 @@ nav:
       - Overview: distilled/micro-p3-express/index.md
       - Overview and deltas: distilled/micro-p3-express/01-overview-and-deltas.md
       - Hats, not roles: distilled/micro-p3-express/02-hats-not-roles.md
+    - The Kanban Guide:
+      - Overview: distilled/kanban-guide/index.md
+      - Three practices + DoW: distilled/kanban-guide/01-three-practices-and-dow.md
+      - Flow metrics: distilled/kanban-guide/02-flow-metrics.md
+      - When to use Kanban: distilled/kanban-guide/03-when-to-use.md
+    - Open Guide to Kanban:
+      - Overview: distilled/open-guide-to-kanban/index.md
+      - Deltas from The Kanban Guide: distilled/open-guide-to-kanban/01-deltas-from-kanban-guide.md
     - Synthesis (cross-source):
       - Overview: distilled/synthesis/index.md
       - '"Done", quality, peer review': distilled/synthesis/01-done-and-quality.md
@@ -432,3 +440,28 @@ nav:
         - G1 — Evaluate the benefits: sources/micro-p3-express/06-g-post-project-management/01-evaluate-the-benefits.md
         - G2 — Generate new ideas: sources/micro-p3-express/06-g-post-project-management/02-generate-new-ideas.md
         - G3 — Conduct a focused communication: sources/micro-p3-express/06-g-post-project-management/03-conduct-a-focused-communication.md
+    - The Kanban Guide:
+      - About this source: sources/kanban-guide/index.md
+      - 1. Preface: sources/kanban-guide/01-preface.md
+      - 2. Definition of Kanban: sources/kanban-guide/02-definition-of-kanban.md
+      - 3. Why Use Kanban?: sources/kanban-guide/03-why-use-kanban.md
+      - 4. Kanban Theory: sources/kanban-guide/04-kanban-theory.md
+      - 5. Kanban Practices: sources/kanban-guide/05-kanban-practices.md
+      - 6. Flow Metrics: sources/kanban-guide/06-flow-metrics.md
+      - 7. Endnote: sources/kanban-guide/07-endnote.md
+      - 8. History of Kanban: sources/kanban-guide/08-history-of-kanban.md
+      - 9. Acknowledgments: sources/kanban-guide/09-acknowledgments.md
+      - 10. License: sources/kanban-guide/10-license.md
+    - Open Guide to Kanban:
+      - About this source: sources/open-guide-to-kanban/index.md
+      - 1. Preface: sources/open-guide-to-kanban/01-preface.md
+      - 2. Definition of Kanban (knowledge work): sources/open-guide-to-kanban/02-definition-of-kanban-in-the-context-of-knowledge-work.md
+      - 3. Why Use Kanban?: sources/open-guide-to-kanban/03-why-use-kanban.md
+      - 4. Kanban Theory: sources/open-guide-to-kanban/04-kanban-theory.md
+      - 5. Kanban Practices: sources/open-guide-to-kanban/05-kanban-practices.md
+      - 6. Inform Flow Optimization (metrics): sources/open-guide-to-kanban/06-inform-flow-optimization-with-appropriate-measures-or-metrics.md
+      - 7. Endnote: sources/open-guide-to-kanban/07-endnote.md
+      - 8. History of Kanban: sources/open-guide-to-kanban/08-history-of-kanban.md
+      - 9. Acknowledgments: sources/open-guide-to-kanban/09-acknowledgments.md
+      - 10. Appendix: sources/open-guide-to-kanban/10-appendix.md
+      - 11. References: sources/open-guide-to-kanban/11-references.md

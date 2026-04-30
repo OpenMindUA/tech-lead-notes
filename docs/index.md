@@ -36,6 +36,8 @@ is the entire corpus concatenated for full-context loading.
 | [NUPP — Nearly Universal Principles of Projects](sources/nupp/index.md) | PTCoE — Nader K. Rad et al. | CC BY 4.0 | included |
 | [P3.express manual (v2)](sources/p3-express/index.md) | PTCoE — Nader K. Rad et al. | CC BY 4.0 | included |
 | [micro.P3.express manual](sources/micro-p3-express/index.md) | PTCoE — Nader K. Rad et al. | CC BY 4.0 | included |
+| [The Kanban Guide](sources/kanban-guide/index.md) | John Coleman, Daniel Vacanti et al. | CC BY-SA 4.0 | included |
+| [Open Guide to Kanban](sources/open-guide-to-kanban/index.md) | John Coleman, Magdalena Firlit et al. | CC BY-SA 4.0 | included |
 
 See [About the distilled tier](distilled/about.md) for the editorial
 policy, what was changed, and license attribution rules.
@@ -43,14 +45,10 @@ policy, what was changed, and license attribution rules.
 ## Sources to consider adding
 
 CC-licensed candidates that fit the tech-lead audience but are not yet
-ingested. Listed in rough priority. PRs welcome — see [`docs/sources.md`](sources.md)
-for the "how to add a new source" checklist.
-
-### Tier A — high fit, clean licensing
-
-| Source | Author(s) / Owner | License | Why it fits | Notes |
-|---|---|---|---|---|
-| **[Kanban Guide](https://kanbanguides.org/)** | Daniel Vacanti, Yuval Yeret et al. | CC BY-SA 4.0 | Flow-based work for teams that don't fit a Sprint cadence; pairs naturally with DORA cycle-time / lead-time metrics. | ~5-8 chunks; tiny but high-leverage. |
+ingested. Tier A is now empty — all high-fit, clean-licensed sources
+in scope have been ingested. PRs welcome for Tier B candidates — see
+[`docs/sources.md`](sources.md) for the "how to add a new source"
+checklist.
 
 ### Tier B — useful but with caveats
 
@@ -91,11 +89,12 @@ optional Tier-2 cards, update manifest + nav).
 Each chunk and each card carries a `license:` field in its
 frontmatter. The repository combines:
 
-- **CC BY 4.0** material (Underneath the Surface) — usable in any
-  derivative as long as attribution is preserved.
-- **CC BY-SA 4.0** material (Scrum Guide and Scrum Guide Expanded
-  when added) — derivatives must retain CC BY-SA.
+- **CC BY 4.0** material (Underneath the Surface, NUPP, P3.express,
+  micro.P3.express) — usable in any derivative as long as attribution
+  is preserved.
+- **CC BY-SA 4.0** material (Scrum Guide, Scrum Guide Expansion Pack,
+  DORA Metrics in Jira, The Kanban Guide, Open Guide to Kanban) —
+  derivatives must retain CC BY-SA.
 
-Cross-source synthesis cards in `distilled/synthesis/` (when
-present) are CC BY-SA because they incorporate material from
-ShareAlike sources.
+Cross-source synthesis cards in `distilled/synthesis/` are CC BY-SA
+because they incorporate material from ShareAlike sources.

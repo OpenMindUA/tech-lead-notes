@@ -167,6 +167,20 @@ Artifacts and commitments:
 
 → overview: [micro.P3.express distilled](distilled/micro-p3-express/index.md)
 
+## The Kanban Guide (canonical, CC BY-SA)
+
+- **Three practices + DoW** — define/visualize, actively manage, improve; 6 minimum DoW elements (work items, started/finished, states, WIP control, explicit policies, SLE). → [card](distilled/kanban-guide/01-three-practices-and-dow.md)
+- **Flow metrics** — the four mandatory: WIP, Throughput, Work Item Age, Cycle Time; metric ↔ practice mapping; SLE construction. → [card](distilled/kanban-guide/02-flow-metrics.md)
+- **When to use Kanban** — fit; complement to Scrum; hand-off to DORA Lead Time for Changes. → [card](distilled/kanban-guide/03-when-to-use.md)
+
+→ overview: [The Kanban Guide distilled](distilled/kanban-guide/index.md)
+
+## Open Guide to Kanban (canonical, CC BY-SA)
+
+- **Deltas from The Kanban Guide** — expanded metrics catalog (~13), Outcomes/Impact/Value extension, knowledge-work framing, prioritization appendix. → [card](distilled/open-guide-to-kanban/01-deltas-from-kanban-guide.md)
+
+→ overview: [Open Guide to Kanban distilled](distilled/open-guide-to-kanban/index.md)
+
 ## Synthesis (cross-source, CC BY-SA)
 
 Cards that combine multiple sources for cross-cutting questions:

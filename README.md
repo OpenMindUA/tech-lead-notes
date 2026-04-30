@@ -33,6 +33,11 @@ is the entire corpus concatenated.
 | [The 2020 Scrum Guide](./docs/sources/scrum-guide/index.md) | Schwaber, Sutherland | CC BY-SA 4.0 | 23 | 17 |
 | [Scrum Guide Expansion Pack v2026.1](./docs/sources/scrum-guide-expanded/index.md) | Jocham, Coleman, Sutherland | CC BY-SA 4.0 | 57 | 16 |
 | [DORA Metrics in Jira](./docs/sources/dora-metrics-jira/index.md) | openmind (self-authored) | CC BY-SA 4.0 | 6 | 6 |
+| [NUPP](./docs/sources/nupp/index.md) | PTCoE — Nader K. Rad et al. | CC BY 4.0 | 7 | 7 |
+| [P3.express manual (v2)](./docs/sources/p3-express/index.md) | PTCoE — Nader K. Rad et al. | CC BY 4.0 | 41 | 6 |
+| [micro.P3.express manual](./docs/sources/micro-p3-express/index.md) | PTCoE — Nader K. Rad et al. | CC BY 4.0 | 34 | 3 |
+| [The Kanban Guide](./docs/sources/kanban-guide/index.md) | Coleman, Vacanti et al. | CC BY-SA 4.0 | 11 | 4 |
+| [Open Guide to Kanban](./docs/sources/open-guide-to-kanban/index.md) | Coleman, Firlit et al. | CC BY-SA 4.0 | 12 | 2 |
 
 Cross-source [synthesis cards](./docs/distilled/synthesis/index.md)
 combine material from multiple sources (CC BY-SA, 7 cards).
@@ -55,25 +60,45 @@ docs/
     scrum-guide/
     scrum-guide-expanded/
     dora-metrics-jira/
+    p3-express/
+    micro-p3-express/
+    kanban-guide/
+    open-guide-to-kanban/
     synthesis/                   cross-source cards (CC BY-SA)
   sources/                       Tier 3
     underneath-the-surface/
     scrum-guide/
     scrum-guide-expanded/
     dora-metrics-jira/
+    nupp/
+    p3-express/
+    micro-p3-express/
+    kanban-guide/
+    open-guide-to-kanban/
 
 raw-sources/                     pristine markdown snapshots
   pmbok-guide--underneath-the-surface.md  (also at repo root for compat)
   scrum-guide.md
   scrum-guide-expanded.md
   dora-metrics-jira.md
+  nupp.md
+  p3-express.md
+  micro-p3-express.md
+  kanban-guide.md
+  open-guide-to-kanban.md
 
 scripts/
   split_book.py                   UtS → docs/sources/underneath-the-surface
   ingest_scrum_guide.py           Scrum Guide HTML → MD → chunks
   ingest_scrum_guide_expanded.py  SGE HTML → MD → chunks
   split_dora_metrics.py           DORA doc → chunks
+  ingest_nupp.py                  NUPP → chunks
+  ingest_p3_express.py            P3.express HTML → MD → chunks
+  ingest_micro_p3_express.py      micro.P3.express HTML → MD → chunks
+  ingest_kanban_guide.py          The Kanban Guide HTML → MD → chunks
+  ingest_open_kanban_guide.py     Open Guide to Kanban HTML → MD → chunks
   build_llms_txt.py               regenerates llms.txt and llms-full.txt
+  lib/web_to_md.py                shared HTML→MD helpers (used by ingest_*)
 
 mkdocs.yml                        MkDocs Material configuration
 pyproject.toml                    uv project (docs + ingest dependency groups)
@@ -94,6 +119,8 @@ uv run python scripts/split_dora_metrics.py
 uv run python scripts/ingest_nupp.py
 uv run python scripts/ingest_p3_express.py
 uv run python scripts/ingest_micro_p3_express.py
+uv run python scripts/ingest_kanban_guide.py
+uv run python scripts/ingest_open_kanban_guide.py
 
 # regenerate llms.txt / llms-full.txt — required before mkdocs serve/build
 # because docs/llms.txt and docs/llms-full.txt are gitignored build artifacts

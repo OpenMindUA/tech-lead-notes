@@ -81,6 +81,76 @@ def extract_main(html: str, url: str, *, anchor_on_h1: bool = False) -> str:
     return str(node)
 
 
+def split_by_h2(
+    html: str,
+    url: str,
+    *,
+    container_selector: str,
+    drop_selectors: Iterable[str] = (),
+    drop_link_text: Iterable[str] = (),
+) -> tuple[str, list[tuple[str, str]]]:
+    """Split a single-page HTML doc into sections at <h2> boundaries.
+
+    Picks the element matching ``container_selector``, absolutizes relative
+    URLs against ``url``, strips elements matching any ``drop_selectors`` and
+    anchor tags whose text matches ``drop_link_text``, then walks the
+    container's direct children and groups everything between consecutive
+    <h2>s. Content before the first <h2> is returned as the preamble.
+
+    Returns ``(preamble_html, [(h2_title, section_html), ...])`` where each
+    section_html starts with the <h2> itself.
+    """
+    soup = BeautifulSoup(html, "html.parser")
+    container = soup.select_one(container_selector)
+    if container is None or not isinstance(container, Tag):
+        raise ValueError(f"container {container_selector!r} not found in {url}")
+
+    for a in container.find_all("a"):
+        if isinstance(a, Tag) and a.get("href"):
+            href = a["href"]
+            if isinstance(href, str) and href.startswith(("/", "./", "../")):
+                a["href"] = urljoin(url, href)
+
+    drop_text_set = set(drop_link_text)
+    if drop_text_set:
+        for a in list(container.find_all("a")):
+            if a.get_text(strip=True) in drop_text_set:
+                a.decompose()
+    for sel in drop_selectors:
+        for n in list(container.select(sel)):
+            n.decompose()
+
+    preamble: list[Tag] = []
+    sections: list[dict] = []
+    current: dict | None = None
+    for el in list(container.children):
+        if not isinstance(el, Tag):
+            continue
+        if el.name == "h2":
+            if current is not None:
+                sections.append(current)
+            current = {"title": el.get_text(strip=True), "elements": [el]}
+        else:
+            if current is not None:
+                current["elements"].append(el)
+            else:
+                preamble.append(el)
+    if current is not None:
+        sections.append(current)
+
+    def render(elements: list[Tag]) -> str:
+        wrapper = soup.new_tag("div")
+        for e in elements:
+            wrapper.append(e.extract())
+        return str(wrapper)
+
+    pre_html = render(preamble)
+    out: list[tuple[str, str]] = []
+    for s in sections:
+        out.append((s["title"], render(s["elements"])))
+    return pre_html, out
+
+
 def html_to_markdown(html: str) -> str:
     """Convert HTML to Markdown with conventions matching the rest of the
     repository (ATX headings, no escaped underscores, etc.)."""

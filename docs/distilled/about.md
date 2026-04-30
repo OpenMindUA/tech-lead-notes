@@ -10,7 +10,7 @@ tags: [distilled, editorial, disclaimer, attribution]
 ## What this is
 
 The Tier-2 distilled cards (everything under `docs/distilled/`)
-are **editorial summaries** of the seven CC-licensed sources
+are **editorial summaries** of the nine CC-licensed sources
 listed in [`docs/sources.md`](../sources.md). The full original
 text is preserved in Tier 3 (`docs/sources/<source-id>/…`) and
 remains the canonical reference. Each distilled card carries a
@@ -27,6 +27,8 @@ remains the canonical reference. Each distilled card carries a
 | NUPP — Nearly Universal Principles of Projects | CC BY 4.0 | existing `principles/nupp/` cards (UtS-derived) cross-link to the canonical text in Tier 3 |
 | P3.express manual (v2) | CC BY 4.0 | `p3-express/` |
 | micro.P3.express manual | CC BY 4.0 | `micro-p3-express/` |
+| The Kanban Guide (v2025.5) | CC BY-SA 4.0 | `kanban-guide/` |
+| Open Guide to Kanban (v2025.7) | CC BY-SA 4.0 | `open-guide-to-kanban/` |
 
 Cross-source synthesis cards live under
 [`synthesis/`](synthesis/index.md) and are CC BY-SA 4.0
@@ -94,9 +96,10 @@ The repository combines content under two CC licenses:
   P3.express, micro.P3.express. Cards derived **only** from these
   sources can stay CC BY 4.0.
 - **CC BY-SA 4.0** sources: Scrum Guide, Scrum Guide Expansion
-  Pack, DORA Metrics in Jira (self-authored under this license).
-  Cards derived from any of these — and any cross-source
-  synthesis card — are **CC BY-SA 4.0** (ShareAlike inherits).
+  Pack, DORA Metrics in Jira (self-authored under this license),
+  The Kanban Guide, Open Guide to Kanban. Cards derived from any
+  of these — and any cross-source synthesis card — are **CC BY-SA
+  4.0** (ShareAlike inherits).
 
 The `license:` field in each card's YAML frontmatter is
 **authoritative per file**. See
@@ -105,7 +108,8 @@ and attribution boilerplate.
 
 This repository is **not affiliated with or endorsed by**
 Nader K. Rad, PTCoE, PMI, AXELOS, the Agile Business Consortium,
-the European Commission, Atlassian, Google Cloud, or any other
+the European Commission, Atlassian, Google Cloud, Orderly
+Disruption Limited, Daniel S. Vacanti Inc., or any other
 organization whose work is referenced. PMI and PMBOK are
 registered marks of the Project Management Institute, Inc.
 PRINCE2® and PRINCE2 Agile® are registered marks of AXELOS
@@ -138,10 +142,10 @@ this repository.
 
 - **Tier 3** is regenerated on every push by ingest scripts in
   `scripts/`. For sources fetched from the web (Scrum Guide,
-  Scrum Guide Expanded, NUPP, P3.express, micro.P3.express) the
-  build is **best-effort** — if upstream is unreachable, CI falls
-  back to the committed snapshot in `raw-sources/` and emits a
-  warning.
+  Scrum Guide Expanded, NUPP, P3.express, micro.P3.express,
+  The Kanban Guide, Open Guide to Kanban) the build is
+  **best-effort** — if upstream is unreachable, CI falls back to
+  the committed snapshot in `raw-sources/` and emits a warning.
 - A monthly workflow
   ([`.github/workflows/monthly-refresh.yml`](https://github.com/OpenMindUA/tech-lead-notes/blob/main/.github/workflows/monthly-refresh.yml))
   fetches all upstream sources and **opens a PR** if the committed

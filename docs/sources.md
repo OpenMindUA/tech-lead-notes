@@ -94,24 +94,49 @@ licensing combines from all of them.
 - **Files:** 34 chunks (6 activity groups × 2-7 activities; 27 activities total)
 - **Notes:** Replaces P3.express's monthly cycle with weekly only; introduces the **hats** concept (people swap hats between roles) for tiny teams.
 
+### 8. The Kanban Guide
+
+- **Authors:** John Coleman, Daniel Vacanti, Colleen Johnson, Prateek Singh, Julia Wester, Christian Neverdal, Magdalena Firlit, Tom Gilb, Steve Tendon
+- **Type:** Canonical, minimal definition of Kanban as a flow-optimization strategy
+- **Original URL:** <https://kanbanguides.org/the-kanban-guide/>
+- **License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+- **Version:** v2025.5 (May 1, 2025)
+- **Local Tier 3 path:** [`docs/sources/kanban-guide/`](sources/kanban-guide/index.md)
+- **Local Tier 2 distillation:** [`docs/distilled/kanban-guide/`](distilled/kanban-guide/index.md)
+- **Files:** 11 chunks · 4 distilled cards
+- **Notes:** Pairs with the Open Guide to Kanban the same way SG2020 pairs with the Scrum Guide Expansion Pack — same authors and DOM shape on `kanbanguides.org`. The four mandatory flow metrics (WIP, Throughput, Work Item Age, Cycle Time) are the floor; everything else is opt-in.
+
+### 9. Open Guide to Kanban
+
+- **Authors:** John Coleman, Magdalena Firlit, Nigel Thurlow, Jose Casal, Martin Hinshelwood, Andy Carmichael, Jim Benson, Michael Forni, Christian Neverdal, Nader Talai, Steve Tendon
+- **Type:** Community-expanded adaptation of The Kanban Guide for hybrid / knowledge-work contexts
+- **Original URL:** <https://kanbanguides.org/open-guide-to-kanban/>
+- **License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+- **Version:** v2025.7 (July 2, 2025)
+- **Local Tier 3 path:** [`docs/sources/open-guide-to-kanban/`](sources/open-guide-to-kanban/index.md)
+- **Local Tier 2 distillation:** [`docs/distilled/open-guide-to-kanban/`](distilled/open-guide-to-kanban/index.md)
+- **Files:** 12 chunks · 2 distilled cards
+- **Notes:** Adaptation notice from upstream: preserves *The Kanban Guide* verbatim (regular type) and adds material in italics — expanded metrics catalog (~13 measures), Outcomes/Impact/Value extension, knowledge-work framing, prioritization appendix.
+
 ## License combinations
 
 The repository combines content under two Creative Commons licenses:
 
 | License | Sources | Tier 2 cards derived from these only |
 |---------|---------|---------------------------------------|
-| **CC BY 4.0** | Underneath the Surface | `distilled/principles/`, `distilled/performance-domains/`, `distilled/methodologies/`, `distilled/glossary.md`, `distilled/cross-references.md` |
-| **CC BY-SA 4.0** | Scrum Guide, Scrum Guide Expanded, DORA Metrics in Jira | `distilled/scrum-guide/`, `distilled/scrum-guide-expanded/`, `distilled/dora-metrics-jira/`, `distilled/synthesis/` (cross-source) |
+| **CC BY 4.0** | Underneath the Surface, NUPP, P3.express, micro.P3.express | `distilled/principles/` (PMBOK 7, NUPP, PRINCE2), `distilled/performance-domains/`, `distilled/methodologies/`, `distilled/glossary.md`, `distilled/cross-references.md`, `distilled/p3-express/`, `distilled/micro-p3-express/` |
+| **CC BY-SA 4.0** | Scrum Guide, Scrum Guide Expansion Pack, DORA Metrics in Jira, The Kanban Guide, Open Guide to Kanban | `distilled/scrum-guide/`, `distilled/scrum-guide-expanded/`, `distilled/dora-metrics-jira/`, `distilled/kanban-guide/`, `distilled/open-guide-to-kanban/`, `distilled/synthesis/` (cross-source) |
 
 ### How CC BY-SA 4.0 affects mixed content
 
 - CC BY-SA's **ShareAlike** clause requires derivatives that
   incorporate CC BY-SA material to remain CC BY-SA.
 - Therefore the [synthesis tier](distilled/synthesis/index.md), which
-  combines CC-BY (UtS) + CC-BY-SA (Scrum / SGE / DORA) material, is
-  **CC BY-SA 4.0**.
+  combines CC-BY (UtS / NUPP / P3.express / micro.P3.express) +
+  CC-BY-SA (Scrum / SGE / DORA / Kanban Guide / Open Guide to Kanban)
+  material, is **CC BY-SA 4.0**.
 - The full-corpus dump [`llms-full.txt`](llms-full.txt) is also
-  effectively **CC BY-SA 4.0** because it concatenates all four
+  effectively **CC BY-SA 4.0** because it concatenates ShareAlike
   sources.
 
 ### Per-chunk licensing
@@ -136,6 +161,11 @@ Examples:
   <https://scrumexpansion.org/scrum-guide-expanded/>."*
 - *"From the DORA Metrics in Jira methodology by openmind
   (CC BY-SA 4.0)."*
+- *"Distilled from The Kanban Guide by John Coleman, Daniel Vacanti
+  et al. (CC BY-SA 4.0). See <https://kanbanguides.org/the-kanban-guide/>."*
+- *"Distilled from the Open Guide to Kanban by John Coleman,
+  Magdalena Firlit et al. (CC BY-SA 4.0). See
+  <https://kanbanguides.org/open-guide-to-kanban/>."*
 
 ## What's not affiliated
 
@@ -146,8 +176,9 @@ This repository is **not affiliated with or endorsed by**:
 - AXELOS / PRINCE2 Foundation
 - Agile Business Consortium (DSDM)
 - European Commission (PM²)
-- Atlassian, Google Cloud (DORA), or any other organization whose
-  product is referenced
+- Atlassian, Google Cloud (DORA), Orderly Disruption Limited,
+  Daniel S. Vacanti Inc., or any other organization whose product is
+  referenced
 
 PMI and PMBOK are registered marks of the Project Management
 Institute, Inc. PRINCE2® and PRINCE2 Agile® are registered marks of

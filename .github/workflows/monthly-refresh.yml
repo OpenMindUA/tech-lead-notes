@@ -48,6 +48,12 @@ jobs:
       - name: Fetch micro.P3.express
         run: uv run python scripts/ingest_micro_p3_express.py
 
+      - name: Fetch The Kanban Guide
+        run: uv run python scripts/ingest_kanban_guide.py
+
+      - name: Fetch Open Guide to Kanban
+        run: uv run python scripts/ingest_open_kanban_guide.py
+
       - name: Re-split deterministic sources
         run: |
           uv run python scripts/split_book.py
