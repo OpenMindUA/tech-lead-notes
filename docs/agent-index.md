@@ -181,6 +181,18 @@ Artifacts and commitments:
 
 → overview: [Open Guide to Kanban distilled](distilled/open-guide-to-kanban/index.md)
 
+## Wardley Maps (Simon Wardley, CC BY-SA)
+
+- **Anatomy of a map** — anchor (user need) + value chain × evolution axis; map ≠ graph. → [card](distilled/wardley-maps/01-anatomy-of-a-map.md)
+- **Evolution stages** — genesis → custom → product → commodity; stage names per type (activity / practice / data / knowledge); stage dictates build-vs-buy. → [card](distilled/wardley-maps/02-evolution-stages.md)
+- **Doctrine** — universal practices (focus on user, common language, appropriate methods, transparency, challenge assumptions, aptitude × attitude); fix before gameplay. → [card](distilled/wardley-maps/03-doctrine.md)
+- **Climatic patterns** — everything evolves; inertia; commoditization enables new genesis; coevolution of practice and activity; punctuated equilibrium. → [card](distilled/wardley-maps/04-climatic-patterns.md)
+- **Gameplay** — context-specific plays (open-source play, tower & moat, ILC, embrace and extend, etc.) — only valid given a map + climate. → [card](distilled/wardley-maps/05-gameplay.md)
+- **Pioneers, Settlers, Town Planners** — three populations matched to evolution stages; theft as deliberate hand-off. → [card](distilled/wardley-maps/06-pioneers-settlers-town-planners.md)
+- **Strategy cycle** — purpose → landscape → climate → doctrine → leadership; OODA-like loop; when Wardley fits vs Scrum/Kanban. → [card](distilled/wardley-maps/07-strategy-cycle-and-when-to-use.md)
+
+→ overview: [Wardley Maps distilled](distilled/wardley-maps/index.md)
+
 ## Synthesis (cross-source, CC BY-SA)
 
 Cards that combine multiple sources for cross-cutting questions:

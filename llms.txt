@@ -13,7 +13,7 @@
 ### Distilled — overview, glossary, cross-references
 
 - [Distilled (Tier 2)](https://raw.githubusercontent.com/OpenMindUA/tech-lead-notes/main/docs/distilled/index.md): This is a dense, agent-friendly distillation of Nader K. Rad's PMBOK Guide: Underneath the Surface (CC-BY-4.0). Anecdotes, historical commentary and personal asides are removed. Each card is a self-contained brief with…
-- [About the distilled tier](https://raw.githubusercontent.com/OpenMindUA/tech-lead-notes/main/docs/distilled/about.md): The Tier-2 distilled cards (everything under docs/distilled/) are editorial summaries of the nine CC-licensed sources listed in docs/sources.md. The full original text is preserved in Tier 3…
+- [About the distilled tier](https://raw.githubusercontent.com/OpenMindUA/tech-lead-notes/main/docs/distilled/about.md): The Tier-2 distilled cards (everything under docs/distilled/) are editorial summaries of the ten CC-licensed sources listed in docs/sources.md. The full original text is preserved in Tier 3 (docs/sources/<source-id>/…)…
 - [Cross-references](https://raw.githubusercontent.com/OpenMindUA/tech-lead-notes/main/docs/distilled/cross-references.md): A topic-to-source map. Use these clusters when you want to gather all the cards related to a single concept.
 - [Glossary](https://raw.githubusercontent.com/OpenMindUA/tech-lead-notes/main/docs/distilled/glossary.md): Distilled definitions of recurring terms, derived from the book. Each entry links to the primary distilled card or full chunk that develops it.
 
@@ -149,6 +149,17 @@
 
 - [Open Guide to Kanban — distilled](https://raw.githubusercontent.com/OpenMindUA/tech-lead-notes/main/docs/distilled/open-guide-to-kanban/index.md): Cards distilled from The Open Guide to Kanban v2025.7 — a community-expanded adaptation of The Kanban Guide. The Open Guide preserves the original strictly and adds material in italics: more definitions, an expanded…
 - [Open Guide to Kanban — deltas from The Kanban Guide](https://raw.githubusercontent.com/OpenMindUA/tech-lead-notes/main/docs/distilled/open-guide-to-kanban/01-deltas-from-kanban-guide.md): TL;DR: The Open Guide preserves The Kanban Guide verbatim (kept in regular type) and adds material in italics. Five categories of additions: (1) expanded metrics catalog, (2) Outcomes/Impact/Value (OIV) extension, (3)…
+
+### Distilled — Wardley Maps (Simon Wardley)
+
+- [Wardley Maps — distilled cards](https://raw.githubusercontent.com/OpenMindUA/tech-lead-notes/main/docs/distilled/wardley-maps/index.md): Dense per-concept cards distilled from Simon Wardley's book Wardley Maps (CC BY-SA 4.0). Use these for fast topical lookup; use the Tier-3 chapters for verbatim text and figures.
+- [Wardley Maps — anatomy of a map](https://raw.githubusercontent.com/OpenMindUA/tech-lead-notes/main/docs/distilled/wardley-maps/01-anatomy-of-a-map.md): TL;DR: A Wardley Map is a value chain plotted against an evolution axis. It is anchored on user needs at the top, decomposed into the components required to serve them, and each component is positioned horizontally by…
+- [Wardley Maps — evolution stages](https://raw.githubusercontent.com/OpenMindUA/tech-lead-notes/main/docs/distilled/wardley-maps/02-evolution-stages.md): TL;DR: Every component on a map sits in one of four evolution stages — genesis → custom-built → product (incl. rental) → commodity (incl. utility). The stage tells you how to treat it: build, buy, outsource, replace.…
+- [Wardley Maps — doctrine (universal practices)](https://raw.githubusercontent.com/OpenMindUA/tech-lead-notes/main/docs/distilled/wardley-maps/03-doctrine.md): TL;DR: Doctrine = the universal practices that apply to any organization regardless of context. Apply them before context-specific gameplay. Wardley groups doctrine into phases (communication, development, operation,…
+- [Wardley Maps — climatic patterns](https://raw.githubusercontent.com/OpenMindUA/tech-lead-notes/main/docs/distilled/wardley-maps/04-climatic-patterns.md): TL;DR: Climate = the rules that act on every map regardless of who you are or what you build. They aren't your choices; they happen to you. Map them before deciding any move. Headline rules: everything evolves, change…
+- [Wardley Maps — gameplay](https://raw.githubusercontent.com/OpenMindUA/tech-lead-notes/main/docs/distilled/wardley-maps/05-gameplay.md): TL;DR: Gameplay = the deliberate moves you make on the map to advance your purpose. Unlike doctrine (universal), gameplay is context-specific — what works here may fail there. Wardley catalogs ~60 plays grouped by…
+- [Wardley Maps — Pioneers, Settlers, Town Planners](https://raw.githubusercontent.com/OpenMindUA/tech-lead-notes/main/docs/distilled/wardley-maps/06-pioneers-settlers-town-planners.md): TL;DR: Different evolution stages need fundamentally different attitudes in the people working on them. Pioneers explore the unknown (genesis/custom). Settlers turn prototypes into robust products (product). Town…
+- [Wardley Maps — strategy cycle and when to use](https://raw.githubusercontent.com/OpenMindUA/tech-lead-notes/main/docs/distilled/wardley-maps/07-strategy-cycle-and-when-to-use.md): TL;DR: Wardley's strategy cycle is an OODA-like loop: purpose → landscape → climate → doctrine → leadership (act), then back. Strategy is iterative, not a one-shot plan. Wardley Mapping is the right tool when you need…
 
 ### Distilled — Synthesis (cross-source)
 
@@ -647,6 +658,89 @@
 #### Where to Go from Here
 
 - [Where to Go from Here](https://raw.githubusercontent.com/OpenMindUA/tech-lead-notes/main/docs/sources/underneath-the-surface/05-where-to-go-from-here/index.md): I hope you’ve enjoyed this brief overview of the PMBOK Guide, and especially the fact that it was about the real essence of the PMBOK Guide rather than a one-to-one summary of the content of the official manual. If you…
+
+### Source: Wardley Maps
+
+#### (landing)
+
+- [Wardley Maps](https://raw.githubusercontent.com/OpenMindUA/tech-lead-notes/main/docs/sources/wardley-maps/index.md): Simon Wardley's book on strategic mapping, published on Medium under CC BY-SA 4.0 and mirrored to markdown by the jsell-rh/wardley-maps-book-md project. © Simon Wardley.
+- [License](https://raw.githubusercontent.com/OpenMindUA/tech-lead-notes/main/docs/sources/wardley-maps/20-license.md): Original: <https://medium.com/wardleymaps> · Mirror: <https://github.com/jsell-rh/wardley-maps-book-md>
+
+#### On being lost
+
+- [On being lost](https://raw.githubusercontent.com/OpenMindUA/tech-lead-notes/main/docs/sources/wardley-maps/01-on-being-lost.md): This is the story of my journey, from a bumbling and confused CEO lost in the headlights of change to having a vague idea of what I was doing. I say vague because I’m not going to make grand claims to the techniques…
+
+#### Finding a path
+
+- [Finding a path](https://raw.githubusercontent.com/OpenMindUA/tech-lead-notes/main/docs/sources/wardley-maps/02-finding-a-path.md): The problem I had was how do I map a business? Unlike a board game such as chess with its turned based moves, when you consider a business it is a living thing. It consists of a network of people, a mass of different…
+
+#### Exploring the map
+
+- [Exploring the map](https://raw.githubusercontent.com/OpenMindUA/tech-lead-notes/main/docs/sources/wardley-maps/03-exploring-the-map.md): Hurray, we’ve got a map! What now? The purpose of producing a map is to help us to learn and then apply basic climatic patterns, doctrine and context specific forms of gameplay. Maps are our learning and communication…
+
+#### Doctrine
+
+- [Doctrine](https://raw.githubusercontent.com/OpenMindUA/tech-lead-notes/main/docs/sources/wardley-maps/04-doctrine.md): I had created my first map and applied an understanding of some basic climatic patterns that might influence it. These patterns were the ones that I could not stop but I could anticipate. Whether I liked it or not the…
+
+#### The play and a decision to act
+
+- [The play and a decision to act](https://raw.githubusercontent.com/OpenMindUA/tech-lead-notes/main/docs/sources/wardley-maps/05-the-play-and-a-decision-to-act.md): In chapters one to four I’ve covered the basics of mapping, common economic patterns and doctrine. However, these Wardley maps of business don’t tell you what to do any more than a geographical map tells an Admiral how…
+
+#### Getting started
+
+- [Getting started](https://raw.githubusercontent.com/OpenMindUA/tech-lead-notes/main/docs/sources/wardley-maps/06-getting-started.md): I often talk about that wise executive that I met in the Arts hotel of Barcelona. I’ll jump ahead in the story and let you into a little secret. He didn’t have a clue either and I wasn’t the only person faking at being…
+
+#### Finding a new purpose
+
+- [Finding a new purpose](https://raw.githubusercontent.com/OpenMindUA/tech-lead-notes/main/docs/sources/wardley-maps/07-finding-a-new-purpose.md): It was 2007, I was at home and I was unemployed. I twiddled my thumbs for a couple of days, did some DIY and then set about thinking on my future. This is code for watching my bank balance plummet whilst not doing…
+
+#### Keeping the wolves at bay
+
+- [Keeping the wolves at bay](https://raw.githubusercontent.com/OpenMindUA/tech-lead-notes/main/docs/sources/wardley-maps/08-keeping-the-wolves-at-bay.md): To keep funding my research, I took a few more paid gigs which basically meant becoming a gun for hire. Cloud computing was colliding with the technology scene and there was lots of confusion about. Hence I had a…
+
+#### Charting the future
+
+- [Charting the future](https://raw.githubusercontent.com/OpenMindUA/tech-lead-notes/main/docs/sources/wardley-maps/09-charting-the-future.md): Most people don’t have a desire to learn mapping for the sake of it. Instead, what people are looking for is a way to create advantage either through learning of context specific play (i.e. outsmarting others), the…
+
+#### I wasn’t expecting that
+
+- [I wasn’t expecting that](https://raw.githubusercontent.com/OpenMindUA/tech-lead-notes/main/docs/sources/wardley-maps/10-i-wasn-t-expecting-that.md): I was in a quandary. Having described the three states of war, wonder and peace then I found myself in the unusual position of finding them everywhere. All activities seemed to show these three competitive states.…
+
+#### A smorgasbord of the slightly useful
+
+- [A smorgasbord of the slightly useful](https://raw.githubusercontent.com/OpenMindUA/tech-lead-notes/main/docs/sources/wardley-maps/11-a-smorgasbord-of-the-slightly-useful.md): _“Here’s one I made earlier”_ is the staple diet of TV programmes when faced with the possibility that something might go wrong. Demonstrations are always a risky business. In the case of this book, doubly so. I want…
+
+#### The scenario
+
+- [The scenario](https://raw.githubusercontent.com/OpenMindUA/tech-lead-notes/main/docs/sources/wardley-maps/12-the-scenario.md): You are a member of the executive board of a huge conglomerate focused on facilities management. You’re attending a meeting of a wholly owned subsidiary company with their executives. You’re on a fact finding mission,…
+
+#### Something wicked this way comes
+
+- [Something wicked this way comes](https://raw.githubusercontent.com/OpenMindUA/tech-lead-notes/main/docs/sources/wardley-maps/13-something-wicked-this-way-comes.md): It maybe unlucky for some but I’m going to start this chapter 13 by announcing that I’m not going to give you an answer to the scenario — yet. Instead, I’m going to give you some analysis just in case you’re needing a…
+
+#### To thine own self be true
+
+- [To thine own self be true](https://raw.githubusercontent.com/OpenMindUA/tech-lead-notes/main/docs/sources/wardley-maps/14-to-thine-own-self-be-true.md): swardley highlighted The hardest thing about mapping is coming to terms with a simple fact that there is no right answer. Mapping enables you to observe the environment, the constant flow of evolution and moves of…
+
+#### On the practice of scenario planning
+
+- [On the practice of scenario planning](https://raw.githubusercontent.com/OpenMindUA/tech-lead-notes/main/docs/sources/wardley-maps/15-on-the-practice-of-scenario-planning.md): One difficulty that people face with the Phoenix scenario outlined in the previous chapters is the question of role. It’s not unusual to look at the scenario and its corresponding plays such as _“pig in a poke”_ and…
+
+#### Super Looper
+
+- [Super Looper](https://raw.githubusercontent.com/OpenMindUA/tech-lead-notes/main/docs/sources/wardley-maps/16-super-looper.md): The LFP example is based upon a real-world event. I say “ _based_ ” because I usually take time to disguise the actual event to protect any guilty parties. In this case, the haphazard and stumbling CEO was … me. I’m…
+
+#### To infinity and beyond
+
+- [To infinity and beyond](https://raw.githubusercontent.com/OpenMindUA/tech-lead-notes/main/docs/sources/wardley-maps/17-to-infinity-and-beyond.md): I was working on the use of printed electronics with paper (think of digital interactivity within a normal book) when I got that phone call from a friend about _“this spaceman who really wants to meet you”_. I was…
+
+#### Better for Less
+
+- [Better for Less](https://raw.githubusercontent.com/OpenMindUA/tech-lead-notes/main/docs/sources/wardley-maps/18-better-for-less.md): In early 2009, I met Liam Maxwell. That name might not mean much to you unless you work in Government but he has been an influential figure in government technology throughout the world, a strong advocate of mapping…
+
+#### On playing chess
+
+- [On playing chess](https://raw.githubusercontent.com/OpenMindUA/tech-lead-notes/main/docs/sources/wardley-maps/19-on-playing-chess.md): In this chapter, I’m going to introduce some basic concepts that we will use and expand upon when exploring the issue of strategy itself. These concepts include stepping stones, use of policy, nature of capital and…
 
 ## Optional
 

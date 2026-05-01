@@ -38,6 +38,7 @@ is the entire corpus concatenated for full-context loading.
 | [micro.P3.express manual](sources/micro-p3-express/index.md) | PTCoE — Nader K. Rad et al. | CC BY 4.0 | included |
 | [The Kanban Guide](sources/kanban-guide/index.md) | John Coleman, Daniel Vacanti et al. | CC BY-SA 4.0 | included |
 | [Open Guide to Kanban](sources/open-guide-to-kanban/index.md) | John Coleman, Magdalena Firlit et al. | CC BY-SA 4.0 | included |
+| [Wardley Maps](sources/wardley-maps/index.md) | Simon Wardley | CC BY-SA 4.0 | included |
 
 See [About the distilled tier](distilled/about.md) for the editorial
 policy, what was changed, and license attribution rules.
@@ -93,8 +94,8 @@ frontmatter. The repository combines:
   micro.P3.express) — usable in any derivative as long as attribution
   is preserved.
 - **CC BY-SA 4.0** material (Scrum Guide, Scrum Guide Expansion Pack,
-  DORA Metrics in Jira, The Kanban Guide, Open Guide to Kanban) —
-  derivatives must retain CC BY-SA.
+  DORA Metrics in Jira, The Kanban Guide, Open Guide to Kanban,
+  Wardley Maps) — derivatives must retain CC BY-SA.
 
 Cross-source synthesis cards in `distilled/synthesis/` are CC BY-SA
 because they incorporate material from ShareAlike sources.

@@ -1,5 +1,5 @@
 site_name: Tech Lead Notes
-site_description: Operational playbook for tech leads — three-tier mirror of CC-licensed PM/Scrum/DORA/Kanban resources (PMBOK 7 commentary, Scrum Guide 2020, Scrum Guide Expansion Pack v2026.1, DORA Metrics in Jira, NUPP, P3.express, micro.P3.express, The Kanban Guide, Open Guide to Kanban) with distilled cards and full text for humans and LLM agents.
+site_description: Operational playbook for tech leads — three-tier mirror of CC-licensed PM/Scrum/DORA/Kanban/strategy resources (PMBOK 7 commentary, Scrum Guide 2020, Scrum Guide Expansion Pack v2026.1, DORA Metrics in Jira, NUPP, P3.express, micro.P3.express, The Kanban Guide, Open Guide to Kanban, Wardley Maps) with distilled cards and full text for humans and LLM agents.
 site_url: https://openmindua.github.io/tech-lead-notes/
 repo_url: https://github.com/OpenMindUA/tech-lead-notes
 edit_uri: edit/main/docs/
@@ -173,6 +173,15 @@ nav:
     - Open Guide to Kanban:
       - Overview: distilled/open-guide-to-kanban/index.md
       - Deltas from The Kanban Guide: distilled/open-guide-to-kanban/01-deltas-from-kanban-guide.md
+    - Wardley Maps:
+      - Overview: distilled/wardley-maps/index.md
+      - Anatomy of a map: distilled/wardley-maps/01-anatomy-of-a-map.md
+      - Evolution stages: distilled/wardley-maps/02-evolution-stages.md
+      - Doctrine: distilled/wardley-maps/03-doctrine.md
+      - Climatic patterns: distilled/wardley-maps/04-climatic-patterns.md
+      - Gameplay: distilled/wardley-maps/05-gameplay.md
+      - Pioneers, Settlers, Town Planners: distilled/wardley-maps/06-pioneers-settlers-town-planners.md
+      - Strategy cycle and when to use: distilled/wardley-maps/07-strategy-cycle-and-when-to-use.md
     - Synthesis (cross-source):
       - Overview: distilled/synthesis/index.md
       - '"Done", quality, peer review': distilled/synthesis/01-done-and-quality.md
@@ -465,3 +474,25 @@ nav:
       - 9. Acknowledgments: sources/open-guide-to-kanban/09-acknowledgments.md
       - 10. Appendix: sources/open-guide-to-kanban/10-appendix.md
       - 11. References: sources/open-guide-to-kanban/11-references.md
+    - Wardley Maps:
+      - About this source: sources/wardley-maps/index.md
+      - 1. On being lost: sources/wardley-maps/01-on-being-lost.md
+      - 2. Finding a path: sources/wardley-maps/02-finding-a-path.md
+      - 3. Exploring the map: sources/wardley-maps/03-exploring-the-map.md
+      - 4. Doctrine: sources/wardley-maps/04-doctrine.md
+      - 5. The play and a decision to act: sources/wardley-maps/05-the-play-and-a-decision-to-act.md
+      - 6. Getting started: sources/wardley-maps/06-getting-started.md
+      - 7. Finding a new purpose: sources/wardley-maps/07-finding-a-new-purpose.md
+      - 8. Keeping the wolves at bay: sources/wardley-maps/08-keeping-the-wolves-at-bay.md
+      - 9. Charting the future: sources/wardley-maps/09-charting-the-future.md
+      - 10. I wasn't expecting that: sources/wardley-maps/10-i-wasn-t-expecting-that.md
+      - 11. A smorgasbord of the slightly useful: sources/wardley-maps/11-a-smorgasbord-of-the-slightly-useful.md
+      - 12. The scenario: sources/wardley-maps/12-the-scenario.md
+      - 13. Something wicked this way comes: sources/wardley-maps/13-something-wicked-this-way-comes.md
+      - 14. To thine own self be true: sources/wardley-maps/14-to-thine-own-self-be-true.md
+      - 15. On the practice of scenario planning: sources/wardley-maps/15-on-the-practice-of-scenario-planning.md
+      - 16. Super looper: sources/wardley-maps/16-super-looper.md
+      - 17. To infinity and beyond: sources/wardley-maps/17-to-infinity-and-beyond.md
+      - 18. Better for less: sources/wardley-maps/18-better-for-less.md
+      - 19. On playing chess: sources/wardley-maps/19-on-playing-chess.md
+      - License: sources/wardley-maps/20-license.md

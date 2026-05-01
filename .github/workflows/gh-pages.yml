@@ -69,6 +69,11 @@ jobs:
           uv run python scripts/ingest_open_kanban_guide.py \
             || echo "::warning::kanbanguides.org fetch failed; using committed snapshot"
 
+      - name: Refresh Wardley Maps from upstream (best-effort)
+        run: |
+          uv run python scripts/ingest_wardley_maps.py \
+            || echo "::warning::raw.githubusercontent.com fetch for wardley-maps failed; using committed snapshot"
+
       # Deterministic re-splits from committed raw-sources/ — always run,
       # never depend on network.
       - name: Re-split Underneath the Surface

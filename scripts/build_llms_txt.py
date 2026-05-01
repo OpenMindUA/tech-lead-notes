@@ -138,6 +138,7 @@ def render_tier2() -> list[str]:
         "micro-p3-express",
         "kanban-guide",
         "open-guide-to-kanban",
+        "wardley-maps",
         "synthesis",
     ]
     seen: set[str] = set()
@@ -162,6 +163,7 @@ def render_tier2() -> list[str]:
         "micro-p3-express": "Distilled — micro.P3.express manual",
         "kanban-guide": "Distilled — The Kanban Guide (v2025.5)",
         "open-guide-to-kanban": "Distilled — Open Guide to Kanban (v2025.7)",
+        "wardley-maps": "Distilled — Wardley Maps (Simon Wardley)",
         "synthesis": "Distilled — Synthesis (cross-source)",
     }
 

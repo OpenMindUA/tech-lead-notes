@@ -118,6 +118,19 @@ licensing combines from all of them.
 - **Files:** 12 chunks · 2 distilled cards
 - **Notes:** Adaptation notice from upstream: preserves *The Kanban Guide* verbatim (regular type) and adds material in italics — expanded metrics catalog (~13 measures), Outcomes/Impact/Value extension, knowledge-work framing, prioritization appendix.
 
+### 10. Wardley Maps
+
+- **Author:** Simon Wardley
+- **Type:** Book on strategic mapping (situational awareness, value-chain × evolution, doctrine, gameplay)
+- **Original URL:** <https://medium.com/wardleymaps>
+- **Markdown mirror used for ingest:** <https://github.com/jsell-rh/wardley-maps-book-md>
+- **License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+- **Version:** Medium series, 19 chapters, mirrored 2024
+- **Local Tier 3 path:** [`docs/sources/wardley-maps/`](sources/wardley-maps/index.md)
+- **Local Tier 2 distillation:** [`docs/distilled/wardley-maps/`](distilled/wardley-maps/index.md)
+- **Files:** 19 chapter chunks + license · 7 distilled cards
+- **Notes:** The book is **unfinished** — Simon stopped publishing on Medium before completing all planned chapters. Figures (200+) are not copied locally; image links point to the upstream raw mirror at `raw.githubusercontent.com/jsell-rh/wardley-maps-book-md/...`. The mirror is unofficial but its CC-BY-SA 4.0 license and explicit attribution to Simon match what we need. Wardley Maps occupies the **strategy layer** above the delivery / lifecycle / metrics frameworks already in the repo (Scrum / Kanban / P3.express / DORA).
+
 ## License combinations
 
 The repository combines content under two Creative Commons licenses:
@@ -125,7 +138,7 @@ The repository combines content under two Creative Commons licenses:
 | License | Sources | Tier 2 cards derived from these only |
 |---------|---------|---------------------------------------|
 | **CC BY 4.0** | Underneath the Surface, NUPP, P3.express, micro.P3.express | `distilled/principles/` (PMBOK 7, NUPP, PRINCE2), `distilled/performance-domains/`, `distilled/methodologies/`, `distilled/glossary.md`, `distilled/cross-references.md`, `distilled/p3-express/`, `distilled/micro-p3-express/` |
-| **CC BY-SA 4.0** | Scrum Guide, Scrum Guide Expansion Pack, DORA Metrics in Jira, The Kanban Guide, Open Guide to Kanban | `distilled/scrum-guide/`, `distilled/scrum-guide-expanded/`, `distilled/dora-metrics-jira/`, `distilled/kanban-guide/`, `distilled/open-guide-to-kanban/`, `distilled/synthesis/` (cross-source) |
+| **CC BY-SA 4.0** | Scrum Guide, Scrum Guide Expansion Pack, DORA Metrics in Jira, The Kanban Guide, Open Guide to Kanban, Wardley Maps | `distilled/scrum-guide/`, `distilled/scrum-guide-expanded/`, `distilled/dora-metrics-jira/`, `distilled/kanban-guide/`, `distilled/open-guide-to-kanban/`, `distilled/wardley-maps/`, `distilled/synthesis/` (cross-source) |
 
 ### How CC BY-SA 4.0 affects mixed content
 
@@ -166,6 +179,9 @@ Examples:
 - *"Distilled from the Open Guide to Kanban by John Coleman,
   Magdalena Firlit et al. (CC BY-SA 4.0). See
   <https://kanbanguides.org/open-guide-to-kanban/>."*
+- *"Distilled from Wardley Maps by Simon Wardley (CC BY-SA 4.0).
+  Originally published at <https://medium.com/wardleymaps>;
+  markdown mirror at <https://github.com/jsell-rh/wardley-maps-book-md>."*
 
 ## What's not affiliated
 

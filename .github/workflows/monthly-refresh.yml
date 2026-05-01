@@ -54,6 +54,9 @@ jobs:
       - name: Fetch Open Guide to Kanban
         run: uv run python scripts/ingest_open_kanban_guide.py
 
+      - name: Fetch Wardley Maps
+        run: uv run python scripts/ingest_wardley_maps.py
+
       - name: Re-split deterministic sources
         run: |
           uv run python scripts/split_book.py
@@ -100,6 +103,9 @@ jobs:
             - <https://nupp.guide/>
             - <https://p3.express/manual/v2/>
             - <https://micro.p3.express/>
+            - <https://kanbanguides.org/the-kanban-guide/>
+            - <https://kanbanguides.org/open-guide-to-kanban/>
+            - <https://github.com/jsell-rh/wardley-maps-book-md>
 
             **What's in this PR:**
             - Updated `raw-sources/scrum-guide.md` and/or

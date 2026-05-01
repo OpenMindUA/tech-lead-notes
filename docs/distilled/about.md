@@ -10,7 +10,7 @@ tags: [distilled, editorial, disclaimer, attribution]
 ## What this is
 
 The Tier-2 distilled cards (everything under `docs/distilled/`)
-are **editorial summaries** of the nine CC-licensed sources
+are **editorial summaries** of the ten CC-licensed sources
 listed in [`docs/sources.md`](../sources.md). The full original
 text is preserved in Tier 3 (`docs/sources/<source-id>/…`) and
 remains the canonical reference. Each distilled card carries a
@@ -29,6 +29,7 @@ remains the canonical reference. Each distilled card carries a
 | micro.P3.express manual | CC BY 4.0 | `micro-p3-express/` |
 | The Kanban Guide (v2025.5) | CC BY-SA 4.0 | `kanban-guide/` |
 | Open Guide to Kanban (v2025.7) | CC BY-SA 4.0 | `open-guide-to-kanban/` |
+| Wardley Maps (Simon Wardley) | CC BY-SA 4.0 | `wardley-maps/` |
 
 Cross-source synthesis cards live under
 [`synthesis/`](synthesis/index.md) and are CC BY-SA 4.0
@@ -97,9 +98,9 @@ The repository combines content under two CC licenses:
   sources can stay CC BY 4.0.
 - **CC BY-SA 4.0** sources: Scrum Guide, Scrum Guide Expansion
   Pack, DORA Metrics in Jira (self-authored under this license),
-  The Kanban Guide, Open Guide to Kanban. Cards derived from any
-  of these — and any cross-source synthesis card — are **CC BY-SA
-  4.0** (ShareAlike inherits).
+  The Kanban Guide, Open Guide to Kanban, Wardley Maps. Cards
+  derived from any of these — and any cross-source synthesis card —
+  are **CC BY-SA 4.0** (ShareAlike inherits).
 
 The `license:` field in each card's YAML frontmatter is
 **authoritative per file**. See
@@ -143,7 +144,7 @@ this repository.
 - **Tier 3** is regenerated on every push by ingest scripts in
   `scripts/`. For sources fetched from the web (Scrum Guide,
   Scrum Guide Expanded, NUPP, P3.express, micro.P3.express,
-  The Kanban Guide, Open Guide to Kanban) the build is
+  The Kanban Guide, Open Guide to Kanban, Wardley Maps) the build is
   **best-effort** — if upstream is unreachable, CI falls back to
   the committed snapshot in `raw-sources/` and emits a warning.
 - A monthly workflow

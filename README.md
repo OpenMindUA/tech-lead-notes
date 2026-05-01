@@ -6,8 +6,10 @@ effectiveness resources, split into navigable chunks with YAML
 frontmatter for humans, search engines, LLM agents, and tools like
 [Context7](https://context7.com).
 
-- **Sources:** 4 (Underneath the Surface, Scrum Guide 2020, Scrum
-  Guide Expansion Pack v2026.1, DORA Metrics in Jira)
+- **Sources:** 10 (Underneath the Surface, Scrum Guide 2020, Scrum
+  Guide Expansion Pack v2026.1, DORA Metrics in Jira, NUPP,
+  P3.express, micro.P3.express, The Kanban Guide, Open Guide to
+  Kanban, Wardley Maps)
 - **License:** mixed CC BY 4.0 + CC BY-SA 4.0 — see [LICENSE](./LICENSE)
   and [`docs/sources.md`](./docs/sources.md)
 - **Repository name:** *(placeholder — set the final name in
@@ -38,6 +40,7 @@ is the entire corpus concatenated.
 | [micro.P3.express manual](./docs/sources/micro-p3-express/index.md) | PTCoE — Nader K. Rad et al. | CC BY 4.0 | 34 | 3 |
 | [The Kanban Guide](./docs/sources/kanban-guide/index.md) | Coleman, Vacanti et al. | CC BY-SA 4.0 | 11 | 4 |
 | [Open Guide to Kanban](./docs/sources/open-guide-to-kanban/index.md) | Coleman, Firlit et al. | CC BY-SA 4.0 | 12 | 2 |
+| [Wardley Maps](./docs/sources/wardley-maps/index.md) | Simon Wardley | CC BY-SA 4.0 | 21 | 7 |
 
 Cross-source [synthesis cards](./docs/distilled/synthesis/index.md)
 combine material from multiple sources (CC BY-SA, 7 cards).
@@ -64,6 +67,7 @@ docs/
     micro-p3-express/
     kanban-guide/
     open-guide-to-kanban/
+    wardley-maps/
     synthesis/                   cross-source cards (CC BY-SA)
   sources/                       Tier 3
     underneath-the-surface/
@@ -75,6 +79,7 @@ docs/
     micro-p3-express/
     kanban-guide/
     open-guide-to-kanban/
+    wardley-maps/
 
 raw-sources/                     pristine markdown snapshots
   pmbok-guide--underneath-the-surface.md  (also at repo root for compat)
@@ -86,6 +91,7 @@ raw-sources/                     pristine markdown snapshots
   micro-p3-express.md
   kanban-guide.md
   open-guide-to-kanban.md
+  wardley-maps.md
 
 scripts/
   split_book.py                   UtS → docs/sources/underneath-the-surface
@@ -97,6 +103,7 @@ scripts/
   ingest_micro_p3_express.py      micro.P3.express HTML → MD → chunks
   ingest_kanban_guide.py          The Kanban Guide HTML → MD → chunks
   ingest_open_kanban_guide.py     Open Guide to Kanban HTML → MD → chunks
+  ingest_wardley_maps.py          Wardley Maps GitHub MD mirror → chunks
   build_llms_txt.py               regenerates llms.txt and llms-full.txt
   lib/web_to_md.py                shared HTML→MD helpers (used by ingest_*)
 
@@ -121,6 +128,7 @@ uv run python scripts/ingest_p3_express.py
 uv run python scripts/ingest_micro_p3_express.py
 uv run python scripts/ingest_kanban_guide.py
 uv run python scripts/ingest_open_kanban_guide.py
+uv run python scripts/ingest_wardley_maps.py
 
 # regenerate llms.txt / llms-full.txt — required before mkdocs serve/build
 # because docs/llms.txt and docs/llms-full.txt are gitignored build artifacts
