@@ -13,7 +13,7 @@ Self-authored methodology document on using DORA (DevOps Research and Assessment
 - **Origin:** authored as part of this repository (no upstream).
 - **License:** [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/) — © openmind
 - **Document version:** 1.1
-- **Snapshot date:** 2026-04-28
+- **Snapshot date:** 2026-05-01
 
 ## Document preamble
 

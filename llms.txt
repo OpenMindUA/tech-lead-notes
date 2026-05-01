@@ -651,5 +651,5 @@
 ## Optional
 
 - [Full text concatenation](https://raw.githubusercontent.com/OpenMindUA/tech-lead-notes/main/llms-full.txt): every Tier-3 chunk merged into a single document.
-- [HTML site](https://openmindua.github.io/tech-lead-notes): rendered MkDocs site with search, navigation and tags.
+- [HTML site](https://OpenMindUA.github.io/tech-lead-notes): rendered MkDocs site with search, navigation and tags.
 - [Original markdown source](https://pmbok.guide/pmbok-guide--underneath-the-surface.md): canonical upstream file.
