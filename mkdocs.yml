@@ -59,6 +59,19 @@ nav:
   - Home: index.md
   - For agents (Tier 1):
     - Agent index: agent-index.md
+  - Recipes:
+    - Overview: recipes/index.md
+    - PR review with DORA: recipes/01-pr-review-with-dora.md
+    - Sprint Review prep: recipes/02-sprint-review-prep.md
+    - Build / buy / rent / outsource: recipes/03-build-buy-rent-outsource.md
+    - Pick a method: recipes/04-pick-a-method.md
+    - Incident post-mortem: recipes/05-incident-postmortem.md
+    - Team / org redesign: recipes/06-team-org-redesign.md
+    - Stakeholder map: recipes/07-stakeholder-map.md
+    - Strategic review: recipes/08-strategic-review.md
+    - Forecasting & SLE: recipes/09-forecasting-and-sle.md
+    - Onboarding new dev / TL: recipes/10-onboarding.md
+    - AI / agent in dev workflow: recipes/11-ai-in-dev-workflow.md
   - Distilled (Tier 2):
     - Overview: distilled/index.md
     - About / disclaimer: distilled/about.md

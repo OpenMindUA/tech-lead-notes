@@ -20,6 +20,12 @@ in an LLM agent's system prompt.
   with TL;DR, core ideas, when-applies, anti-patterns, cross-refs.
 - **Tier 3** — full original text, kept under the chapter
   directories `01-…/` … `05-…/`.
+- **[Recipes](recipes/index.md)** — task-driven loading guides
+  (which cards to load + prompt skeleton + expected output) for
+  11 common tech-lead tasks: PR review, Sprint Review prep,
+  build-vs-buy, method selection, post-mortems, org redesign,
+  stakeholder mapping, strategic review, forecasting, onboarding,
+  AI-in-dev-workflow.
 
 The text below is original to this repository (CC-BY-4.0); the
 underlying material is © Nader K. Rad, also CC-BY-4.0.

@@ -21,6 +21,10 @@ can use them.
 | **2 — [Distilled cards](distilled/index.md)** | Dense per-concept cards (TL;DR / core ideas / when applies / anti-patterns / cross-refs). | Fast topical lookup; RAG retrieval. |
 | **3 — Full source text** (`sources/`) | Original documents preserved verbatim, split per chapter/section. | Verbatim citation; full nuance. |
 
+## Recipes — task-driven loading guides
+
+Don't know which cards to load for a specific task? Use a [**recipe**](recipes/index.md). Each recipe says: *for this question, these are the cards, this is the prompt, this is what the answer should look like.* Eleven covering PR review, Sprint Review prep, build-vs-buy, method selection, post-mortems, org redesign, stakeholder mapping, strategic review, forecasting, onboarding, and AI-in-dev-workflow.
+
 For LLM-tooling: [`llms.txt`](llms.txt) is a structured catalog
 ([llmstxt.org](https://llmstxt.org)) and [`llms-full.txt`](llms-full.txt)
 is the entire corpus concatenated for full-context loading.

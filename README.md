@@ -23,6 +23,13 @@ frontmatter for humans, search engines, LLM agents, and tools like
 | **2 — [Distilled cards](./docs/distilled/index.md)** | Dense per-concept cards (TL;DR / core ideas / when applies / anti-patterns / cross-refs) | RAG retrieval; fast topical lookup |
 | **3 — [Full source text](./docs/sources/)** | Original documents, split per chapter/section | Verbatim citation; full nuance |
 
+Plus **[recipes](./docs/recipes/index.md)** — task-driven loading
+guides for 11 common tech-lead tasks (PR review with DORA, Sprint
+Review prep, build-vs-buy, method selection, post-mortems, org
+redesign, stakeholder mapping, strategic review, forecasting,
+onboarding, AI-in-dev-workflow). Each recipe says which Tier-2
+cards to load + the prompt skeleton + expected output shape.
+
 For LLM tooling: [`llms.txt`](./llms.txt) is a structured catalog
 ([llmstxt.org](https://llmstxt.org)); [`llms-full.txt`](./llms-full.txt)
 is the entire corpus concatenated.
