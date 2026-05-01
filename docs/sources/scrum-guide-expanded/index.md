@@ -14,7 +14,7 @@ Mirror of the *Scrum Guide Expansion Pack* (v2026.1) by Ralph Jocham, John Colem
 
 - **Original (canonical):** <https://scrumexpansion.org/scrum-guide-expanded/>
 - **License:** [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/) — © 2025 Ralph Jocham, John Coleman, Jeff Sutherland
-- **Snapshot date:** 2026-04-28
+- **Snapshot date:** 2026-05-01
 - **Modification notice:** This is an adaptation of the 2020 Scrum Guide. Changes have been made from the original.
 
 ## Front matter from the original

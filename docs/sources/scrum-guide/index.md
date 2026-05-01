@@ -13,7 +13,7 @@ Mirror of the *2020 Scrum Guide* by Ken Schwaber and Jeff Sutherland, split into
 
 - **Original (canonical):** <https://scrumguides.org/scrum-guide.html>
 - **License:** [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/) — © 2020 Ken Schwaber, Jeff Sutherland
-- **Snapshot date:** 2026-04-28
+- **Snapshot date:** 2026-05-01
 
 ## Front matter from the original
 
