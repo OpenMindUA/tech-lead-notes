@@ -30,6 +30,7 @@ frameworks differ?"*
 | [05](05-risk-and-stability.md) | Risk, uncertainty, incidents, stability | UtS · NUPP · SGE · DORA |
 | [06](06-tailoring-and-method-selection.md) | Tailoring, method selection, mixing | UtS · PMBOK 7 · PRINCE2 · NUPP |
 | [07](07-roles-across-frameworks.md) | Roles map across frameworks | UtS · Scrum · SGE · DORA |
+| [08](08-uncertainty-domains.md) | Uncertainty domains and method fit (Cynefin/Stacey angle) | UtS · SGE · NUPP · Wardley |
 
 ## How to use
 

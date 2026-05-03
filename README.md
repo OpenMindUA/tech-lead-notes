@@ -50,7 +50,7 @@ is the entire corpus concatenated.
 | [Wardley Maps](./docs/sources/wardley-maps/index.md) | Simon Wardley | CC BY-SA 4.0 | 21 | 7 |
 
 Cross-source [synthesis cards](./docs/distilled/synthesis/index.md)
-combine material from multiple sources (CC BY-SA, 7 cards).
+combine material from multiple sources (CC BY-SA, 8 cards).
 
 ## Repository layout
 

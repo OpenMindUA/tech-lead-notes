@@ -210,6 +210,7 @@ Cards that combine multiple sources for cross-cutting questions:
 - **Risk, incidents, stability** — UtS sophistication ladder + DORA CFR/MTTR + SGE proactive risk. → [card](distilled/synthesis/05-risk-and-stability.md)
 - **Tailoring and method selection** — universal anti-cherry-picking rule; selection heuristics. → [card](distilled/synthesis/06-tailoring-and-method-selection.md)
 - **Roles across frameworks** — full mapping table; PRINCE2 vs DSDM vs P3.express vs Scrum vs SGE vs DORA. → [card](distilled/synthesis/07-roles-across-frameworks.md)
+- **Uncertainty domains and method fit** — corpus mapping to Cynefin/Stacey four domains (ordered/complicated/complex/chaotic) + Disorder pointer; method selection by domain. → [card](distilled/synthesis/08-uncertainty-domains.md)
 
 → overview: [Synthesis distilled](distilled/synthesis/index.md)
 
