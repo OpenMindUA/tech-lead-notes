@@ -47,31 +47,42 @@ is the entire corpus concatenated for full-context loading.
 See [About the distilled tier](distilled/about.md) for the editorial
 policy, what was changed, and license attribution rules.
 
-## Sources to consider adding
+## Related sources & methods
 
-CC-licensed candidates that fit the tech-lead audience but are not yet
-ingested. Tier A is now empty — all high-fit, clean-licensed sources
-in scope have been ingested. PRs welcome for Tier B candidates — see
-[`docs/sources.md`](sources.md) for the "how to add a new source"
-checklist.
+A curated list of sources and methods that come up in the PM /
+tech-lead context. Not all of them will ever be ingested — some live
+here as pointers, useful when the situation calls for them. License
+is metadata; it only blocks ingestion when it actually conflicts
+(NoDerivatives, or NonCommercial if this repo is ever used
+commercially).
 
-### Tier B — useful but with caveats
+### Candidates considered
 
-| Source | License | Caveat |
-|---|---|---|
-| **[Open PM² Guide](https://www.open-pm2.org/)** (European Commission) | CC **BY-NC-SA** 4.0 | NonCommercial clause — incompatible with any commercial use of this repo or derivatives. Suitable only if the repo stays purely educational. |
-| **[GitLab Handbook](https://handbook.gitlab.com/)** (selected chapters: Engineering, People Operations, Communication) | CC BY-SA 4.0 | Massive (~200+ pages); only worth ingesting selected chapters as an "engineering culture" tier. |
-| **State of DevOps Report** (Google Cloud / DORA team) | typically CC BY 4.0, varies by year | Mostly charts and benchmarks; relatively little prose framework. Useful as DORA reference data, not as a "playbook". |
+| Source | When it helps | License | Status |
+|---|---|---|---|
+| **[Army Design Methodology](https://armypubs.army.mil/)** (ATP 5-0.1, US Army) | Framing ill-structured problems where stakeholders disagree on what the problem even is; multi-week strategy sessions with a dedicated team. | Public domain (US gov work) | **Not planned** — niche audience fit; the framing terrain is partly covered by Wardley Maps; military-doctrine prose needs heavy translation for a tech-lead context. Revisit if a "strategic framing" recipe gains demand. |
+| **[Open PM² Guide](https://www.open-pm2.org/)** (European Commission) | Full EU-style PM framework for regulated / public-sector projects; phase gates, governance artifacts. | CC BY-NC-SA 4.0 | **Not planned** — NonCommercial clause blocks any commercial reuse of this repo or derivatives; narrow audience for this catalog. |
+| **[GitLab Handbook](https://handbook.gitlab.com/)** (selected chapters: Engineering, People Operations, Communication) | Engineering culture, async-first / handbook-first communication, remote operating model. | CC BY-SA 4.0 | **Candidate** — broad fit, but ~200+ pages; only worth ingesting selected chapters as an "engineering culture" tier. |
+| **State of DevOps Report** (Google Cloud / DORA team) | Reference benchmarks for DORA metrics (deploy frequency, lead time, MTTR, change-fail rate) by industry and performance tier. | typically CC BY 4.0, varies by year | **Candidate as reference data** — mostly charts and benchmarks; low prose value, high reference-numbers value. |
+| **Google SRE Book / SRE Workbook** | SRE practices: error budgets, SLO/SLI design, toil reduction, on-call. | CC BY-NC-ND 4.0 | **Pointer only** — NoDerivatives forbids the distillation tier; mirroring full text without cards adds limited value. |
+| **Liberating Structures** | Facilitation patterns (1-2-4-All, Troika Consulting, etc.) for groups making decisions under uncertainty. | CC BY-NC-SA 4.0 | **Not planned** — NonCommercial clause; relatively narrow within the core tech-lead workflow. |
 
-### Tier C — DO NOT add (license incompatibility)
+### Other methods worth knowing
 
-| Source | Why excluded |
-|---|---|
-| **Google SRE Book / SRE Workbook** | CC BY-**NC-ND** 4.0 — "NoDerivatives" forbids the distillation tier. Mirroring full text is allowed but adds limited value without distilled cards. |
-| **Liberating Structures** | CC BY-**NC**-SA 4.0 — NonCommercial clause. |
-| **The Phoenix Project / The Unicorn Project / Accelerate / The Manager's Path / Staff Engineer / An Elegant Puzzle / Continuous Delivery / Modern Software Engineering** | All proprietary, all rights reserved. |
-| **Agile Practice Guide** (PMI) | Proprietary. |
-| **DSDM Manual / APMBoK / PRINCE2 Manual** | Proprietary. We rely on the UtS commentary's coverage instead. |
+A non-exhaustive pointer list of methods that come up in our recipes
+or cards as external references. Listed so a reader knows where to
+look; not catalogued here in any depth.
+
+- **Cynefin framework** (Dave Snowden) — sense-making for the type of
+  problem at hand (Clear / Complicated / Complex / Chaotic) before
+  picking a method. Proprietary.
+- **Continuous Discovery Habits** (Teresa Torres) — hypothesis-driven
+  product discovery, opportunity solution trees, weekly user
+  touchpoints. Proprietary.
+- **Team Topologies** (Skelton & Pais) — four team types and three
+  interaction modes, framed around cognitive load. Proprietary.
+- **Accelerate** (Forsgren, Humble, Kim) — research foundation
+  underneath the DORA metrics. Proprietary.
 
 ### How to add one
 
