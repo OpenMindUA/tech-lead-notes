@@ -9,7 +9,7 @@ license: CC-BY-4.0
 authors: PTCoE — Nader K. Rad et al.
 tags: [nupp, principle, nup1, prefer-results-and-the-truth-to-affiliations]
 ---
-# Prefer results and the truth to affiliations
+# NUP1 – Prefer results and the truth to affiliations
 
 We all have a natural tendency to belong to groups, a tendency that often goes beyond its basic form, creates strong affiliations, and causes problems. We lose a lot more than we gain because of affiliations. We can become more professional and effective experts if we don’t limit our identity and preferences to certain groups.
 
@@ -43,7 +43,5 @@ When objecting to someone, make sure you’re aiming your objection at the idea,
 
 Some people may intentionally target you instead of the idea, in which case, you should help them focus on the idea instead of on you before proceeding, and try to keep it like that throughout the conversation.
 
-[▼ PDF](https://nupp.guide/nupp-en.pdf)
-
-[«](https://nupp.guide/)
-[»](https://nupp.guide/nup2/)
+[IN](https://nupp.guide/en/modules/nupp/manual/v1/ "previous activity")
+[NUP2](https://nupp.guide/en/modules/nupp/manual/v1/nup2/ "next activity")

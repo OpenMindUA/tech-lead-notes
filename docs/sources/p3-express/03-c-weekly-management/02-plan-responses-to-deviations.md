@@ -12,7 +12,7 @@ license: CC-BY-4.0
 authors: PTCoE — Nader K. Rad et al.
 tags: [p3-express, c, weekly-management, c02]
 ---
-# C02 - Plan responses for deviations
+# C02 – Plan responses for deviations
 
 This management activity belongs to the **Weekly Management** group, which is a group of activities done at the beginning of each week.
 
@@ -24,9 +24,9 @@ If it’s not possible to recover from the deviations, you should seek approval 
 
 If there’s an underlying reason for the deviation that may cause similar issues in the future, record it in the **Follow-Up Register** as a risk, and plan a proper risk response for it.
 
-[Project Description template](https://p3.express/manual/v2/project-description.odt)
+[Project Description template](https://p3.express/en/modules/p3.express/manual/v2/project-description.odt)
 
-[Follow-Up Register template](https://p3.express/manual/v2/follow-up-register.ods)
+[Follow-Up Register template](https://p3.express/en/modules/p3.express/manual/v2/follow-up-register.ods)
 
 ## Purpose
 
@@ -42,7 +42,14 @@ If you must choose between recovering from a deviation and solving the root caus
 
 The following principles play a significant role in this management activity:
 
-- [NUP2: Preserve and optimize energy and resources.](https://nupp.guide/nup2/)
-- [NUP3: Always be proactive.](https://nupp.guide/nup3/)
-- [NUP4: Remember that a chain is only as strong as its weakest link.](https://nupp.guide/nup4/)
-- [NUP5: Don’t do anything without a clear purpose.](https://nupp.guide/nup5/)
+- [NUP2:](https://p3.express/en/modules/nupp/manual/v1/nup2/)
+  Preserve and optimize energy and resources
+- [NUP3:](https://p3.express/en/modules/nupp/manual/v1/nup3/)
+  Always be proactive
+- [NUP4:](https://p3.express/en/modules/nupp/manual/v1/nup4/)
+  Remember that a chain is only as strong as its weakest link
+- [NUP5:](https://p3.express/en/modules/nupp/manual/v1/nup5/)
+  Don’t do anything without a clear purpose
+
+[C01](https://p3.express/en/modules/p3.express/manual/v2/c/01/ "previous activity")
+[C03](https://p3.express/en/modules/p3.express/manual/v2/c/03/ "next activity")

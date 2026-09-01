@@ -9,7 +9,7 @@ license: CC-BY-4.0
 authors: PTCoE — Nader K. Rad et al.
 tags: [nupp, principle, nup2, preserve-and-optimize-energy-and-resources]
 ---
-# Preserve and optimize energy and resources
+# NUP2 – Preserve and optimize energy and resources
 
 Resources are limited. Resources available to the project are limited, as is the mental energy you have to make good decisions. You should preserve and optimize this resource for yourself and for the project, and help other team members do the same.
 
@@ -60,7 +60,5 @@ Activity E02 of P3.express is an example of using the wisdom of crowds in projec
 
 If you are a project manager, most of the things you do have a facilitation nature (or at least, should have). On the other hand, you may see that the team members have had bad experiences with project managers in the past, and that these experiences are impacting on their relationship with you: a portion of their energy is spent on analyzing your behavior for potential threats instead of trusting you. In that case, you can change your title from project manager into Chief Project Facilitator. After all, that’s what you really do in the project.
 
-[▼ PDF](https://nupp.guide/nupp-en.pdf)
-
-[«](https://nupp.guide/nup1/)
-[»](https://nupp.guide/nup3/)
+[NUP1](https://nupp.guide/en/modules/nupp/manual/v1/nup1/ "previous activity")
+[NUP3](https://nupp.guide/en/modules/nupp/manual/v1/nup3/ "next activity")

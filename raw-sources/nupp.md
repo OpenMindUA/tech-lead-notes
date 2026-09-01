@@ -1,29 +1,45 @@
 <!-- chunk: index.md --># NUPP — Nearly Universal Principles of Projects
-NUPP is a collection of nearly universal principles of projects: those we’d do well to follow in all projects, regardless of the methodologies and approaches that we use, to maximize our success.
+# NUPP
 
-Each of the available resources and methods for running projects relies on some of these NUPs (nearly universal principles). However, the following points need to be borne in mind:
+Nearly Universal Principles of Projects
 
-- It’s usually not all of them, and it would be helpful for practitioners to consider all NUPs instead of a subset.
-- The underlying principles are usually not made clear enough in resources and methods, and most practitioners are so engaged in practical details that they forget about principles and do things that are not compatible with them.
+[Manual](manual/v1/)
 
-NUPP is compatible with all the major methods, systems, resources, and frameworks such as PRINCE2®, PMBOK® Guide, P3.express, PM², DSDM®, XP, and Scrum. It may not be compatible with certain interpretations of those systems, though, and that’s where NUPP tries to encourage practitioners to reconsider their interpretations.
+## What is NUPP?
 
-NUPP is a collection of the following NUPs:
+NUPP is a collection of nearly universal principles of projects: those we’d do well to follow in all projects, regardless of the methodologies and approaches that we use.Co-funded by theEuropean Union
 
-- [NUP1: prefer results and the truth to affiliations](https://nupp.guide/nup1/)
-- [NUP2: preserve and optimize energy and resources](https://nupp.guide/nup2/)
-- [NUP3: always be proactive](https://nupp.guide/nup3/)
-- [NUP4: remember that a chain is only as strong as its weakest link](https://nupp.guide/nup4/)
-- [NUP5: don’t do anything without a clear purpose](https://nupp.guide/nup5/)
-- [NUP6: use repeatable elements](https://nupp.guide/nup6/)
+## Why NUPP?
 
-[▼ PDF](https://nupp.guide/nupp-en.pdf)
+Because some of the things we do to manage our projects tend to lose their meaning after a while without us noticing it. Then, they will keep taking our energy without creating any results. Having a principle-first approach helps reduce that risk and keep project management activities fruitful.
 
-«
-[»](https://nupp.guide/nup1/)
+## How does NUPP work?
+
+Using NUPP is simple: have a list of the 6 principles handy, and whenever you want to make a decision or do something significant, check it with the principles and make sure it’s compatible with all of them. At the beginning, it may take time, but eventually, you become faster at it and do it automatically.
+
+## The Project Ecosystem
+
+OMIMO is a family of the following modules, each designed to solve a different set of problems. There’s no single “best” module, but the right choice depends on your situation. Instead of picking the most popular type of module, identify your primary problems, then choose the module that addresses it best.  
+Level 5Level 4Level 3Level 2Level 1PortfolioManagementProgramManagementProjectManagementTeamManagementTaskManagement[Leader's Behavior Compass](https://nupp.guide/en/modules/compass/)[P5.express](https://omimo.org/en/modules/p5.express/)[P4.express](https://omimo.org/en/modules/p4.express/)[P3.express](https://omimo.org/en/modules/p3.express/)P2.express[P1.express](https://omimo.org/en/modules/p1.express/)[micro.P3.express](https://omimo.org/en/modules/micro.p3.express/)[NUPP](https://omimo.org/en/modules/nupp/)
+
+## Announcements
+
+All important updates about OMIMO modules are announced here. If you’re interested in using or contributing to the modules, it’s best to stay informed of these announcements by one of the following three methods:
+
+[LinkedIn](https://www.linkedin.com/company/101131313/)[Email](https://nupp.guide/subscribe.php)[RSS](https://nupp.guide/en/index.xml)
+
+The latest announcements:
+
+- [OMIMO events survey](https://omimo.org/en/announcements/omimo-events-survey/)
+- [P4.express draft is published and available for review](https://omimo.org/en/announcements/p4.express-draft-published/)
+- [Online Group Peer Review Meeting Showcase for P3.express](https://omimo.org/en/announcements/online-group-peer-review-meeting-2/)
+- [The P3P exam is now available in Ukrainian](https://omimo.org/en/announcements/p3p-exam-available-in-ukrainian/)
+- [Free P3.express course for visually impaired candidates](https://omimo.org/en/announcements/p3.express-course-for-visually-impaired/)
+- [The Leadership Self-Assessment is published](https://omimo.org/en/announcements/leadership-self-assessment/)
+- [All announcements...](https://nupp.guide/en/announcements/)
 
 <!-- chunk: 01-nup1-prefer-results-and-the-truth-to-affiliations.md --># NUP1 — Prefer results and the truth to affiliations
-# Prefer results and the truth to affiliations
+# NUP1 – Prefer results and the truth to affiliations
 
 We all have a natural tendency to belong to groups, a tendency that often goes beyond its basic form, creates strong affiliations, and causes problems. We lose a lot more than we gain because of affiliations. We can become more professional and effective experts if we don’t limit our identity and preferences to certain groups.
 
@@ -57,13 +73,11 @@ When objecting to someone, make sure you’re aiming your objection at the idea,
 
 Some people may intentionally target you instead of the idea, in which case, you should help them focus on the idea instead of on you before proceeding, and try to keep it like that throughout the conversation.
 
-[▼ PDF](https://nupp.guide/nupp-en.pdf)
-
-[«](https://nupp.guide/)
-[»](https://nupp.guide/nup2/)
+[IN](https://nupp.guide/en/modules/nupp/manual/v1/ "previous activity")
+[NUP2](https://nupp.guide/en/modules/nupp/manual/v1/nup2/ "next activity")
 
 <!-- chunk: 02-nup2-preserve-and-optimize-energy-and-resources.md --># NUP2 — Preserve and optimize energy and resources
-# Preserve and optimize energy and resources
+# NUP2 – Preserve and optimize energy and resources
 
 Resources are limited. Resources available to the project are limited, as is the mental energy you have to make good decisions. You should preserve and optimize this resource for yourself and for the project, and help other team members do the same.
 
@@ -114,13 +128,11 @@ Activity E02 of P3.express is an example of using the wisdom of crowds in projec
 
 If you are a project manager, most of the things you do have a facilitation nature (or at least, should have). On the other hand, you may see that the team members have had bad experiences with project managers in the past, and that these experiences are impacting on their relationship with you: a portion of their energy is spent on analyzing your behavior for potential threats instead of trusting you. In that case, you can change your title from project manager into Chief Project Facilitator. After all, that’s what you really do in the project.
 
-[▼ PDF](https://nupp.guide/nupp-en.pdf)
-
-[«](https://nupp.guide/nup1/)
-[»](https://nupp.guide/nup3/)
+[NUP1](https://nupp.guide/en/modules/nupp/manual/v1/nup1/ "previous activity")
+[NUP3](https://nupp.guide/en/modules/nupp/manual/v1/nup3/ "next activity")
 
 <!-- chunk: 03-nup3-always-be-proactive.md --># NUP3 — Always be proactive
-# Always be proactive
+# NUP3 – Always be proactive
 
 There’s a natural tendency in us to be reactive. It can help us preserve our energy dealing unimportant matters, or it may give us better results when we are dealing with something in which we’re completely incompetent. Those situations are different from our projects, and here we can get better results by being proactive.
 
@@ -164,7 +176,7 @@ There are rarely only two choices, even if the question implies that. You need t
 
 We all have many biases that help us survive on one hand, and fool us into making bad decisions on the other. When it comes to making important decisions about the project, it’s best to pause for a while and consider all biases that can impact our decision before they cause problems.
 
-As a reference, you can use the list of cognitive biases given in Wikipedia: <https://en.wikipedia.org/wiki/List_of_cognitive_biases>
+As a reference, you can use the list of cognitive biases given in [Wikipedia](https://en.wikipedia.org/wiki/List_of_cognitive_biases).
 
 There are even decision-making frameworks that you can use to make better decisions. At first, it may be distracting and even annoying to use them, but soon you get used to them and gain advantage from them without much conscious effort.
 
@@ -182,13 +194,11 @@ It’s easy to blame others for poor results. For example, you may want your org
 
 The proactive approach is to take responsibility and do everything you can within the constraints. You cannot expect the organization to fully trust you and give you everything in the hope of getting good results, especially when they have seen so many failed projects. What you have to do is to make one small improvement within the constraints that are set, use that to gain a little trust, a few more resources and a little more toleration for constraints, and then use that for a slightly bigger improvement, and carry on like that until you reach the optimum target.
 
-[▼ PDF](https://nupp.guide/nupp-en.pdf)
-
-[«](https://nupp.guide/nup2/)
-[»](https://nupp.guide/nup4/)
+[NUP2](https://nupp.guide/en/modules/nupp/manual/v1/nup2/ "previous activity")
+[NUP4](https://nupp.guide/en/modules/nupp/manual/v1/nup4/ "next activity")
 
 <!-- chunk: 04-nup4-a-chain-is-only-as-strong-as-its-weakest-link.md --># NUP4 — A chain is only as strong as its weakest link
-# Remember that a chain is only as strong as its weakest link
+# NUP4 – Remember that a chain is only as strong as its weakest link
 
 There are various domains in projects, and they all need attention; we must have a holistic perspective of the project. Paying attention to a seemingly important domain (e.g., time) is not enough, because all domains interact and they don’t work properly unless they all receive adequate attention.
 
@@ -226,13 +236,11 @@ A good source of information about the domains is ICB. However, it’s not about
 
 There’s no list of domains in NUPP, primarily because it’s a meta-system rather than a system, and also because the categorization of the domains depends on the type of project and its environment; e.g., a routine construction project may need a different perspective from a creative research project.
 
-[▼ PDF](https://nupp.guide/nupp-en.pdf)
-
-[«](https://nupp.guide/nup3/)
-[»](https://nupp.guide/nup5/)
+[NUP3](https://nupp.guide/en/modules/nupp/manual/v1/nup3/ "previous activity")
+[NUP5](https://nupp.guide/en/modules/nupp/manual/v1/nup5/ "next activity")
 
 <!-- chunk: 05-nup5-don-t-do-anything-without-a-clear-purpose.md --># NUP5 — Don't do anything without a clear purpose
-# Don’t do anything without a clear purpose
+# NUP5 – Don’t do anything without a clear purpose
 
 You shouldn’t do anything unless it has a clear purpose. Imagine two parallel worlds where everything is the same except for the thing that you’re considering doing: How different would those worlds be? Is the difference worth the effort to do that thing?
 
@@ -310,13 +318,11 @@ A piece of software for streaming music has a very different condition from one 
 
 When you have the purposes in mind, you will better understand how to tailor the systems and artifacts for different projects.
 
-[▼ PDF](https://nupp.guide/nupp-en.pdf)
-
-[«](https://nupp.guide/nup4/)
-[»](https://nupp.guide/nup6/)
+[NUP4](https://nupp.guide/en/modules/nupp/manual/v1/nup4/ "previous activity")
+[NUP6](https://nupp.guide/en/modules/nupp/manual/v1/nup6/ "next activity")
 
 <!-- chunk: 06-nup6-use-repeatable-elements.md --># NUP6 — Use repeatable elements
-# Use repeatable elements
+# NUP6 – Use repeatable elements
 
 An ad hoc approach to the project takes too much energy and resources, and always runs the risk of missing some of the necessary elements. The best way of simplifying what has to be done is to use repeatable elements, and preferably to take them in repeatable cycles.
 
@@ -352,7 +358,4 @@ Using a methodology or a framework for running a project is another use of repea
 
 Any repeatable element is abstract and needs customization to adapt it to the real world. There’s a spectrum of abstraction and need for customization, though: small, relatively concrete quality checklists are at one end of the spectrum with the least amount of abstraction and need for tailoring, while methodologies are at the other end, with the highest need for tailoring. You should always note the need for tailoring, otherwise, the repeatable element won’t match your needs properly.
 
-[▼ PDF](https://nupp.guide/nupp-en.pdf)
-
-[«](https://nupp.guide/nup5/)
-»
+[NUP5](https://nupp.guide/en/modules/nupp/manual/v1/nup5/ "previous activity")

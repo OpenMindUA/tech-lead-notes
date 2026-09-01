@@ -9,7 +9,7 @@ license: CC-BY-4.0
 authors: PTCoE — Nader K. Rad et al.
 tags: [nupp, principle, nup4, a-chain-is-only-as-strong-as-its-weakest-link]
 ---
-# Remember that a chain is only as strong as its weakest link
+# NUP4 – Remember that a chain is only as strong as its weakest link
 
 There are various domains in projects, and they all need attention; we must have a holistic perspective of the project. Paying attention to a seemingly important domain (e.g., time) is not enough, because all domains interact and they don’t work properly unless they all receive adequate attention.
 
@@ -47,7 +47,5 @@ A good source of information about the domains is ICB. However, it’s not about
 
 There’s no list of domains in NUPP, primarily because it’s a meta-system rather than a system, and also because the categorization of the domains depends on the type of project and its environment; e.g., a routine construction project may need a different perspective from a creative research project.
 
-[▼ PDF](https://nupp.guide/nupp-en.pdf)
-
-[«](https://nupp.guide/nup3/)
-[»](https://nupp.guide/nup5/)
+[NUP3](https://nupp.guide/en/modules/nupp/manual/v1/nup3/ "previous activity")
+[NUP5](https://nupp.guide/en/modules/nupp/manual/v1/nup5/ "next activity")
