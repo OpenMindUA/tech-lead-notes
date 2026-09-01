@@ -12,7 +12,7 @@ license: CC-BY-4.0
 authors: PTCoE — Nader K. Rad et al.
 tags: [p3-express, b, monthly-initiation, b01]
 ---
-# B01 - Revise and refine the plans
+# B01 – Revise and refine the plans
 
 This management activity belongs to the **Monthly Initiation** group. This group of activities are done in the beginning of each month to prepare us for a new monthly cycle.
 
@@ -20,9 +20,9 @@ Conduct workshops to revise the high-level aspects of the whole plans, and add d
 
 If similar projects have been done before, check their archives and use that information to make your plans more realistic.
 
-[Project Description template](https://p3.express/manual/v2/project-description.odt)
+[Project Description template](https://p3.express/en/modules/p3.express/manual/v2/project-description.odt)
 
-[Follow-Up Register template](https://p3.express/manual/v2/follow-up-register.ods)
+[Follow-Up Register template](https://p3.express/en/modules/p3.express/manual/v2/follow-up-register.ods)
 
 ## Purpose
 
@@ -40,8 +40,16 @@ Consider the following to avoid some of the commonest pitfalls in this managemen
 
 The following principles play a significant role in this management activity:
 
-- [NUP2: Preserve and optimize energy and resources.](https://nupp.guide/nup2/)
-- [NUP3: Always be proactive.](https://nupp.guide/nup3/)
-- [NUP4: Remember that a chain is only as strong as its weakest link.](https://nupp.guide/nup4/)
-- [NUP5: Don’t do anything without a clear purpose.](https://nupp.guide/nup5/)
-- [NUP6: Use repeatable elements.](https://nupp.guide/nup6/)
+- [NUP2:](https://p3.express/en/modules/nupp/manual/v1/nup2/)
+  Preserve and optimize energy and resources
+- [NUP3:](https://p3.express/en/modules/nupp/manual/v1/nup3/)
+  Always be proactive
+- [NUP4:](https://p3.express/en/modules/nupp/manual/v1/nup4/)
+  Remember that a chain is only as strong as its weakest link
+- [NUP5:](https://p3.express/en/modules/nupp/manual/v1/nup5/)
+  Don’t do anything without a clear purpose
+- [NUP6:](https://p3.express/en/modules/nupp/manual/v1/nup6/)
+  Use repeatable elements
+
+[A10](https://p3.express/en/modules/p3.express/manual/v2/a/10/ "previous activity")
+[B02](https://p3.express/en/modules/p3.express/manual/v2/b/02/ "next activity")

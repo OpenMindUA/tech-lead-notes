@@ -12,7 +12,7 @@ license: CC-BY-4.0
 authors: PTCoE — Nader K. Rad et al.
 tags: [p3-express, a, project-initiation, a08]
 ---
-# A08 - Make a go/no-go decision
+# A08 – Make a go/no-go decision
 
 This management activity belongs to the **Project Initiation** group. This group of activities are run at the beginning to prepare us for the project.
 
@@ -38,5 +38,10 @@ Make sure everyone understands that a no-go decision is not a failure; it’s a 
 
 The following principles play a significant role in this management activity:
 
-- [NUP3: Always be proactive.](https://nupp.guide/nup3/)
-- [NUP5: Don’t do anything without a clear purpose.](https://nupp.guide/nup5/)
+- [NUP3:](https://p3.express/en/modules/nupp/manual/v1/nup3/)
+  Always be proactive
+- [NUP5:](https://p3.express/en/modules/nupp/manual/v1/nup5/)
+  Don’t do anything without a clear purpose
+
+[A07](https://p3.express/en/modules/p3.express/manual/v2/a/07/ "previous activity")
+[A09](https://p3.express/en/modules/p3.express/manual/v2/a/09/ "next activity")

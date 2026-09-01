@@ -12,18 +12,17 @@ license: CC-BY-4.0
 authors: PTCoE — Nader K. Rad et al.
 tags: [micro-p3-express, f, project-closure, f3]
 ---
-# F3 - Have the Project Closure peer-reviewed
+# F3 – Have the Project Closure peer-reviewed
 
-  
+This management activity belongs to the **Project Closure** group. This activity group is done when the product of the project is complete, or when you decide to cancel the project.
 
 As usual, it’s important to remain open and critical:
 
 Project Manager Hat
 
-  
-
 Have we done everything properly to allow for project closure?
 
 You should ask a person *external* to the project team who’s skilled in project management to be your peer reviewer. You should check everything together, make adjustments where necessary, and record this information on a card on the *Integrated Project Board*.
 
-[F2](https://micro.p3.express/f2/ "previous activity") [F4](https://micro.p3.express/f4/ "next activity")
+[F2](https://micro.p3.express/en/modules/micro.p3.express/manual/v1/f/2/ "previous activity")
+[F4](https://micro.p3.express/en/modules/micro.p3.express/manual/v1/f/4/ "next activity")

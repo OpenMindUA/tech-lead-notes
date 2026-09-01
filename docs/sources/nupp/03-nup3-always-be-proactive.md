@@ -9,7 +9,7 @@ license: CC-BY-4.0
 authors: PTCoE — Nader K. Rad et al.
 tags: [nupp, principle, nup3, always-be-proactive]
 ---
-# Always be proactive
+# NUP3 – Always be proactive
 
 There’s a natural tendency in us to be reactive. It can help us preserve our energy dealing unimportant matters, or it may give us better results when we are dealing with something in which we’re completely incompetent. Those situations are different from our projects, and here we can get better results by being proactive.
 
@@ -53,7 +53,7 @@ There are rarely only two choices, even if the question implies that. You need t
 
 We all have many biases that help us survive on one hand, and fool us into making bad decisions on the other. When it comes to making important decisions about the project, it’s best to pause for a while and consider all biases that can impact our decision before they cause problems.
 
-As a reference, you can use the list of cognitive biases given in Wikipedia: <https://en.wikipedia.org/wiki/List_of_cognitive_biases>
+As a reference, you can use the list of cognitive biases given in [Wikipedia](https://en.wikipedia.org/wiki/List_of_cognitive_biases).
 
 There are even decision-making frameworks that you can use to make better decisions. At first, it may be distracting and even annoying to use them, but soon you get used to them and gain advantage from them without much conscious effort.
 
@@ -71,7 +71,5 @@ It’s easy to blame others for poor results. For example, you may want your org
 
 The proactive approach is to take responsibility and do everything you can within the constraints. You cannot expect the organization to fully trust you and give you everything in the hope of getting good results, especially when they have seen so many failed projects. What you have to do is to make one small improvement within the constraints that are set, use that to gain a little trust, a few more resources and a little more toleration for constraints, and then use that for a slightly bigger improvement, and carry on like that until you reach the optimum target.
 
-[▼ PDF](https://nupp.guide/nupp-en.pdf)
-
-[«](https://nupp.guide/nup2/)
-[»](https://nupp.guide/nup4/)
+[NUP2](https://nupp.guide/en/modules/nupp/manual/v1/nup2/ "previous activity")
+[NUP4](https://nupp.guide/en/modules/nupp/manual/v1/nup4/ "next activity")

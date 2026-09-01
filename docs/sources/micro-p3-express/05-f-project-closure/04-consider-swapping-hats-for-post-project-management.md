@@ -12,18 +12,17 @@ license: CC-BY-4.0
 authors: PTCoE — Nader K. Rad et al.
 tags: [micro-p3-express, f, project-closure, f4]
 ---
-# F4 - Consider swapping hats for Post-Project Management
+# F4 – Consider swapping hats for Post-Project Management
 
-  
+This management activity belongs to the **Project Closure** group. This activity group is done when the product of the project is complete, or when you decide to cancel the project.
 
 If the organization is larger than the project team, a different group of people (e.g., the *portfolio management* team) may be responsible for *Post-Project Management*. If that’s not the case, the team members will stay responsible for that cycle, and its hats should be assigned in this activity.
 
 Project Manager Hat
 
-  
-
 Who are the best people to wear each of the hats for Post-Project Management?
 
 The hat assignments should be recorded on the “stakeholder” meta-card in the “project description” column of the *Integrated Project Board*.
 
-[F3](https://micro.p3.express/f3/ "previous activity") [F5](https://micro.p3.express/f5/ "next activity")
+[F3](https://micro.p3.express/en/modules/micro.p3.express/manual/v1/f/3/ "previous activity")
+[F5](https://micro.p3.express/en/modules/micro.p3.express/manual/v1/f/5/ "next activity")

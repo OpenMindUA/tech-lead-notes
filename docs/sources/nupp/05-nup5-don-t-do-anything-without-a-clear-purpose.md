@@ -9,7 +9,7 @@ license: CC-BY-4.0
 authors: PTCoE — Nader K. Rad et al.
 tags: [nupp, principle, nup5, don-t-do-anything-without-a-clear-purpose]
 ---
-# Don’t do anything without a clear purpose
+# NUP5 – Don’t do anything without a clear purpose
 
 You shouldn’t do anything unless it has a clear purpose. Imagine two parallel worlds where everything is the same except for the thing that you’re considering doing: How different would those worlds be? Is the difference worth the effort to do that thing?
 
@@ -87,7 +87,5 @@ A piece of software for streaming music has a very different condition from one 
 
 When you have the purposes in mind, you will better understand how to tailor the systems and artifacts for different projects.
 
-[▼ PDF](https://nupp.guide/nupp-en.pdf)
-
-[«](https://nupp.guide/nup4/)
-[»](https://nupp.guide/nup6/)
+[NUP4](https://nupp.guide/en/modules/nupp/manual/v1/nup4/ "previous activity")
+[NUP6](https://nupp.guide/en/modules/nupp/manual/v1/nup6/ "next activity")

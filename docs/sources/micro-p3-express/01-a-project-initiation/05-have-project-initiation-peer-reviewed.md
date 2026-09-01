@@ -12,15 +12,13 @@ license: CC-BY-4.0
 authors: PTCoE — Nader K. Rad et al.
 tags: [micro-p3-express, a, project-initiation, a5]
 ---
-# A5 - Have Project Initiation peer-reviewed
+# A5 – Have Project Initiation peer-reviewed
 
-  
+This management activity belongs to the **Project Initiation** group. This group of activities are run at the beginning to prepare us for the project.
 
 A good *Project Manager* should always have a critical perspective:
 
 Project Manager Hat
-
-  
 
 Have we done a good job in Project Initiation, and are we ready to move on?
 
@@ -34,20 +32,15 @@ Besides the *Project Manager* hat, other hat-wearers may find it useful to have 
 
 Creator Hat
 
-  
-
 Do we need a production peer review?
 
 Investor Hat
-
-  
 
 Do we need a business peer review?
 
 User Hat
 
-  
-
 Do we need someone to peer review the user aspects?
 
-[A4](https://micro.p3.express/a4/ "previous activity") [A6](https://micro.p3.express/a6/ "next activity")
+[A4](https://micro.p3.express/en/modules/micro.p3.express/manual/v1/a/4/ "previous activity")
+[A6](https://micro.p3.express/en/modules/micro.p3.express/manual/v1/a/6/ "next activity")

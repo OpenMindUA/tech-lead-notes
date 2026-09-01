@@ -12,33 +12,25 @@ license: CC-BY-4.0
 authors: PTCoE — Nader K. Rad et al.
 tags: [micro-p3-express, d, daily-management, d1]
 ---
-# D1 - Manage follow-up items
+# D1 – Manage follow-up items
 
-  
+This management activity belongs to the **Daily Management** activity group: It’s done daily.
 
 All team members should be continuously looking for issues, risks, changes, and improvement ideas.
 
 Creator Hat
 
-  
-
 Are there any new issues, risks, or improvement ideas for the project output?
 
 Investor Hat
-
-  
 
 Are there any new business issues, risks, or changes?
 
 User Hat
 
-  
-
 Are there any new issues, risks, or changes related to end users or the customer?
 
 Project Manager Hat
-
-  
 
 Are there any new issues, risks, or improvement ideas related to the way we work?
 
@@ -48,16 +40,13 @@ This information should be captured by adding new follow-up cards onto the *Inte
 
 Project Manager Hat
 
-  
-
 Are we properly following up on the identified issues and risks?
 
 To make sure nothing is neglected, a person should be assigned to each card on the *Integrated Project Board* as its *custodian*. The custodians follow up on those cards and update them. When a card is completed or canceled, they add the new information to the card and move it to the “to-review” column of the board. Then, the whole team or a subset of it reviews the card before moving it to the “closed” column.
 
 Project Manager Hat
 
-  
-
 Are the documents clear and easy to understand?
 
-[C4](https://micro.p3.express/c4/ "previous activity") [D2](https://micro.p3.express/d2/ "next activity")
+[C4](https://micro.p3.express/en/modules/micro.p3.express/manual/v1/c/4/ "previous activity")
+[D2](https://micro.p3.express/en/modules/micro.p3.express/manual/v1/d/2/ "next activity")

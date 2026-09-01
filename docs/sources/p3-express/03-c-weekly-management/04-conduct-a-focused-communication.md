@@ -12,7 +12,7 @@ license: CC-BY-4.0
 authors: PTCoE — Nader K. Rad et al.
 tags: [p3-express, c, weekly-management, c04]
 ---
-# C04 - Conduct a focused communication
+# C04 – Conduct a focused communication
 
 This management activity belongs to the **Weekly Management** group, which is a group of activities done at the beginning of each week.
 
@@ -30,6 +30,12 @@ Don’t go through too much detail in this message, but rather keep it simple an
 
 The following principles play a significant role in this management activity:
 
-- [NUP3: Always be proactive.](https://nupp.guide/nup3/)
-- [NUP4: Remember that a chain is only as strong as its weakest link.](https://nupp.guide/nup4/)
-- [NUP5: Don’t do anything without a clear purpose.](https://nupp.guide/nup5/)
+- [NUP3:](https://p3.express/en/modules/nupp/manual/v1/nup3/)
+  Always be proactive
+- [NUP4:](https://p3.express/en/modules/nupp/manual/v1/nup4/)
+  Remember that a chain is only as strong as its weakest link
+- [NUP5:](https://p3.express/en/modules/nupp/manual/v1/nup5/)
+  Don’t do anything without a clear purpose
+
+[C03](https://p3.express/en/modules/p3.express/manual/v2/c/03/ "previous activity")
+[D01](https://p3.express/en/modules/p3.express/manual/v2/d/01/ "next activity")

@@ -7,25 +7,41 @@ license: CC-BY-4.0
 authors: PTCoE — Nader K. Rad et al.
 tags: [nupp, front-matter, source-landing]
 ---
-NUPP is a collection of nearly universal principles of projects: those we’d do well to follow in all projects, regardless of the methodologies and approaches that we use, to maximize our success.
+# NUPP
 
-Each of the available resources and methods for running projects relies on some of these NUPs (nearly universal principles). However, the following points need to be borne in mind:
+Nearly Universal Principles of Projects
 
-- It’s usually not all of them, and it would be helpful for practitioners to consider all NUPs instead of a subset.
-- The underlying principles are usually not made clear enough in resources and methods, and most practitioners are so engaged in practical details that they forget about principles and do things that are not compatible with them.
+[Manual](manual/v1/)
 
-NUPP is compatible with all the major methods, systems, resources, and frameworks such as PRINCE2®, PMBOK® Guide, P3.express, PM², DSDM®, XP, and Scrum. It may not be compatible with certain interpretations of those systems, though, and that’s where NUPP tries to encourage practitioners to reconsider their interpretations.
+## What is NUPP?
 
-NUPP is a collection of the following NUPs:
+NUPP is a collection of nearly universal principles of projects: those we’d do well to follow in all projects, regardless of the methodologies and approaches that we use.Co-funded by theEuropean Union
 
-- [NUP1: prefer results and the truth to affiliations](https://nupp.guide/nup1/)
-- [NUP2: preserve and optimize energy and resources](https://nupp.guide/nup2/)
-- [NUP3: always be proactive](https://nupp.guide/nup3/)
-- [NUP4: remember that a chain is only as strong as its weakest link](https://nupp.guide/nup4/)
-- [NUP5: don’t do anything without a clear purpose](https://nupp.guide/nup5/)
-- [NUP6: use repeatable elements](https://nupp.guide/nup6/)
+## Why NUPP?
 
-[▼ PDF](https://nupp.guide/nupp-en.pdf)
+Because some of the things we do to manage our projects tend to lose their meaning after a while without us noticing it. Then, they will keep taking our energy without creating any results. Having a principle-first approach helps reduce that risk and keep project management activities fruitful.
 
-«
-[»](https://nupp.guide/nup1/)
+## How does NUPP work?
+
+Using NUPP is simple: have a list of the 6 principles handy, and whenever you want to make a decision or do something significant, check it with the principles and make sure it’s compatible with all of them. At the beginning, it may take time, but eventually, you become faster at it and do it automatically.
+
+## The Project Ecosystem
+
+OMIMO is a family of the following modules, each designed to solve a different set of problems. There’s no single “best” module, but the right choice depends on your situation. Instead of picking the most popular type of module, identify your primary problems, then choose the module that addresses it best.  
+Level 5Level 4Level 3Level 2Level 1PortfolioManagementProgramManagementProjectManagementTeamManagementTaskManagement[Leader's Behavior Compass](https://nupp.guide/en/modules/compass/)[P5.express](https://omimo.org/en/modules/p5.express/)[P4.express](https://omimo.org/en/modules/p4.express/)[P3.express](https://omimo.org/en/modules/p3.express/)P2.express[P1.express](https://omimo.org/en/modules/p1.express/)[micro.P3.express](https://omimo.org/en/modules/micro.p3.express/)[NUPP](https://omimo.org/en/modules/nupp/)
+
+## Announcements
+
+All important updates about OMIMO modules are announced here. If you’re interested in using or contributing to the modules, it’s best to stay informed of these announcements by one of the following three methods:
+
+[LinkedIn](https://www.linkedin.com/company/101131313/)[Email](https://nupp.guide/subscribe.php)[RSS](https://nupp.guide/en/index.xml)
+
+The latest announcements:
+
+- [OMIMO events survey](https://omimo.org/en/announcements/omimo-events-survey/)
+- [P4.express draft is published and available for review](https://omimo.org/en/announcements/p4.express-draft-published/)
+- [Online Group Peer Review Meeting Showcase for P3.express](https://omimo.org/en/announcements/online-group-peer-review-meeting-2/)
+- [The P3P exam is now available in Ukrainian](https://omimo.org/en/announcements/p3p-exam-available-in-ukrainian/)
+- [Free P3.express course for visually impaired candidates](https://omimo.org/en/announcements/p3.express-course-for-visually-impaired/)
+- [The Leadership Self-Assessment is published](https://omimo.org/en/announcements/leadership-self-assessment/)
+- [All announcements...](https://nupp.guide/en/announcements/)
