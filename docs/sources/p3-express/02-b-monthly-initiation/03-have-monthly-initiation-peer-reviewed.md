@@ -12,7 +12,7 @@ license: CC-BY-4.0
 authors: PTCoE — Nader K. Rad et al.
 tags: [p3-express, b, monthly-initiation, b03]
 ---
-# B03 - Make a go/no-go decision
+# B03 – Make a go/no-go decision
 
 This management activity belongs to the **Monthly Initiation** group. This group of activities are done in the beginning of each month to prepare us for a new monthly cycle.
 
@@ -34,5 +34,10 @@ Sometimes, a project may be justifiable when evaluated in isolation, but it may 
 
 The following principles play a significant role in this management activity:
 
-- [NUP3: Always be proactive.](https://nupp.guide/nup3/)
-- [NUP5: Don’t do anything without a clear purpose.](https://nupp.guide/nup5/)
+- [NUP3:](https://p3.express/en/modules/nupp/manual/v1/nup3/)
+  Always be proactive
+- [NUP5:](https://p3.express/en/modules/nupp/manual/v1/nup5/)
+  Don’t do anything without a clear purpose
+
+[B02](https://p3.express/en/modules/p3.express/manual/v2/b/02/ "previous activity")
+[B04](https://p3.express/en/modules/p3.express/manual/v2/b/04/ "next activity")

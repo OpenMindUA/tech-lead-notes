@@ -12,7 +12,7 @@ license: CC-BY-4.0
 authors: PTCoE — Nader K. Rad et al.
 tags: [p3-express, f, project-closure, f01]
 ---
-# F01 - Hand over the product
+# F01 – Hand over the product
 
 This management activity belongs to the **Project Closure** group. This activity group is done when the product of the project is complete, or when you decide to cancel the project.
 
@@ -34,5 +34,10 @@ When possible, seek approval of the sponsor and the customer for the major deliv
 
 The following principles play a significant role in this management activity:
 
-- [NUP3: Always be proactive.](https://nupp.guide/nup3/)
-- [NUP5: Don’t do anything without a clear purpose.](https://nupp.guide/nup5/)
+- [NUP3:](https://p3.express/en/modules/nupp/manual/v1/nup3/)
+  Always be proactive
+- [NUP5:](https://p3.express/en/modules/nupp/manual/v1/nup5/)
+  Don’t do anything without a clear purpose
+
+[E03](https://p3.express/en/modules/p3.express/manual/v2/e/03/ "previous activity")
+[F02](https://p3.express/en/modules/p3.express/manual/v2/f/02/ "next activity")

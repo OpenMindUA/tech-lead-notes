@@ -12,7 +12,7 @@ license: CC-BY-4.0
 authors: PTCoE — Nader K. Rad et al.
 tags: [p3-express, c, weekly-management, c03]
 ---
-# C03 - Kick off the weekly cycle
+# C03 – Kick off the weekly cycle
 
 This management activity belongs to the **Weekly Management** group, which is a group of activities done at the beginning of each week.
 
@@ -22,7 +22,7 @@ In small projects, gather all team members; and in large ones, gather all team l
 - Review the risks they have in the upcoming week and the existing issues that may expand into the upcoming week, and record them in the **Follow-Up Register**.
 - Encourage the teams to limit their work in progress, and get the in-progress work done as soon as possible.
 
-[Follow-Up Register template](https://p3.express/manual/v2/follow-up-register.ods)
+[Follow-Up Register template](https://p3.express/en/modules/p3.express/manual/v2/follow-up-register.ods)
 
 ## Purpose
 
@@ -40,5 +40,10 @@ The following considerations can help you avoid some of the common pitfalls in t
 
 The following principles play a significant role in this management activity:
 
-- [NUP4: Remember that a chain is only as strong as its weakest link.](https://nupp.guide/nup4/)
-- [NUP5: Don’t do anything without a clear purpose.](https://nupp.guide/nup5/)
+- [NUP4:](https://p3.express/en/modules/nupp/manual/v1/nup4/)
+  Remember that a chain is only as strong as its weakest link
+- [NUP5:](https://p3.express/en/modules/nupp/manual/v1/nup5/)
+  Don’t do anything without a clear purpose
+
+[C02](https://p3.express/en/modules/p3.express/manual/v2/c/02/ "previous activity")
+[C04](https://p3.express/en/modules/p3.express/manual/v2/c/04/ "next activity")

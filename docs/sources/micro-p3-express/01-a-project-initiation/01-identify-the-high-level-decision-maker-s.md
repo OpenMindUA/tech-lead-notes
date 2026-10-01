@@ -12,15 +12,16 @@ license: CC-BY-4.0
 authors: PTCoE — Nader K. Rad et al.
 tags: [micro-p3-express, a, project-initiation, a1]
 ---
-# A1 - Identify the high-level decision maker(s)
+# A1 – Identify the high-level decision maker(s)
 
-  
+This management activity belongs to the **Project Initiation** group. This group of activities are run at the beginning to prepare us for the project.
 
 This is the first management activity in the *Project Initiation* activity group, which is a group for creating a foundation for the project and deciding whether you will execute it.
 
-It must be made clear who will make the high-level decisions such as the *go/no-go* ones ([A6](https://micro.p3.express/a6/) and [C3](https://micro.p3.express/c3/)). The choice depends on whether the organization is larger than the project team:
+It must be made clear who will make the high-level decisions such as the *go/no-go* ones ([A6](https://micro.p3.express/a/6/) and [C3](https://micro.p3.express/c/3/)). The choice depends on whether the organization is larger than the project team:
 
 - **If there’s no larger organization (it’s a micro-organization),** then the whole team, or a subset of it, would be responsible for the high-level decisions. Remember that it must be clear to everyone who these people are.
 - **If there’s a larger organization,** a single person who has high organizational power and is not one of the normal team members should be the project *sponsor*, responsible for making high-level decisions and providing resources for the project. When more than one person needs to be involved in high-level decisions, it is the responsibility of the sponsor to make the arrangements, and the team members will only work with the sponsor rather than all the decision makers.
 
-[in](https://micro.p3.express/ "previous activity") [A2](https://micro.p3.express/a2/ "next activity")
+[IN](https://micro.p3.express/en/modules/micro.p3.express/manual/v1/ "previous activity")
+[A2](https://micro.p3.express/en/modules/micro.p3.express/manual/v1/a/2/ "next activity")
