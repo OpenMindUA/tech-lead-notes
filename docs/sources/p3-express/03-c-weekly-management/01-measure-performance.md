@@ -12,7 +12,7 @@ license: CC-BY-4.0
 authors: PTCoE — Nader K. Rad et al.
 tags: [p3-express, c, weekly-management, c01]
 ---
-# C01 - Measure and report performance
+# C01 – Measure and report performance
 
 This management activity belongs to the **Weekly Management** group, which is a group of activities done at the beginning of each week.
 
@@ -36,5 +36,10 @@ Consider the following to avoid the commonest pitfalls in this management activi
 
 The following principles play a significant role in this management activity:
 
-- [NUP4: Remember that a chain is only as strong as its weakest link.](https://nupp.guide/nup4/)
-- [NUP5: Don’t do anything without a clear purpose.](https://nupp.guide/nup5/)
+- [NUP4:](https://p3.express/en/modules/nupp/manual/v1/nup4/)
+  Remember that a chain is only as strong as its weakest link
+- [NUP5:](https://p3.express/en/modules/nupp/manual/v1/nup5/)
+  Don’t do anything without a clear purpose
+
+[B05](https://p3.express/en/modules/p3.express/manual/v2/b/05/ "previous activity")
+[C03](https://p3.express/en/modules/p3.express/manual/v2/c/03/ "next activity")

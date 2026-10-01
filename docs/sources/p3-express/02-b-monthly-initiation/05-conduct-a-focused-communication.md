@@ -12,7 +12,7 @@ license: CC-BY-4.0
 authors: PTCoE — Nader K. Rad et al.
 tags: [p3-express, b, monthly-initiation, b05]
 ---
-# B05 - Conduct a focused communication
+# B05 – Conduct a focused communication
 
 This management activity belongs to the **Monthly Initiation** group. This group of activities are done in the beginning of each month to prepare us for a new monthly cycle.
 
@@ -30,6 +30,12 @@ Keep the message short and clear, and focus on expected achievements rather than
 
 The following principles play a significant role in this management activity:
 
-- [NUP3: Always be proactive.](https://nupp.guide/nup3/)
-- [NUP4: Remember that a chain is only as strong as its weakest link.](https://nupp.guide/nup4/)
-- [NUP5: Don’t do anything without a clear purpose.](https://nupp.guide/nup5/)
+- [NUP3:](https://p3.express/en/modules/nupp/manual/v1/nup3/)
+  Always be proactive
+- [NUP4:](https://p3.express/en/modules/nupp/manual/v1/nup4/)
+  Remember that a chain is only as strong as its weakest link
+- [NUP5:](https://p3.express/en/modules/nupp/manual/v1/nup5/)
+  Don’t do anything without a clear purpose
+
+[B04](https://p3.express/en/modules/p3.express/manual/v2/b/04/ "previous activity")
+[C01](https://p3.express/en/modules/p3.express/manual/v2/c/01/ "next activity")

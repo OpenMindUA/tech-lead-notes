@@ -12,7 +12,7 @@ license: CC-BY-4.0
 authors: PTCoE — Nader K. Rad et al.
 tags: [p3-express, a, project-initiation, a04]
 ---
-# A04 - Describe the project
+# A04 – Describe the project
 
 This management activity belongs to the **Project Initiation** group. This group of activities are run at the beginning to prepare us for the project.
 
@@ -28,7 +28,7 @@ Some of the information required for the Project Description doesn’t exist at 
 
 If a similar project has been done before, check its archive and use that information to prepare a more realistic description.
 
-[Project Description template](https://p3.express/manual/v2/project-description.odt)
+[Project Description template](https://p3.express/en/modules/p3.express/manual/v2/project-description.odt)
 
 ## Purpose
 
@@ -44,7 +44,14 @@ Describe everything clearly and briefly. Avoid the typical kind of corporate sta
 
 The following principles play a significant role in this management activity:
 
-- [NUP2: Preserve and optimize energy and resources.](https://nupp.guide/nup2/)
-- [NUP4: Remember that a chain is only as strong as its weakest link.](https://nupp.guide/nup4/)
-- [NUP5: Don’t do anything without a clear purpose.](https://nupp.guide/nup5/)
-- [NUP6: Use repeatable elements.](https://nupp.guide/nup6/)
+- [NUP2:](https://p3.express/en/modules/nupp/manual/v1/nup2/)
+  Preserve and optimize energy and resources
+- [NUP4:](https://p3.express/en/modules/nupp/manual/v1/nup4/)
+  Remember that a chain is only as strong as its weakest link
+- [NUP5:](https://p3.express/en/modules/nupp/manual/v1/nup5/)
+  Don’t do anything without a clear purpose
+- [NUP6:](https://p3.express/en/modules/nupp/manual/v1/nup6/)
+  Use repeatable elements
+
+[A03](https://p3.express/en/modules/p3.express/manual/v2/a/03/ "previous activity")
+[A05](https://p3.express/en/modules/p3.express/manual/v2/a/05/ "next activity")

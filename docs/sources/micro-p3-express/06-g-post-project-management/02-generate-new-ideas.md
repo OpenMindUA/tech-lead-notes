@@ -12,15 +12,13 @@ license: CC-BY-4.0
 authors: PTCoE — Nader K. Rad et al.
 tags: [micro-p3-express, g, post-project-management, g2]
 ---
-# G2 - Generate new ideas
+# G2 – Generate new ideas
 
-  
+This management activity belongs to the **post-project management** activity group: a cycle that goes on for 1 to 5 years after the project ends. During that time, the cycle is run every 1 to 6 months.
 
-Based on [G1](https://micro.p3.express/g1/), you know how the project’s output has performed. Now you can act on that information.
+Based on [G1](https://micro.p3.express/g/1/), you know how the project’s output has performed. Now you can act on that information.
 
 User Hat
-
-  
 
 Can we make any adjustments to the output to make it more suitable to its users?
 
@@ -28,15 +26,11 @@ Can we target any new users for the output?
 
 Creator Hat
 
-  
-
 Should we make any adjustments to improve the performance of the output?
 
 Can we make any new, useful outputs based on what is already done?
 
 Investor Hat
-
-  
 
 Can we make adjustments to the output to increase its benefits?
 
@@ -48,10 +42,9 @@ It’s possible to merge the G2 activity of multiple projects into one to take a
 
 Project Manager Hat
 
-  
-
 Are we using proper facilitation techniques for generating new ideas?
 
 It’s possible to use various techniques, such as Delphi, to help generate better ideas.
 
-[G1](https://micro.p3.express/g1/ "previous activity") [G3](https://micro.p3.express/g3/ "next activity")
+[G1](https://micro.p3.express/en/modules/micro.p3.express/manual/v1/g/1/ "previous activity")
+[G3](https://micro.p3.express/en/modules/micro.p3.express/manual/v1/g/3/ "next activity")

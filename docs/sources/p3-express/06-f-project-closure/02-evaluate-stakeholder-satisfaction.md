@@ -12,13 +12,13 @@ license: CC-BY-4.0
 authors: PTCoE — Nader K. Rad et al.
 tags: [p3-express, f, project-closure, f02]
 ---
-# F02 - Evaluate stakeholder satisfaction
+# F02 – Evaluate stakeholder satisfaction
 
 This management activity belongs to the **Project Closure** group. This activity group is done when the product of the project is complete, or when you decide to cancel the project.
 
 Send the final anonymous satisfaction questionnaire to the internal and external stakeholders and record the results in the **Health Register**. While each monthly satisfaction questionnaire is focused on a single month, this final evaluation is about the project as a whole.
 
-[Health Register template](https://p3.express/manual/v2/health-register.ods)
+[Health Register template](https://p3.express/en/modules/p3.express/manual/v2/health-register.ods)
 
 ## Purpose
 
@@ -38,7 +38,14 @@ To ensure that you won’t see personally identifiable information in the event 
 
 The following principles play a significant role in this management activity:
 
-- [NUP3: Always be proactive.](https://nupp.guide/nup3/)
-- [NUP4: Remember that a chain is only as strong as its weakest link.](https://nupp.guide/nup4/)
-- [NUP5: Don’t do anything without a clear purpose.](https://nupp.guide/nup5/)
-- [NUP6: Use repeatable elements.](https://nupp.guide/nup6/)
+- [NUP3:](https://p3.express/en/modules/nupp/manual/v1/nup3/)
+  Always be proactive
+- [NUP4:](https://p3.express/en/modules/nupp/manual/v1/nup4/)
+  Remember that a chain is only as strong as its weakest link
+- [NUP5:](https://p3.express/en/modules/nupp/manual/v1/nup5/)
+  Don’t do anything without a clear purpose
+- [NUP6:](https://p3.express/en/modules/nupp/manual/v1/nup6/)
+  Use repeatable elements
+
+[F01](https://p3.express/en/modules/p3.express/manual/v2/f/01/ "previous activity")
+[F03](https://p3.express/en/modules/p3.express/manual/v2/f/03/ "next activity")

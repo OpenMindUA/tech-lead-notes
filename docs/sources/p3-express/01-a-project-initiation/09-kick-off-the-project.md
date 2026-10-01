@@ -12,7 +12,7 @@ license: CC-BY-4.0
 authors: PTCoE — Nader K. Rad et al.
 tags: [p3-express, a, project-initiation, a09]
 ---
-# A09 - Kick off the project
+# A09 – Kick off the project
 
 This management activity belongs to the **Project Initiation** group. This group of activities are run at the beginning to prepare us for the project.
 
@@ -36,5 +36,10 @@ Make sure the kick-off event is not a dry, boring meeting that only goes through
 
 The following principles play a significant role in this management activity:
 
-- [NUP4: Remember that a chain is only as strong as its weakest link.](https://nupp.guide/nup4/)
-- [NUP5: Don’t do anything without a clear purpose.](https://nupp.guide/nup5/)
+- [NUP4:](https://p3.express/en/modules/nupp/manual/v1/nup4/)
+  Remember that a chain is only as strong as its weakest link
+- [NUP5:](https://p3.express/en/modules/nupp/manual/v1/nup5/)
+  Don’t do anything without a clear purpose
+
+[A08](https://p3.express/en/modules/p3.express/manual/v2/a/08/ "previous activity")
+[A10](https://p3.express/en/modules/p3.express/manual/v2/a/10/ "next activity")

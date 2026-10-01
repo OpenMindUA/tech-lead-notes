@@ -12,7 +12,7 @@ license: CC-BY-4.0
 authors: PTCoE — Nader K. Rad et al.
 tags: [p3-express, b, monthly-initiation, b04]
 ---
-# B04 - Kick off the monthly cycle
+# B04 – Kick off the monthly cycle
 
 This management activity belongs to the **Monthly Initiation** group. This group of activities are done in the beginning of each month to prepare us for a new monthly cycle.
 
@@ -33,5 +33,10 @@ Don’t limit the kick-off to boring, dry speeches and a review of the upcoming 
 
 The following principles play a significant role in this management activity:
 
-- [NUP4: Remember that a chain is only as strong as its weakest link.](https://nupp.guide/nup4/)
-- [NUP5: Don’t do anything without a clear purpose.](https://nupp.guide/nup5/)
+- [NUP4:](https://p3.express/en/modules/nupp/manual/v1/nup4/)
+  Remember that a chain is only as strong as its weakest link
+- [NUP5:](https://p3.express/en/modules/nupp/manual/v1/nup5/)
+  Don’t do anything without a clear purpose
+
+[B03](https://p3.express/en/modules/p3.express/manual/v2/b/03/ "previous activity")
+[B05](https://p3.express/en/modules/p3.express/manual/v2/b/05/ "next activity")

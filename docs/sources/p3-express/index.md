@@ -9,11 +9,11 @@ tags: [p3-express, front-matter, source-landing, methodology]
 ---
 # Introduction
 
-P3.express uses a simple process, as shown in the diagram above. This process consists of 33 management activities in 7 groups. Click on any of the activities in the diagram to open its description, or simply start with the first activity, [A01](a/01/).
+P3.express uses a simple process, as shown in the diagram above. This process consists of 33 management activities in 7 groups. Click on any of the activities in the diagram to open its description, or simply start with the first activity, [A01](https://p3.express/manual/v2/a/01/).
 
 ## Principles
 
-Work done in a P3.express project should follow the [Nearly Universal Principles of Projects (NUPP)](https://nupp.guide). P3.express has itself also been designed to comply with NUPP.
+Work done in a P3.express project should follow the [Nearly Universal Principles of Projects (NUPP)](https://p3.express/en/modules/nupp/). P3.express has itself also been designed to comply with NUPP.
 
 ## Organization
 
@@ -25,10 +25,10 @@ There are one or more **production teams** in the project. Each internal product
 
 The following are the documents defined in P3.express:
 
-- Project Description ([template](https://p3.express/manual/v2/project-description.odt))
+- Project Description ([template](https://p3.express/en/modules/p3.express/manual/v2/project-description.odt))
 - Deliverables Map
-- Follow-Up Register ([template](https://p3.express/manual/v2/follow-up-register.ods))
-- Health Register ([template](https://p3.express/manual/v2/health-register.ods))
+- Follow-Up Register ([template](https://p3.express/en/modules/p3.express/manual/v2/follow-up-register.ods))
+- Health Register ([template](https://p3.express/en/modules/p3.express/manual/v2/health-register.ods))
 
 The templates can be used as they are, or used as a guide to creating a customized setup.
 
@@ -40,7 +40,7 @@ It’s important to have a central place for your project documents, with schedu
 If the team is not co-located, you will also need a team chat platform. The following are a few open-source, privacy-aware options:
 
 - [element](https://element.io/)
-- [rocket.chat](https://rocket.chat/)
+- [rocket.chat](https://www.rocket.chat/)
 
 It’s important to capture risks, issues, and change requests in the Follow-Up Register immediately. With this in mind, you need to set up the system in a way that makes access to the register as easy as possible, including access from your mobile phone. If it’s not possible, use a personal journal to record them, and then transfer them to your register as soon as possible. The following are a few open-source, privacy-friendly note taking applications you can use as a proxy:
 
@@ -56,12 +56,15 @@ You can make changes to P3.express to better match it to your environment. Howev
 
 If you have no external customer and no external suppliers, there will be only one perspective to the project; otherwise, each organization involved in the project will have its own perspective. Everything in P3.express should be seen from **your perspective** on the project; e.g., when you’re describing the justification of the project in the project description document, describe your own justification, and not that of the external customer. P3.express is not a single system to be used by every party involved in the project, but a system you use for managing the project within your own boundaries.
 
-In addition to the documents, the perspective should also be considered when thinking about the roles. You may be the “project manager” from your own perspective, but you will be considered a “supplier project manager” from the customer’s perspective and a “customer project manager” from your suppliers' perspective.
+In addition to the documents, the perspective should also be considered when thinking about the roles. You may be the “project manager” from your own perspective, but you will be considered a “supplier project manager” from the customer’s perspective and a “customer project manager” from your suppliers’ perspective.
 
 ## History
 
-[The first version of P3.express](https://p3.express/manual/v1/) was published in June 2016, followed by two minor revisions in 2018 and 2020. The draft of the second version of P3.express was published in March 2021 to garner comments from the public, and the final version was released in May 2021.
+[The first version of P3.express](https://omimo.org/en/modules/p3.express/manual/v1/) was published in June 2016, followed by two minor revisions in 2018 and 2020. The draft of the second version of P3.express was published in March 2021 to garner comments from the public, and the final version was released in May 2021.
 
-In December 2022, the first draft of [micro.P3.express](https://micro.p3.express/) was published, which is a flavor of P3.express customized for micro-projects with 1 to 7 team members.
+In December 2022, the first draft of [micro.P3.express](https://omimo.org/en/modules/micro.p3.express/) was published, which is a flavor of P3.express customized for micro-projects with 1 to 7 team members.
 
 In december 2024, the online P3.express manual and its platform was revised to improve its accesibility.
+
+  
+[A01](https://p3.express/en/modules/p3.express/manual/v2/a/01/ "next activity")
