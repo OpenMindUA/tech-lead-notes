@@ -12,7 +12,7 @@ license: CC-BY-4.0
 authors: PTCoE — Nader K. Rad et al.
 tags: [p3-express, a, project-initiation, a03]
 ---
-# A03 - Appoint the key team members
+# A03 – Appoint the key team members
 
 This management activity belongs to the **Project Initiation** group. This group of activities are run at the beginning to prepare us for the project.
 
@@ -39,6 +39,12 @@ When it comes to appointing existing people to the project or hiring new people,
 
 The following principles play a significant role in this management activity:
 
-- [NUP2: Preserve and optimize energy and resources.](https://nupp.guide/nup2/)
-- [NUP4: Remember that a chain is only as strong as its weakest link.](https://nupp.guide/nup4/)
-- [NUP5: Don’t do anything without a clear purpose.](https://nupp.guide/nup5/)
+- [NUP2:](https://p3.express/en/modules/nupp/manual/v1/nup2/)
+  Preserve and optimize energy and resources
+- [NUP4:](https://p3.express/en/modules/nupp/manual/v1/nup4/)
+  Remember that a chain is only as strong as its weakest link
+- [NUP5:](https://p3.express/en/modules/nupp/manual/v1/nup5/)
+  Don’t do anything without a clear purpose
+
+[A02](https://p3.express/en/modules/p3.express/manual/v2/a/02/ "previous activity")
+[A04](https://p3.express/en/modules/p3.express/manual/v2/a/04/ "next activity")

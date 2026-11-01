@@ -1,11 +1,11 @@
 <!-- chunk: index.md --># P3.express manual (v2)
 # Introduction
 
-P3.express uses a simple process, as shown in the diagram above. This process consists of 33 management activities in 7 groups. Click on any of the activities in the diagram to open its description, or simply start with the first activity, [A01](a/01/).
+P3.express uses a simple process, as shown in the diagram above. This process consists of 33 management activities in 7 groups. Click on any of the activities in the diagram to open its description, or simply start with the first activity, [A01](https://p3.express/manual/v2/a/01/).
 
 ## Principles
 
-Work done in a P3.express project should follow the [Nearly Universal Principles of Projects (NUPP)](https://nupp.guide). P3.express has itself also been designed to comply with NUPP.
+Work done in a P3.express project should follow the [Nearly Universal Principles of Projects (NUPP)](https://p3.express/en/modules/nupp/). P3.express has itself also been designed to comply with NUPP.
 
 ## Organization
 
@@ -17,10 +17,10 @@ There are one or more **production teams** in the project. Each internal product
 
 The following are the documents defined in P3.express:
 
-- Project Description ([template](https://p3.express/manual/v2/project-description.odt))
+- Project Description ([template](https://p3.express/en/modules/p3.express/manual/v2/project-description.odt))
 - Deliverables Map
-- Follow-Up Register ([template](https://p3.express/manual/v2/follow-up-register.ods))
-- Health Register ([template](https://p3.express/manual/v2/health-register.ods))
+- Follow-Up Register ([template](https://p3.express/en/modules/p3.express/manual/v2/follow-up-register.ods))
+- Health Register ([template](https://p3.express/en/modules/p3.express/manual/v2/health-register.ods))
 
 The templates can be used as they are, or used as a guide to creating a customized setup.
 
@@ -32,7 +32,7 @@ It’s important to have a central place for your project documents, with schedu
 If the team is not co-located, you will also need a team chat platform. The following are a few open-source, privacy-aware options:
 
 - [element](https://element.io/)
-- [rocket.chat](https://rocket.chat/)
+- [rocket.chat](https://www.rocket.chat/)
 
 It’s important to capture risks, issues, and change requests in the Follow-Up Register immediately. With this in mind, you need to set up the system in a way that makes access to the register as easy as possible, including access from your mobile phone. If it’s not possible, use a personal journal to record them, and then transfer them to your register as soon as possible. The following are a few open-source, privacy-friendly note taking applications you can use as a proxy:
 
@@ -48,15 +48,18 @@ You can make changes to P3.express to better match it to your environment. Howev
 
 If you have no external customer and no external suppliers, there will be only one perspective to the project; otherwise, each organization involved in the project will have its own perspective. Everything in P3.express should be seen from **your perspective** on the project; e.g., when you’re describing the justification of the project in the project description document, describe your own justification, and not that of the external customer. P3.express is not a single system to be used by every party involved in the project, but a system you use for managing the project within your own boundaries.
 
-In addition to the documents, the perspective should also be considered when thinking about the roles. You may be the “project manager” from your own perspective, but you will be considered a “supplier project manager” from the customer’s perspective and a “customer project manager” from your suppliers' perspective.
+In addition to the documents, the perspective should also be considered when thinking about the roles. You may be the “project manager” from your own perspective, but you will be considered a “supplier project manager” from the customer’s perspective and a “customer project manager” from your suppliers’ perspective.
 
 ## History
 
-[The first version of P3.express](https://p3.express/manual/v1/) was published in June 2016, followed by two minor revisions in 2018 and 2020. The draft of the second version of P3.express was published in March 2021 to garner comments from the public, and the final version was released in May 2021.
+[The first version of P3.express](https://omimo.org/en/modules/p3.express/manual/v1/) was published in June 2016, followed by two minor revisions in 2018 and 2020. The draft of the second version of P3.express was published in March 2021 to garner comments from the public, and the final version was released in May 2021.
 
-In December 2022, the first draft of [micro.P3.express](https://micro.p3.express/) was published, which is a flavor of P3.express customized for micro-projects with 1 to 7 team members.
+In December 2022, the first draft of [micro.P3.express](https://omimo.org/en/modules/micro.p3.express/) was published, which is a flavor of P3.express customized for micro-projects with 1 to 7 team members.
 
 In december 2024, the online P3.express manual and its platform was revised to improve its accesibility.
+
+  
+[A01](https://p3.express/en/modules/p3.express/manual/v2/a/01/ "next activity")
 
 <!-- chunk: index.md --># Group A — Project Initiation
 # Group A — Project Initiation
@@ -64,7 +67,7 @@ In december 2024, the online P3.express manual and its platform was revised to i
 See individual activity pages.
 
 <!-- chunk: 01-appoint-the-sponsor.md --># A01 — Appoint the sponsor
-# A01 - Appoint the sponsor
+# A01 – Appoint the sponsor
 
 This management activity belongs to the **Project Initiation** group. This group of activities are run at the beginning to prepare us for the project.
 
@@ -97,11 +100,16 @@ The following should be considered when deciding about the sponsor:
 
 The following principles play a significant role in this management activity:
 
-- [NUP2: Preserve and optimize energy and resources.](https://nupp.guide/nup2/)
-- [NUP5: Don’t do anything without a clear purpose.](https://nupp.guide/nup5/)
+- [NUP2:](https://p3.express/en/modules/nupp/manual/v1/nup2/)
+  Preserve and optimize energy and resources
+- [NUP5:](https://p3.express/en/modules/nupp/manual/v1/nup5/)
+  Don’t do anything without a clear purpose
+
+[IN](https://p3.express/en/modules/p3.express/manual/v2/ "previous activity")
+[A02](https://p3.express/en/modules/p3.express/manual/v2/a/02/ "next activity")
 
 <!-- chunk: 02-appoint-the-project-manager.md --># A02 — Appoint the project manager
-# A02 - Appoint the project manager
+# A02 – Appoint the project manager
 
 This management activity belongs to the **Project Initiation** group. This group of activities are run at the beginning to prepare us for the project.
 
@@ -119,7 +127,7 @@ While it’s possible for small teams to have a distributed project management s
 
 Consider the following to avoid some of the commonest problems in this area:
 
-- Project managers shouldn’t consider themselves as team members' boss, but as their supporter, facilitator, coordinator, and problem solver.
+- Project managers shouldn’t consider themselves as team members’ boss, but as their supporter, facilitator, coordinator, and problem solver.
 - Project managers and sponsors should not be micro-managers.
 - It’s common to appoint the most senior technical expert as the project manager, which is not a good idea. Project management is a management position, and not a technical one; therefore, you need a person with managerial capability and knowledge to fill this role. Becoming a project manager is not a promotion for a technical expert, but rather a change in career.
 - Project managers shouldn’t become involved in the technical aspects of the project because it’s distracting for them, and there are already technical experts to manage the technical aspects.
@@ -128,11 +136,16 @@ Consider the following to avoid some of the commonest problems in this area:
 
 The following principles play a significant role in this management activity:
 
-- [NUP2: Preserve and optimize energy and resources.](https://nupp.guide/nup2/)
-- [NUP5: Don’t do anything without a clear purpose.](https://nupp.guide/nup5/)
+- [NUP2:](https://p3.express/en/modules/nupp/manual/v1/nup2/)
+  Preserve and optimize energy and resources
+- [NUP5:](https://p3.express/en/modules/nupp/manual/v1/nup5/)
+  Don’t do anything without a clear purpose
+
+[A01](https://p3.express/en/modules/p3.express/manual/v2/a/01/ "previous activity")
+[A03](https://p3.express/en/modules/p3.express/manual/v2/a/03/ "next activity")
 
 <!-- chunk: 03-appoint-key-team-members.md --># A03 — Appoint key team members
-# A03 - Appoint the key team members
+# A03 – Appoint the key team members
 
 This management activity belongs to the **Project Initiation** group. This group of activities are run at the beginning to prepare us for the project.
 
@@ -159,12 +172,18 @@ When it comes to appointing existing people to the project or hiring new people,
 
 The following principles play a significant role in this management activity:
 
-- [NUP2: Preserve and optimize energy and resources.](https://nupp.guide/nup2/)
-- [NUP4: Remember that a chain is only as strong as its weakest link.](https://nupp.guide/nup4/)
-- [NUP5: Don’t do anything without a clear purpose.](https://nupp.guide/nup5/)
+- [NUP2:](https://p3.express/en/modules/nupp/manual/v1/nup2/)
+  Preserve and optimize energy and resources
+- [NUP4:](https://p3.express/en/modules/nupp/manual/v1/nup4/)
+  Remember that a chain is only as strong as its weakest link
+- [NUP5:](https://p3.express/en/modules/nupp/manual/v1/nup5/)
+  Don’t do anything without a clear purpose
+
+[A02](https://p3.express/en/modules/p3.express/manual/v2/a/02/ "previous activity")
+[A04](https://p3.express/en/modules/p3.express/manual/v2/a/04/ "next activity")
 
 <!-- chunk: 04-describe-the-project.md --># A04 — Describe the project
-# A04 - Describe the project
+# A04 – Describe the project
 
 This management activity belongs to the **Project Initiation** group. This group of activities are run at the beginning to prepare us for the project.
 
@@ -180,7 +199,7 @@ Some of the information required for the Project Description doesn’t exist at 
 
 If a similar project has been done before, check its archive and use that information to prepare a more realistic description.
 
-[Project Description template](https://p3.express/manual/v2/project-description.odt)
+[Project Description template](https://p3.express/en/modules/p3.express/manual/v2/project-description.odt)
 
 ## Purpose
 
@@ -196,13 +215,20 @@ Describe everything clearly and briefly. Avoid the typical kind of corporate sta
 
 The following principles play a significant role in this management activity:
 
-- [NUP2: Preserve and optimize energy and resources.](https://nupp.guide/nup2/)
-- [NUP4: Remember that a chain is only as strong as its weakest link.](https://nupp.guide/nup4/)
-- [NUP5: Don’t do anything without a clear purpose.](https://nupp.guide/nup5/)
-- [NUP6: Use repeatable elements.](https://nupp.guide/nup6/)
+- [NUP2:](https://p3.express/en/modules/nupp/manual/v1/nup2/)
+  Preserve and optimize energy and resources
+- [NUP4:](https://p3.express/en/modules/nupp/manual/v1/nup4/)
+  Remember that a chain is only as strong as its weakest link
+- [NUP5:](https://p3.express/en/modules/nupp/manual/v1/nup5/)
+  Don’t do anything without a clear purpose
+- [NUP6:](https://p3.express/en/modules/nupp/manual/v1/nup6/)
+  Use repeatable elements
+
+[A03](https://p3.express/en/modules/p3.express/manual/v2/a/03/ "previous activity")
+[A05](https://p3.express/en/modules/p3.express/manual/v2/a/05/ "next activity")
 
 <!-- chunk: 05-identify-and-plan-deliverables.md --># A05 — Identify and plan deliverables
-# A05 - Identify and plan the deliverables
+# A05 – Identify and plan the deliverables
 
 This management activity belongs to the **Project Initiation** group. This group of activities are run at the beginning to prepare us for the project.
 
@@ -214,7 +240,7 @@ If a similar project has been done before, check its archive and use that inform
 
 Based on the development of the Deliverables Map, you may need to make adjustments to the Project Description as well.
 
-[Project Description template](https://p3.express/manual/v2/project-description.odt)
+[Project Description template](https://p3.express/en/modules/p3.express/manual/v2/project-description.odt)
 
 ## Purpose
 
@@ -228,13 +254,20 @@ It’s common for practitioners to think of “work” instead of “deliverable
 
 The following principles play a significant role in this management activity:
 
-- [NUP2: Preserve and optimize energy and resources.](https://nupp.guide/nup2/)
-- [NUP4: Remember that a chain is only as strong as its weakest link.](https://nupp.guide/nup4/)
-- [NUP5: Don’t do anything without a clear purpose.](https://nupp.guide/nup5/)
-- [NUP6: Use repeatable elements.](https://nupp.guide/nup6/)
+- [NUP2:](https://p3.express/en/modules/nupp/manual/v1/nup2/)
+  Preserve and optimize energy and resources
+- [NUP4:](https://p3.express/en/modules/nupp/manual/v1/nup4/)
+  Remember that a chain is only as strong as its weakest link
+- [NUP5:](https://p3.express/en/modules/nupp/manual/v1/nup5/)
+  Don’t do anything without a clear purpose
+- [NUP6:](https://p3.express/en/modules/nupp/manual/v1/nup6/)
+  Use repeatable elements
+
+[A04](https://p3.express/en/modules/p3.express/manual/v2/a/04/ "previous activity")
+[A06](https://p3.express/en/modules/p3.express/manual/v2/a/06/ "next activity")
 
 <!-- chunk: 06-identify-risks-and-plan-responses.md --># A06 — Identify risks and plan responses
-# A06 - Identify risks and plan responses
+# A06 – Identify risks and plan responses
 
 This management activity belongs to the **Project Initiation** group. This group of activities are run at the beginning to prepare us for the project.
 
@@ -244,9 +277,9 @@ Based on the identified risks and planned responses, you may need to adjust the 
 
 If a similar project has been done before, check its archive to learn more about the risks related to your project.
 
-[Follow-Up Register template](https://p3.express/manual/v2/follow-up-register.ods)
+[Follow-Up Register template](https://p3.express/en/modules/p3.express/manual/v2/follow-up-register.ods)
 
-[Project Description template](https://p3.express/manual/v2/project-description.odt)
+[Project Description template](https://p3.express/en/modules/p3.express/manual/v2/project-description.odt)
 
 ## Purpose
 
@@ -265,14 +298,22 @@ The following helps you avoid some of the commonest pitfalls in risk management:
 
 The following principles play a significant role in this management activity:
 
-- [NUP2: Preserve and optimize energy and resources.](https://nupp.guide/nup2/)
-- [NUP3: Always be proactive.](https://nupp.guide/nup3/)
-- [NUP4: Remember that a chain is only as strong as its weakest link.](https://nupp.guide/nup4/)
-- [NUP5: Don’t do anything without a clear purpose.](https://nupp.guide/nup5/)
-- [NUP6: Use repeatable elements.](https://nupp.guide/nup6/)
+- [NUP2:](https://p3.express/en/modules/nupp/manual/v1/nup2/)
+  Preserve and optimize energy and resources
+- [NUP3:](https://p3.express/en/modules/nupp/manual/v1/nup3/)
+  Always be proactive
+- [NUP4:](https://p3.express/en/modules/nupp/manual/v1/nup4/)
+  Remember that a chain is only as strong as its weakest link
+- [NUP5:](https://p3.express/en/modules/nupp/manual/v1/nup5/)
+  Don’t do anything without a clear purpose
+- [NUP6:](https://p3.express/en/modules/nupp/manual/v1/nup6/)
+  Use repeatable elements
+
+[A05](https://p3.express/en/modules/p3.express/manual/v2/a/05/ "previous activity")
+[A07](https://p3.express/en/modules/p3.express/manual/v2/a/07/ "next activity")
 
 <!-- chunk: 07-peer-review-project-initiation.md --># A07 — Peer-review project initiation
-# A07 - Have project initiation peer-reviewed
+# A07 – Have project initiation peer-reviewed
 
 This management activity belongs to the **Project Initiation** group. This group of activities are run at the beginning to prepare us for the project.
 
@@ -280,11 +321,13 @@ At this point, initiation is almost done, and it’s time to ask another project
 
 If the score is too low, you may need to spend more time on the previous management activities before moving on to the next ones, but more importantly, you need to find the root cause and see how you can prevent low scores in the future.
 
-[Health Register template](https://p3.express/manual/v2/health-register.ods)
+[Health Register template](https://p3.express/en/modules/p3.express/manual/v2/health-register.ods)
 
 ## Purpose
 
-The main purpose is to pause and check whether your management activities are OK. Having an external person check your work is beneficial because you may be too close to the work to see some of the issues. Furthermore, this is an opportunity for people who manage different projects in the organization to see each other’s work and learn more in the process.
+The main purpose is to pause and check whether your management activities are OK. Having an external person check your work is beneficial because you may be too close to the work to see some of the issues. Furthermore,
+
+this is an opportunity for people who manage different projects in the organization to see each other’s work and learn more in the process.
 
 ## Common pitfalls
 
@@ -294,12 +337,18 @@ A common risk is that the person reviewing your work may hesitate to point out p
 
 The following principles play a significant role in this management activity:
 
-- [NUP1: Prefer results and the truth to affiliations.](https://nupp.guide/nup1/)
-- [NUP3: Always be proactive.](https://nupp.guide/nup3/)
-- [NUP5: Don’t do anything without a clear purpose.](https://nupp.guide/nup5/)
+- [NUP1:](https://p3.express/en/modules/nupp/manual/v1/nup1/)
+  Prefer results and the truth to affiliations
+- [NUP3:](https://p3.express/en/modules/nupp/manual/v1/nup3/)
+  Always be proactive
+- [NUP5:](https://p3.express/en/modules/nupp/manual/v1/nup5/)
+  Don’t do anything without a clear purpose
+
+[A06](https://p3.express/en/modules/p3.express/manual/v2/a/06/ "previous activity")
+[A08](https://p3.express/en/modules/p3.express/manual/v2/a/08/ "next activity")
 
 <!-- chunk: 08-make-a-go-no-go-decision.md --># A08 — Make a go/no-go decision
-# A08 - Make a go/no-go decision
+# A08 – Make a go/no-go decision
 
 This management activity belongs to the **Project Initiation** group. This group of activities are run at the beginning to prepare us for the project.
 
@@ -325,11 +374,16 @@ Make sure everyone understands that a no-go decision is not a failure; it’s a 
 
 The following principles play a significant role in this management activity:
 
-- [NUP3: Always be proactive.](https://nupp.guide/nup3/)
-- [NUP5: Don’t do anything without a clear purpose.](https://nupp.guide/nup5/)
+- [NUP3:](https://p3.express/en/modules/nupp/manual/v1/nup3/)
+  Always be proactive
+- [NUP5:](https://p3.express/en/modules/nupp/manual/v1/nup5/)
+  Don’t do anything without a clear purpose
+
+[A07](https://p3.express/en/modules/p3.express/manual/v2/a/07/ "previous activity")
+[A09](https://p3.express/en/modules/p3.express/manual/v2/a/09/ "next activity")
 
 <!-- chunk: 09-kick-off-the-project.md --># A09 — Kick off the project
-# A09 - Kick off the project
+# A09 – Kick off the project
 
 This management activity belongs to the **Project Initiation** group. This group of activities are run at the beginning to prepare us for the project.
 
@@ -353,11 +407,16 @@ Make sure the kick-off event is not a dry, boring meeting that only goes through
 
 The following principles play a significant role in this management activity:
 
-- [NUP4: Remember that a chain is only as strong as its weakest link.](https://nupp.guide/nup4/)
-- [NUP5: Don’t do anything without a clear purpose.](https://nupp.guide/nup5/)
+- [NUP4:](https://p3.express/en/modules/nupp/manual/v1/nup4/)
+  Remember that a chain is only as strong as its weakest link
+- [NUP5:](https://p3.express/en/modules/nupp/manual/v1/nup5/)
+  Don’t do anything without a clear purpose
+
+[A08](https://p3.express/en/modules/p3.express/manual/v2/a/08/ "previous activity")
+[A10](https://p3.express/en/modules/p3.express/manual/v2/a/10/ "next activity")
 
 <!-- chunk: 10-conduct-a-focused-communication.md --># A10 — Conduct a focused communication
-# A10 - Conduct a focused communication
+# A10 – Conduct a focused communication
 
 This management activity belongs to the **Project Initiation** group. This group of activities are run at the beginning to prepare us for the project.
 
@@ -375,9 +434,15 @@ You can’t be at your best unless you’re excited about the project, and when 
 
 The following principles play a significant role in this management activity:
 
-- [NUP3: Always be proactive.](https://nupp.guide/nup3/)
-- [NUP4: Remember that a chain is only as strong as its weakest link.](https://nupp.guide/nup4/)
-- [NUP5: Don’t do anything without a clear purpose.](https://nupp.guide/nup5/)
+- [NUP3:](https://p3.express/en/modules/nupp/manual/v1/nup3/)
+  Always be proactive
+- [NUP4:](https://p3.express/en/modules/nupp/manual/v1/nup4/)
+  Remember that a chain is only as strong as its weakest link
+- [NUP5:](https://p3.express/en/modules/nupp/manual/v1/nup5/)
+  Don’t do anything without a clear purpose
+
+[A09](https://p3.express/en/modules/p3.express/manual/v2/a/09/ "previous activity")
+[B01](https://p3.express/en/modules/p3.express/manual/v2/b/01/ "next activity")
 
 <!-- chunk: index.md --># Group B — Monthly Initiation
 # Group B — Monthly Initiation
@@ -385,7 +450,7 @@ The following principles play a significant role in this management activity:
 See individual activity pages.
 
 <!-- chunk: 01-have-the-team-revise-the-plans.md --># B01 — Have the team revise the plans
-# B01 - Revise and refine the plans
+# B01 – Revise and refine the plans
 
 This management activity belongs to the **Monthly Initiation** group. This group of activities are done in the beginning of each month to prepare us for a new monthly cycle.
 
@@ -393,9 +458,9 @@ Conduct workshops to revise the high-level aspects of the whole plans, and add d
 
 If similar projects have been done before, check their archives and use that information to make your plans more realistic.
 
-[Project Description template](https://p3.express/manual/v2/project-description.odt)
+[Project Description template](https://p3.express/en/modules/p3.express/manual/v2/project-description.odt)
 
-[Follow-Up Register template](https://p3.express/manual/v2/follow-up-register.ods)
+[Follow-Up Register template](https://p3.express/en/modules/p3.express/manual/v2/follow-up-register.ods)
 
 ## Purpose
 
@@ -413,24 +478,34 @@ Consider the following to avoid some of the commonest pitfalls in this managemen
 
 The following principles play a significant role in this management activity:
 
-- [NUP2: Preserve and optimize energy and resources.](https://nupp.guide/nup2/)
-- [NUP3: Always be proactive.](https://nupp.guide/nup3/)
-- [NUP4: Remember that a chain is only as strong as its weakest link.](https://nupp.guide/nup4/)
-- [NUP5: Don’t do anything without a clear purpose.](https://nupp.guide/nup5/)
-- [NUP6: Use repeatable elements.](https://nupp.guide/nup6/)
+- [NUP2:](https://p3.express/en/modules/nupp/manual/v1/nup2/)
+  Preserve and optimize energy and resources
+- [NUP3:](https://p3.express/en/modules/nupp/manual/v1/nup3/)
+  Always be proactive
+- [NUP4:](https://p3.express/en/modules/nupp/manual/v1/nup4/)
+  Remember that a chain is only as strong as its weakest link
+- [NUP5:](https://p3.express/en/modules/nupp/manual/v1/nup5/)
+  Don’t do anything without a clear purpose
+- [NUP6:](https://p3.express/en/modules/nupp/manual/v1/nup6/)
+  Use repeatable elements
+
+[A10](https://p3.express/en/modules/p3.express/manual/v2/a/10/ "previous activity")
+[B02](https://p3.express/en/modules/p3.express/manual/v2/b/02/ "next activity")
 
 <!-- chunk: 02-revise-the-project-description.md --># B02 — Revise the project description
-# B02 - Have the monthly cycle peer-reviewed
+# B02 – Have the monthly cycle peer-reviewed
 
 This management activity belongs to the **Monthly Initiation** group. This group of activities are done in the beginning of each month to prepare us for a new monthly cycle.
 
 Ask another project manager or project management expert in your organization to review and score your monthly management activities, and record it in the **Health Register**. If the score is too low, go back and repeat some of the management activities before proceeding.
 
-[Health Register template](https://p3.express/manual/v2/health-register.ods)
+[Health Register template](https://p3.express/en/modules/p3.express/manual/v2/health-register.ods)
 
 ## Purpose
 
-The main purpose is to pause and check whether your management activities are OK. Having an external person check your work is beneficial because you may be too close to the work to see some of the issues. Furthermore, this is an opportunity for people who manage different projects in the organization to see each other’s work and learn more in the process.
+The main purpose is to pause and check whether your management activities are OK. Having an external person check your work is beneficial because you may be too close to the work to see some of the issues. Furthermore,
+
+this is an opportunity for people who manage different projects in the organization to see each other’s work and learn more in the process.
 
 ## Common pitfalls
 
@@ -440,12 +515,18 @@ A common risk is that the person reviewing your work may hesitate to point out p
 
 The following principles play a significant role in this management activity:
 
-- [NUP1: Prefer results and the truth to affiliations.](https://nupp.guide/nup1/)
-- [NUP3: Always be proactive.](https://nupp.guide/nup3/)
-- [NUP5: Don’t do anything without a clear purpose.](https://nupp.guide/nup5/)
+- [NUP1:](https://p3.express/en/modules/nupp/manual/v1/nup1/)
+  Prefer results and the truth to affiliations
+- [NUP3:](https://p3.express/en/modules/nupp/manual/v1/nup3/)
+  Always be proactive
+- [NUP5:](https://p3.express/en/modules/nupp/manual/v1/nup5/)
+  Don’t do anything without a clear purpose
+
+[B01](https://p3.express/en/modules/p3.express/manual/v2/b/01/ "previous activity")
+[B03](https://p3.express/en/modules/p3.express/manual/v2/b/03/ "next activity")
 
 <!-- chunk: 03-have-monthly-initiation-peer-reviewed.md --># B03 — Have Monthly Initiation peer-reviewed
-# B03 - Make a go/no-go decision
+# B03 – Make a go/no-go decision
 
 This management activity belongs to the **Monthly Initiation** group. This group of activities are done in the beginning of each month to prepare us for a new monthly cycle.
 
@@ -467,11 +548,16 @@ Sometimes, a project may be justifiable when evaluated in isolation, but it may 
 
 The following principles play a significant role in this management activity:
 
-- [NUP3: Always be proactive.](https://nupp.guide/nup3/)
-- [NUP5: Don’t do anything without a clear purpose.](https://nupp.guide/nup5/)
+- [NUP3:](https://p3.express/en/modules/nupp/manual/v1/nup3/)
+  Always be proactive
+- [NUP5:](https://p3.express/en/modules/nupp/manual/v1/nup5/)
+  Don’t do anything without a clear purpose
+
+[B02](https://p3.express/en/modules/p3.express/manual/v2/b/02/ "previous activity")
+[B04](https://p3.express/en/modules/p3.express/manual/v2/b/04/ "next activity")
 
 <!-- chunk: 04-make-a-go-no-go-decision.md --># B04 — Make a go/no-go decision
-# B04 - Kick off the monthly cycle
+# B04 – Kick off the monthly cycle
 
 This management activity belongs to the **Monthly Initiation** group. This group of activities are done in the beginning of each month to prepare us for a new monthly cycle.
 
@@ -492,11 +578,16 @@ Don’t limit the kick-off to boring, dry speeches and a review of the upcoming 
 
 The following principles play a significant role in this management activity:
 
-- [NUP4: Remember that a chain is only as strong as its weakest link.](https://nupp.guide/nup4/)
-- [NUP5: Don’t do anything without a clear purpose.](https://nupp.guide/nup5/)
+- [NUP4:](https://p3.express/en/modules/nupp/manual/v1/nup4/)
+  Remember that a chain is only as strong as its weakest link
+- [NUP5:](https://p3.express/en/modules/nupp/manual/v1/nup5/)
+  Don’t do anything without a clear purpose
+
+[B03](https://p3.express/en/modules/p3.express/manual/v2/b/03/ "previous activity")
+[B05](https://p3.express/en/modules/p3.express/manual/v2/b/05/ "next activity")
 
 <!-- chunk: 05-conduct-a-focused-communication.md --># B05 — Conduct a focused communication
-# B05 - Conduct a focused communication
+# B05 – Conduct a focused communication
 
 This management activity belongs to the **Monthly Initiation** group. This group of activities are done in the beginning of each month to prepare us for a new monthly cycle.
 
@@ -514,9 +605,15 @@ Keep the message short and clear, and focus on expected achievements rather than
 
 The following principles play a significant role in this management activity:
 
-- [NUP3: Always be proactive.](https://nupp.guide/nup3/)
-- [NUP4: Remember that a chain is only as strong as its weakest link.](https://nupp.guide/nup4/)
-- [NUP5: Don’t do anything without a clear purpose.](https://nupp.guide/nup5/)
+- [NUP3:](https://p3.express/en/modules/nupp/manual/v1/nup3/)
+  Always be proactive
+- [NUP4:](https://p3.express/en/modules/nupp/manual/v1/nup4/)
+  Remember that a chain is only as strong as its weakest link
+- [NUP5:](https://p3.express/en/modules/nupp/manual/v1/nup5/)
+  Don’t do anything without a clear purpose
+
+[B04](https://p3.express/en/modules/p3.express/manual/v2/b/04/ "previous activity")
+[C01](https://p3.express/en/modules/p3.express/manual/v2/c/01/ "next activity")
 
 <!-- chunk: index.md --># Group C — Weekly Management
 # Group C — Weekly Management
@@ -524,7 +621,7 @@ The following principles play a significant role in this management activity:
 See individual activity pages.
 
 <!-- chunk: 01-measure-performance.md --># C01 — Measure performance
-# C01 - Measure and report performance
+# C01 – Measure and report performance
 
 This management activity belongs to the **Weekly Management** group, which is a group of activities done at the beginning of each week.
 
@@ -548,11 +645,16 @@ Consider the following to avoid the commonest pitfalls in this management activi
 
 The following principles play a significant role in this management activity:
 
-- [NUP4: Remember that a chain is only as strong as its weakest link.](https://nupp.guide/nup4/)
-- [NUP5: Don’t do anything without a clear purpose.](https://nupp.guide/nup5/)
+- [NUP4:](https://p3.express/en/modules/nupp/manual/v1/nup4/)
+  Remember that a chain is only as strong as its weakest link
+- [NUP5:](https://p3.express/en/modules/nupp/manual/v1/nup5/)
+  Don’t do anything without a clear purpose
+
+[B05](https://p3.express/en/modules/p3.express/manual/v2/b/05/ "previous activity")
+[C03](https://p3.express/en/modules/p3.express/manual/v2/c/03/ "next activity")
 
 <!-- chunk: 02-plan-responses-to-deviations.md --># C02 — Plan responses to deviations
-# C02 - Plan responses for deviations
+# C02 – Plan responses for deviations
 
 This management activity belongs to the **Weekly Management** group, which is a group of activities done at the beginning of each week.
 
@@ -564,9 +666,9 @@ If it’s not possible to recover from the deviations, you should seek approval 
 
 If there’s an underlying reason for the deviation that may cause similar issues in the future, record it in the **Follow-Up Register** as a risk, and plan a proper risk response for it.
 
-[Project Description template](https://p3.express/manual/v2/project-description.odt)
+[Project Description template](https://p3.express/en/modules/p3.express/manual/v2/project-description.odt)
 
-[Follow-Up Register template](https://p3.express/manual/v2/follow-up-register.ods)
+[Follow-Up Register template](https://p3.express/en/modules/p3.express/manual/v2/follow-up-register.ods)
 
 ## Purpose
 
@@ -582,13 +684,20 @@ If you must choose between recovering from a deviation and solving the root caus
 
 The following principles play a significant role in this management activity:
 
-- [NUP2: Preserve and optimize energy and resources.](https://nupp.guide/nup2/)
-- [NUP3: Always be proactive.](https://nupp.guide/nup3/)
-- [NUP4: Remember that a chain is only as strong as its weakest link.](https://nupp.guide/nup4/)
-- [NUP5: Don’t do anything without a clear purpose.](https://nupp.guide/nup5/)
+- [NUP2:](https://p3.express/en/modules/nupp/manual/v1/nup2/)
+  Preserve and optimize energy and resources
+- [NUP3:](https://p3.express/en/modules/nupp/manual/v1/nup3/)
+  Always be proactive
+- [NUP4:](https://p3.express/en/modules/nupp/manual/v1/nup4/)
+  Remember that a chain is only as strong as its weakest link
+- [NUP5:](https://p3.express/en/modules/nupp/manual/v1/nup5/)
+  Don’t do anything without a clear purpose
+
+[C01](https://p3.express/en/modules/p3.express/manual/v2/c/01/ "previous activity")
+[C03](https://p3.express/en/modules/p3.express/manual/v2/c/03/ "next activity")
 
 <!-- chunk: 03-identify-and-respond-to-new-risks.md --># C03 — Identify and respond to new risks
-# C03 - Kick off the weekly cycle
+# C03 – Kick off the weekly cycle
 
 This management activity belongs to the **Weekly Management** group, which is a group of activities done at the beginning of each week.
 
@@ -598,7 +707,7 @@ In small projects, gather all team members; and in large ones, gather all team l
 - Review the risks they have in the upcoming week and the existing issues that may expand into the upcoming week, and record them in the **Follow-Up Register**.
 - Encourage the teams to limit their work in progress, and get the in-progress work done as soon as possible.
 
-[Follow-Up Register template](https://p3.express/manual/v2/follow-up-register.ods)
+[Follow-Up Register template](https://p3.express/en/modules/p3.express/manual/v2/follow-up-register.ods)
 
 ## Purpose
 
@@ -616,11 +725,16 @@ The following considerations can help you avoid some of the common pitfalls in t
 
 The following principles play a significant role in this management activity:
 
-- [NUP4: Remember that a chain is only as strong as its weakest link.](https://nupp.guide/nup4/)
-- [NUP5: Don’t do anything without a clear purpose.](https://nupp.guide/nup5/)
+- [NUP4:](https://p3.express/en/modules/nupp/manual/v1/nup4/)
+  Remember that a chain is only as strong as its weakest link
+- [NUP5:](https://p3.express/en/modules/nupp/manual/v1/nup5/)
+  Don’t do anything without a clear purpose
+
+[C02](https://p3.express/en/modules/p3.express/manual/v2/c/02/ "previous activity")
+[C04](https://p3.express/en/modules/p3.express/manual/v2/c/04/ "next activity")
 
 <!-- chunk: 04-conduct-a-focused-communication.md --># C04 — Conduct a focused communication
-# C04 - Conduct a focused communication
+# C04 – Conduct a focused communication
 
 This management activity belongs to the **Weekly Management** group, which is a group of activities done at the beginning of each week.
 
@@ -638,9 +752,15 @@ Don’t go through too much detail in this message, but rather keep it simple an
 
 The following principles play a significant role in this management activity:
 
-- [NUP3: Always be proactive.](https://nupp.guide/nup3/)
-- [NUP4: Remember that a chain is only as strong as its weakest link.](https://nupp.guide/nup4/)
-- [NUP5: Don’t do anything without a clear purpose.](https://nupp.guide/nup5/)
+- [NUP3:](https://p3.express/en/modules/nupp/manual/v1/nup3/)
+  Always be proactive
+- [NUP4:](https://p3.express/en/modules/nupp/manual/v1/nup4/)
+  Remember that a chain is only as strong as its weakest link
+- [NUP5:](https://p3.express/en/modules/nupp/manual/v1/nup5/)
+  Don’t do anything without a clear purpose
+
+[C03](https://p3.express/en/modules/p3.express/manual/v2/c/03/ "previous activity")
+[D01](https://p3.express/en/modules/p3.express/manual/v2/d/01/ "next activity")
 
 <!-- chunk: index.md --># Group D — Daily Management
 # Group D — Daily Management
@@ -648,7 +768,7 @@ The following principles play a significant role in this management activity:
 See individual activity pages.
 
 <!-- chunk: 01-manage-follow-up-items.md --># D01 — Manage follow-up items
-# D01 - Manage risks, issues, and change requests
+# D01 – Manage risks, issues, and change requests
 
 This management activity belongs to the **Daily Management** activity group: It’s done daily.
 
@@ -656,7 +776,7 @@ We should manage risks, issues, and change requests proactively. When you identi
 
 You can get help from other team members, or even external stakeholders, to respond to items. In complicated cases, you can gather the whole team and facilitate a workshop for all of them to suggest a collective response using the [wisdom of the crowd](https://en.wikipedia.org/wiki/Wisdom_of_the_crowd). In critical cases, you should involve the sponsor as well and seek their approval for your response plan.
 
-[Follow-Up Register template](https://p3.express/manual/v2/follow-up-register.ods)
+[Follow-Up Register template](https://p3.express/en/modules/p3.express/manual/v2/follow-up-register.ods)
 
 ## Purpose
 
@@ -679,13 +799,20 @@ Consider the following to avoid some of the commonest problems in this area:
 
 The following principles play a significant role in this management activity:
 
-- [NUP2: Preserve and optimize energy and resources.](https://nupp.guide/nup2/)
-- [NUP3: Always be proactive.](https://nupp.guide/nup3/)
-- [NUP4: Remember that a chain is only as strong as its weakest link.](https://nupp.guide/nup4/)
-- [NUP5: Don’t do anything without a clear purpose.](https://nupp.guide/nup5/)
+- [NUP2:](https://p3.express/en/modules/nupp/manual/v1/nup2/)
+  Preserve and optimize energy and resources
+- [NUP3:](https://p3.express/en/modules/nupp/manual/v1/nup3/)
+  Always be proactive
+- [NUP4:](https://p3.express/en/modules/nupp/manual/v1/nup4/)
+  Remember that a chain is only as strong as its weakest link
+- [NUP5:](https://p3.express/en/modules/nupp/manual/v1/nup5/)
+  Don’t do anything without a clear purpose
+
+[C04](https://p3.express/en/modules/p3.express/manual/v2/c/04/ "previous activity")
+[D02](https://p3.express/en/modules/p3.express/manual/v2/d/02/ "next activity")
 
 <!-- chunk: 02-accept-completed-deliverables.md --># D02 — Accept completed deliverables
-# D02 - Accept completed deliverables
+# D02 – Accept completed deliverables
 
 This management activity belongs to the **Daily Management** activity group: It’s done daily.
 
@@ -707,8 +834,13 @@ Many deliverables quickly approach a nearly-complete state and then run into pro
 
 The following principles play a significant role in this management activity:
 
-- [NUP3: Always be proactive.](https://nupp.guide/nup3/)
-- [NUP5: Don’t do anything without a clear purpose.](https://nupp.guide/nup5/)
+- [NUP3:](https://p3.express/en/modules/nupp/manual/v1/nup3/)
+  Always be proactive
+- [NUP5:](https://p3.express/en/modules/nupp/manual/v1/nup5/)
+  Don’t do anything without a clear purpose
+
+[D01](https://p3.express/en/modules/p3.express/manual/v2/d/01/ "previous activity")
+[E01](https://p3.express/en/modules/p3.express/manual/v2/e/01/ "next activity")
 
 <!-- chunk: index.md --># Group E — Monthly Closure
 # Group E — Monthly Closure
@@ -716,13 +848,13 @@ The following principles play a significant role in this management activity:
 See individual activity pages.
 
 <!-- chunk: 01-evaluate-stakeholder-satisfaction.md --># E01 — Evaluate stakeholder satisfaction
-# E01 - Evaluate stakeholder satisfaction
+# E01 – Evaluate stakeholder satisfaction
 
 This management activity belongs to the **Monthly Closure** group. This group of activities are done at the end of each month to close the cycle and prepare us for the next one.
 
 Send questionnaires to the team members and to the customer, suppliers, or other external stakeholders, to evaluate their satisfaction with the project during the month. Record the results in the **Health Register**. Make sure the evaluation is anonymous.
 
-[Health Register template](https://p3.express/manual/v2/health-register.ods)
+[Health Register template](https://p3.express/en/modules/p3.express/manual/v2/health-register.ods)
 
 ## Purpose
 
@@ -744,25 +876,32 @@ To ensure that you won’t see personally identifiable information in the event 
 
 The following principles play a significant role in this management activity:
 
-- [NUP3: Always be proactive.](https://nupp.guide/nup3/)
-- [NUP4: Remember that a chain is only as strong as its weakest link.](https://nupp.guide/nup4/)
-- [NUP5: Don’t do anything without a clear purpose.](https://nupp.guide/nup5/)
-- [NUP6: Use repeatable elements.](https://nupp.guide/nup6/)
+- [NUP3:](https://p3.express/en/modules/nupp/manual/v1/nup3/)
+  Always be proactive
+- [NUP4:](https://p3.express/en/modules/nupp/manual/v1/nup4/)
+  Remember that a chain is only as strong as its weakest link
+- [NUP5:](https://p3.express/en/modules/nupp/manual/v1/nup5/)
+  Don’t do anything without a clear purpose
+- [NUP6:](https://p3.express/en/modules/nupp/manual/v1/nup6/)
+  Use repeatable elements
+
+[D02](https://p3.express/en/modules/p3.express/manual/v2/d/02/ "previous activity")
+[E02](https://p3.express/en/modules/p3.express/manual/v2/e/02/ "next activity")
 
 <!-- chunk: 02-plan-improvements.md --># E02 — Plan improvements
-# E02 - Capture lessons and plan for improvements
+# E02 – Capture lessons and plan for improvements
 
 This management activity belongs to the **Monthly Closure** group. This group of activities are done at the end of each month to close the cycle and prepare us for the next one.
 
 After aggregating the responses to the satisfaction evaluation, invite all team members and facilitate a workshop for them to plan improvements based on the results of the satisfaction evaluation, and to share the lessons they’ve learned during the month. Record all items in the **Follow-Up Register** and assign a custodian to each item for its follow-up activities.
 
-[Follow-Up Register template](https://p3.express/manual/v2/follow-up-register.ods)
+[Follow-Up Register template](https://p3.express/en/modules/p3.express/manual/v2/follow-up-register.ods)
 
 ## Purpose
 
 This workshop has two main purposes: designing effective improvement plans and team building.
 
-It’s helpful to use a workshop for planning improvements instead of planning everything by yourself, because [the Wisdom of Crowds](https://en.wikipedia.org/wiki/Wisdom_of_the_crowd) can help you generate better plans, and you will also have the team members' buy-in.
+It’s helpful to use a workshop for planning improvements instead of planning everything by yourself, because [the Wisdom of Crowds](https://en.wikipedia.org/wiki/Wisdom_of_the_crowd) can help you generate better plans, and you will also have the team members’ buy-in.
 
 ## Common pitfalls
 
@@ -776,13 +915,20 @@ Consider the following to avoid some of the commonest problems in this area:
 
 The following principles play a significant role in this management activity:
 
-- [NUP2: Preserve and optimize energy and resources.](https://nupp.guide/nup2/)
-- [NUP3: Always be proactive.](https://nupp.guide/nup3/)
-- [NUP4: Remember that a chain is only as strong as its weakest link.](https://nupp.guide/nup4/)
-- [NUP5: Don’t do anything without a clear purpose.](https://nupp.guide/nup5/)
+- [NUP2:](https://p3.express/en/modules/nupp/manual/v1/nup2/)
+  Preserve and optimize energy and resources
+- [NUP3:](https://p3.express/en/modules/nupp/manual/v1/nup3/)
+  Always be proactive
+- [NUP4:](https://p3.express/en/modules/nupp/manual/v1/nup4/)
+  Remember that a chain is only as strong as its weakest link
+- [NUP5:](https://p3.express/en/modules/nupp/manual/v1/nup5/)
+  Don’t do anything without a clear purpose
+
+[E01](https://p3.express/en/modules/p3.express/manual/v2/e/01/ "previous activity")
+[E03](https://p3.express/en/modules/p3.express/manual/v2/e/03/ "next activity")
 
 <!-- chunk: 03-conduct-a-focused-communication.md --># E03 — Conduct a focused communication
-# E03 - Conduct a focused communication
+# E03 – Conduct a focused communication
 
 This management activity belongs to the **Monthly Closure** group. This group of activities are done at the end of each month to close the cycle and prepare us for the next one.
 
@@ -804,9 +950,15 @@ Having the following in mind will help you avoid the commonest pitfalls:
 
 The following principles play a significant role in this management activity:
 
-- [NUP3: Always be proactive.](https://nupp.guide/nup3/)
-- [NUP4: Remember that a chain is only as strong as its weakest link.](https://nupp.guide/nup4/)
-- [NUP5: Don’t do anything without a clear purpose.](https://nupp.guide/nup5/)
+- [NUP3:](https://p3.express/en/modules/nupp/manual/v1/nup3/)
+  Always be proactive
+- [NUP4:](https://p3.express/en/modules/nupp/manual/v1/nup4/)
+  Remember that a chain is only as strong as its weakest link
+- [NUP5:](https://p3.express/en/modules/nupp/manual/v1/nup5/)
+  Don’t do anything without a clear purpose
+
+[E02](https://p3.express/en/modules/p3.express/manual/v2/e/02/ "previous activity")
+[F01](https://p3.express/en/modules/p3.express/manual/v2/f/01/ "next activity")
 
 <!-- chunk: index.md --># Group F — Project Closure
 # Group F — Project Closure
@@ -814,7 +966,7 @@ The following principles play a significant role in this management activity:
 See individual activity pages.
 
 <!-- chunk: 01-hand-over-the-product.md --># F01 — Hand over the product
-# F01 - Hand over the product
+# F01 – Hand over the product
 
 This management activity belongs to the **Project Closure** group. This activity group is done when the product of the project is complete, or when you decide to cancel the project.
 
@@ -836,17 +988,22 @@ When possible, seek approval of the sponsor and the customer for the major deliv
 
 The following principles play a significant role in this management activity:
 
-- [NUP3: Always be proactive.](https://nupp.guide/nup3/)
-- [NUP5: Don’t do anything without a clear purpose.](https://nupp.guide/nup5/)
+- [NUP3:](https://p3.express/en/modules/nupp/manual/v1/nup3/)
+  Always be proactive
+- [NUP5:](https://p3.express/en/modules/nupp/manual/v1/nup5/)
+  Don’t do anything without a clear purpose
+
+[E03](https://p3.express/en/modules/p3.express/manual/v2/e/03/ "previous activity")
+[F02](https://p3.express/en/modules/p3.express/manual/v2/f/02/ "next activity")
 
 <!-- chunk: 02-evaluate-stakeholder-satisfaction.md --># F02 — Evaluate stakeholder satisfaction
-# F02 - Evaluate stakeholder satisfaction
+# F02 – Evaluate stakeholder satisfaction
 
 This management activity belongs to the **Project Closure** group. This activity group is done when the product of the project is complete, or when you decide to cancel the project.
 
 Send the final anonymous satisfaction questionnaire to the internal and external stakeholders and record the results in the **Health Register**. While each monthly satisfaction questionnaire is focused on a single month, this final evaluation is about the project as a whole.
 
-[Health Register template](https://p3.express/manual/v2/health-register.ods)
+[Health Register template](https://p3.express/en/modules/p3.express/manual/v2/health-register.ods)
 
 ## Purpose
 
@@ -866,13 +1023,20 @@ To ensure that you won’t see personally identifiable information in the event 
 
 The following principles play a significant role in this management activity:
 
-- [NUP3: Always be proactive.](https://nupp.guide/nup3/)
-- [NUP4: Remember that a chain is only as strong as its weakest link.](https://nupp.guide/nup4/)
-- [NUP5: Don’t do anything without a clear purpose.](https://nupp.guide/nup5/)
-- [NUP6: Use repeatable elements.](https://nupp.guide/nup6/)
+- [NUP3:](https://p3.express/en/modules/nupp/manual/v1/nup3/)
+  Always be proactive
+- [NUP4:](https://p3.express/en/modules/nupp/manual/v1/nup4/)
+  Remember that a chain is only as strong as its weakest link
+- [NUP5:](https://p3.express/en/modules/nupp/manual/v1/nup5/)
+  Don’t do anything without a clear purpose
+- [NUP6:](https://p3.express/en/modules/nupp/manual/v1/nup6/)
+  Use repeatable elements
+
+[F01](https://p3.express/en/modules/p3.express/manual/v2/f/01/ "previous activity")
+[F03](https://p3.express/en/modules/p3.express/manual/v2/f/03/ "next activity")
 
 <!-- chunk: 03-have-project-closure-peer-reviewed.md --># F03 — Have Project Closure peer-reviewed
-# F03 - Have the closing activity group peer-reviewed
+# F03 – Have the closing activity group peer-reviewed
 
 This management activity belongs to the **Project Closure** group. This activity group is done when the product of the project is complete, or when you decide to cancel the project.
 
@@ -893,12 +1057,18 @@ A common risk is that the person reviewing your work may hesitate to point out p
 
 The following principles play a significant role in this management activity:
 
-- [NUP1: Prefer results and the truth to affiliations.](https://nupp.guide/nup1/)
-- [NUP3: Always be proactive.](https://nupp.guide/nup3/)
-- [NUP5: Don’t do anything without a clear purpose.](https://nupp.guide/nup5/)
+- [NUP1:](https://p3.express/en/modules/nupp/manual/v1/nup1/)
+  Prefer results and the truth to affiliations
+- [NUP3:](https://p3.express/en/modules/nupp/manual/v1/nup3/)
+  Always be proactive
+- [NUP5:](https://p3.express/en/modules/nupp/manual/v1/nup5/)
+  Don’t do anything without a clear purpose
+
+[F02](https://p3.express/en/modules/p3.express/manual/v2/f/02/ "previous activity")
+[F04](https://p3.express/en/modules/p3.express/manual/v2/f/04/ "next activity")
 
 <!-- chunk: 04-archive-project-documents.md --># F04 — Archive project documents
-# F04 - Archive the project documents
+# F04 – Archive the project documents
 
 This management activity belongs to the **Project Closure** group. This activity group is done when the product of the project is complete, or when you decide to cancel the project.
 
@@ -923,12 +1093,18 @@ In addition to the above, a common problem with documents is that the text is no
 
 The following principles play a significant role in this management activity:
 
-- [NUP2: Preserve and optimize energy and resources.](https://nupp.guide/nup2/)
-- [NUP5: Don’t do anything without a clear purpose.](https://nupp.guide/nup5/)
-- [NUP6: Use repeatable elements.](https://nupp.guide/nup6/)
+- [NUP2:](https://p3.express/en/modules/nupp/manual/v1/nup2/)
+  Preserve and optimize energy and resources
+- [NUP5:](https://p3.express/en/modules/nupp/manual/v1/nup5/)
+  Don’t do anything without a clear purpose
+- [NUP6:](https://p3.express/en/modules/nupp/manual/v1/nup6/)
+  Use repeatable elements
+
+[F03](https://p3.express/en/modules/p3.express/manual/v2/f/03/ "previous activity")
+[F05](https://p3.express/en/modules/p3.express/manual/v2/f/05/ "next activity")
 
 <!-- chunk: 05-re-assign-the-team.md --># F05 — Re-assign the team
-# F05 - Celebrate!
+# F05 – Celebrate!
 
 This management activity belongs to the **Project Closure** group. This activity group is done when the product of the project is complete, or when you decide to cancel the project.
 
@@ -946,11 +1122,16 @@ Make sure it’s a memorable and enjoyable event, and not a dry corporate event 
 
 The following principles play a significant role in this management activity:
 
-- [NUP4: Remember that a chain is only as strong as its weakest link.](https://nupp.guide/nup4/)
-- [NUP5: Don’t do anything without a clear purpose.](https://nupp.guide/nup5/)
+- [NUP4:](https://p3.express/en/modules/nupp/manual/v1/nup4/)
+  Remember that a chain is only as strong as its weakest link
+- [NUP5:](https://p3.express/en/modules/nupp/manual/v1/nup5/)
+  Don’t do anything without a clear purpose
+
+[F04](https://p3.express/en/modules/p3.express/manual/v2/f/04/ "previous activity")
+[F06](https://p3.express/en/modules/p3.express/manual/v2/f/06/ "next activity")
 
 <!-- chunk: 06-celebrate.md --># F06 — Celebrate
-# F06 - Conduct a focused communication
+# F06 – Conduct a focused communication
 
 This management activity belongs to the **Project Closure** group. This activity group is done when the product of the project is complete, or when you decide to cancel the project.
 
@@ -971,9 +1152,15 @@ Keep the message short and clear. If the project was canceled or if it wasn’t 
 
 The following principles play a significant role in this management activity:
 
-- [NUP3: Always be proactive.](https://nupp.guide/nup3/)
-- [NUP4: Remember that a chain is only as strong as its weakest link.](https://nupp.guide/nup4/)
-- [NUP5: Don’t do anything without a clear purpose.](https://nupp.guide/nup5/)
+- [NUP3:](https://p3.express/en/modules/nupp/manual/v1/nup3/)
+  Always be proactive
+- [NUP4:](https://p3.express/en/modules/nupp/manual/v1/nup4/)
+  Remember that a chain is only as strong as its weakest link
+- [NUP5:](https://p3.express/en/modules/nupp/manual/v1/nup5/)
+  Don’t do anything without a clear purpose
+
+[F05](https://p3.express/en/modules/p3.express/manual/v2/f/05/ "previous activity")
+[G01](https://p3.express/en/modules/p3.express/manual/v2/g/01/ "next activity")
 
 <!-- chunk: index.md --># Group G — Post-Project Management
 # Group G — Post-Project Management
@@ -981,7 +1168,7 @@ The following principles play a significant role in this management activity:
 See individual activity pages.
 
 <!-- chunk: 01-evaluate-the-benefits.md --># G01 — Evaluate the benefits
-# G01 - Evaluate the benefits
+# G01 – Evaluate the benefits
 
 This management activity belongs to the **post-project management** activity group: a 3- to 6-month cycle of activities that start after the project ends and continues for 1 to 5 years. This activity group may be merged with that of other finished projects in a central portfolio management system.
 
@@ -1011,11 +1198,16 @@ You can avoid some of the commonest issues by considering the following:
 
 The following principles play a significant role in this management activity:
 
-- [NUP3: Always be proactive.](https://nupp.guide/nup3/)
-- [NUP5: Don’t do anything without a clear purpose.](https://nupp.guide/nup5/)
+- [NUP3:](https://p3.express/en/modules/nupp/manual/v1/nup3/)
+  Always be proactive
+- [NUP5:](https://p3.express/en/modules/nupp/manual/v1/nup5/)
+  Don’t do anything without a clear purpose
+
+[F06](https://p3.express/en/modules/p3.express/manual/v2/f/06/ "previous activity")
+[G02](https://p3.express/en/modules/p3.express/manual/v2/g/02/ "next activity")
 
 <!-- chunk: 02-generate-ideas-for-new-projects.md --># G02 — Generate ideas for new projects
-# G02 - Generate new ideas
+# G02 – Generate new ideas
 
 This management activity belongs to the **post-project management** activity group: a 3- to 6-month cycle of activities that start after the project ends and continues for 1 to 5 years. This activity group may be merged with that of other finished projects in a central portfolio management system.
 
@@ -1041,11 +1233,16 @@ Consider the following to avoid some of the commonest problems in this area:
 
 The following principles play a significant role in this management activity:
 
-- [NUP3: Always be proactive.](https://nupp.guide/nup3/)
-- [NUP5: Don’t do anything without a clear purpose.](https://nupp.guide/nup5/)
+- [NUP3:](https://p3.express/en/modules/nupp/manual/v1/nup3/)
+  Always be proactive
+- [NUP5:](https://p3.express/en/modules/nupp/manual/v1/nup5/)
+  Don’t do anything without a clear purpose
+
+[G01](https://p3.express/en/modules/p3.express/manual/v2/g/01/ "previous activity")
+[G03](https://p3.express/en/modules/p3.express/manual/v2/g/03/ "next activity")
 
 <!-- chunk: 03-conduct-a-focused-communication.md --># G03 — Conduct a focused communication
-# G03 - Conduct a focused communication
+# G03 – Conduct a focused communication
 
 This management activity belongs to the **post-project management** activity group: a 3- to 6-month cycle of activities that start after the project ends and continues for 1 to 5 years. This activity group may be merged with that of other finished projects in a central portfolio management system.
 
@@ -1069,6 +1266,11 @@ Considering the following can help you avoid some of the commonest problems:
 
 The following principles play a significant role in this management activity:
 
-- [NUP3: Always be proactive.](https://nupp.guide/nup3/)
-- [NUP4: Remember that a chain is only as strong as its weakest link.](https://nupp.guide/nup4/)
-- [NUP5: Don’t do anything without a clear purpose.](https://nupp.guide/nup5/)
+- [NUP3:](https://p3.express/en/modules/nupp/manual/v1/nup3/)
+  Always be proactive
+- [NUP4:](https://p3.express/en/modules/nupp/manual/v1/nup4/)
+  Remember that a chain is only as strong as its weakest link
+- [NUP5:](https://p3.express/en/modules/nupp/manual/v1/nup5/)
+  Don’t do anything without a clear purpose
+
+[G02](https://p3.express/en/modules/p3.express/manual/v2/g/02/ "previous activity")

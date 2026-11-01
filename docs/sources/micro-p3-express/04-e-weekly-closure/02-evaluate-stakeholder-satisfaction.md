@@ -12,15 +12,13 @@ license: CC-BY-4.0
 authors: PTCoE — Nader K. Rad et al.
 tags: [micro-p3-express, e, weekly-closure, e2]
 ---
-# E2 - Evaluate stakeholder satisfaction
+# E2 – Evaluate stakeholder satisfaction
 
-  
+This management activity belongs to the **Weekly Closure** group. This group of activities are run at the end of each week to close the cycle and prepare us for the next one.
 
 We need to have an implicit or explicit evaluation of the satisfaction of team members and external stakeholders.
 
 Project Manager Hat
-
-  
 
 Are the team members happy with the way we're working on the project?
 
@@ -30,4 +28,5 @@ It’s usually best to have a simple, anonymous evaluation for the team members 
 
 For external stakeholders, it’s important to ensure the frequency of evaluations is suitable for the audience, and if weekly evaluation is too frequent, it should be done every two or four weeks instead. It’s best to have at least one evaluation every month so that the problems don’t pile up. Make sure the evaluation doesn’t take too much time from the stakeholders.
 
-[E1](https://micro.p3.express/e1/ "previous activity") [E3](https://micro.p3.express/e3/ "next activity")
+[E1](https://micro.p3.express/en/modules/micro.p3.express/manual/v1/e/1/ "previous activity")
+[E3](https://micro.p3.express/en/modules/micro.p3.express/manual/v1/e/3/ "next activity")

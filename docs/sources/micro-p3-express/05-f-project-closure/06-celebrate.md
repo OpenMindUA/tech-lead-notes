@@ -12,18 +12,17 @@ license: CC-BY-4.0
 authors: PTCoE — Nader K. Rad et al.
 tags: [micro-p3-express, f, project-closure, f6]
 ---
-# F6 - Celebrate!
+# F6 – Celebrate!
 
-  
+This management activity belongs to the **Project Closure** group. This activity group is done when the product of the project is complete, or when you decide to cancel the project.
 
 At this point, you’re done with the project and it’s closed, which is a good time to celebrate!
 
 Project Manager Hat
 
-  
-
 What's the best way of celebrating the completion of the project?
 
 Celebrating important events such as the completion of a project is helpful because people will feel appreciated, and as a result will perform better in future projects. It’s also a reminder that projects are not just a collection of random tasks, but rather goal-oriented endeavors, and everyone should contribute to their successful completion.
 
-[F5](https://micro.p3.express/f5/ "previous activity") [F7](https://micro.p3.express/f7/ "next activity")
+[F5](https://micro.p3.express/en/modules/micro.p3.express/manual/v1/f/5/ "previous activity")
+[F7](https://micro.p3.express/en/modules/micro.p3.express/manual/v1/f/7/ "next activity")

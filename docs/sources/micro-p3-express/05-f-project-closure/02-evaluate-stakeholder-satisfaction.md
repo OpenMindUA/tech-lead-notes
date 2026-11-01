@@ -12,18 +12,17 @@ license: CC-BY-4.0
 authors: PTCoE — Nader K. Rad et al.
 tags: [micro-p3-express, f, project-closure, f2]
 ---
-# F2 - Evaluate stakeholder satisfaction
+# F2 – Evaluate stakeholder satisfaction
 
-  
+This management activity belongs to the **Project Closure** group. This activity group is done when the product of the project is complete, or when you decide to cancel the project.
 
-[E2](https://micro.p3.express/e2/) provides continual evaluation of stakeholder satisfaction, but each of those evaluations is mainly focused on one cycle of the project. Therefore, we need to have an evaluation at the end as well to understand the overall satisfaction and use the information to aid with future projects.
+[E2](https://micro.p3.express/e/2/) provides continual evaluation of stakeholder satisfaction, but each of those evaluations is mainly focused on one cycle of the project. Therefore, we need to have an evaluation at the end as well to understand the overall satisfaction and use the information to aid with future projects.
 
 Project Manager Hat
-
-  
 
 How satisfied are the internal and external stakeholders?
 
 You may need an anonymous evaluation to ensure people respond comfortably. The result should be recorded in the “stakeholder” meta-card on the “project description” column of the *Integrated Project Board*.
 
-[F1](https://micro.p3.express/f1/ "previous activity") [F3](https://micro.p3.express/f3/ "next activity")
+[F1](https://micro.p3.express/en/modules/micro.p3.express/manual/v1/f/1/ "previous activity")
+[F3](https://micro.p3.express/en/modules/micro.p3.express/manual/v1/f/3/ "next activity")

@@ -12,7 +12,7 @@ license: CC-BY-4.0
 authors: PTCoE — Nader K. Rad et al.
 tags: [p3-express, d, daily-management, d02]
 ---
-# D02 - Accept completed deliverables
+# D02 – Accept completed deliverables
 
 This management activity belongs to the **Daily Management** activity group: It’s done daily.
 
@@ -34,5 +34,10 @@ Many deliverables quickly approach a nearly-complete state and then run into pro
 
 The following principles play a significant role in this management activity:
 
-- [NUP3: Always be proactive.](https://nupp.guide/nup3/)
-- [NUP5: Don’t do anything without a clear purpose.](https://nupp.guide/nup5/)
+- [NUP3:](https://p3.express/en/modules/nupp/manual/v1/nup3/)
+  Always be proactive
+- [NUP5:](https://p3.express/en/modules/nupp/manual/v1/nup5/)
+  Don’t do anything without a clear purpose
+
+[D01](https://p3.express/en/modules/p3.express/manual/v2/d/01/ "previous activity")
+[E01](https://p3.express/en/modules/p3.express/manual/v2/e/01/ "next activity")

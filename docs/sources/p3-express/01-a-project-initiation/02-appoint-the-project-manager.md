@@ -12,7 +12,7 @@ license: CC-BY-4.0
 authors: PTCoE — Nader K. Rad et al.
 tags: [p3-express, a, project-initiation, a02]
 ---
-# A02 - Appoint the project manager
+# A02 – Appoint the project manager
 
 This management activity belongs to the **Project Initiation** group. This group of activities are run at the beginning to prepare us for the project.
 
@@ -30,7 +30,7 @@ While it’s possible for small teams to have a distributed project management s
 
 Consider the following to avoid some of the commonest problems in this area:
 
-- Project managers shouldn’t consider themselves as team members' boss, but as their supporter, facilitator, coordinator, and problem solver.
+- Project managers shouldn’t consider themselves as team members’ boss, but as their supporter, facilitator, coordinator, and problem solver.
 - Project managers and sponsors should not be micro-managers.
 - It’s common to appoint the most senior technical expert as the project manager, which is not a good idea. Project management is a management position, and not a technical one; therefore, you need a person with managerial capability and knowledge to fill this role. Becoming a project manager is not a promotion for a technical expert, but rather a change in career.
 - Project managers shouldn’t become involved in the technical aspects of the project because it’s distracting for them, and there are already technical experts to manage the technical aspects.
@@ -39,5 +39,10 @@ Consider the following to avoid some of the commonest problems in this area:
 
 The following principles play a significant role in this management activity:
 
-- [NUP2: Preserve and optimize energy and resources.](https://nupp.guide/nup2/)
-- [NUP5: Don’t do anything without a clear purpose.](https://nupp.guide/nup5/)
+- [NUP2:](https://p3.express/en/modules/nupp/manual/v1/nup2/)
+  Preserve and optimize energy and resources
+- [NUP5:](https://p3.express/en/modules/nupp/manual/v1/nup5/)
+  Don’t do anything without a clear purpose
+
+[A01](https://p3.express/en/modules/p3.express/manual/v2/a/01/ "previous activity")
+[A03](https://p3.express/en/modules/p3.express/manual/v2/a/03/ "next activity")

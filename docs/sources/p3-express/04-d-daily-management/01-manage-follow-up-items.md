@@ -12,7 +12,7 @@ license: CC-BY-4.0
 authors: PTCoE — Nader K. Rad et al.
 tags: [p3-express, d, daily-management, d01]
 ---
-# D01 - Manage risks, issues, and change requests
+# D01 – Manage risks, issues, and change requests
 
 This management activity belongs to the **Daily Management** activity group: It’s done daily.
 
@@ -20,7 +20,7 @@ We should manage risks, issues, and change requests proactively. When you identi
 
 You can get help from other team members, or even external stakeholders, to respond to items. In complicated cases, you can gather the whole team and facilitate a workshop for all of them to suggest a collective response using the [wisdom of the crowd](https://en.wikipedia.org/wiki/Wisdom_of_the_crowd). In critical cases, you should involve the sponsor as well and seek their approval for your response plan.
 
-[Follow-Up Register template](https://p3.express/manual/v2/follow-up-register.ods)
+[Follow-Up Register template](https://p3.express/en/modules/p3.express/manual/v2/follow-up-register.ods)
 
 ## Purpose
 
@@ -43,7 +43,14 @@ Consider the following to avoid some of the commonest problems in this area:
 
 The following principles play a significant role in this management activity:
 
-- [NUP2: Preserve and optimize energy and resources.](https://nupp.guide/nup2/)
-- [NUP3: Always be proactive.](https://nupp.guide/nup3/)
-- [NUP4: Remember that a chain is only as strong as its weakest link.](https://nupp.guide/nup4/)
-- [NUP5: Don’t do anything without a clear purpose.](https://nupp.guide/nup5/)
+- [NUP2:](https://p3.express/en/modules/nupp/manual/v1/nup2/)
+  Preserve and optimize energy and resources
+- [NUP3:](https://p3.express/en/modules/nupp/manual/v1/nup3/)
+  Always be proactive
+- [NUP4:](https://p3.express/en/modules/nupp/manual/v1/nup4/)
+  Remember that a chain is only as strong as its weakest link
+- [NUP5:](https://p3.express/en/modules/nupp/manual/v1/nup5/)
+  Don’t do anything without a clear purpose
+
+[C04](https://p3.express/en/modules/p3.express/manual/v2/c/04/ "previous activity")
+[D02](https://p3.express/en/modules/p3.express/manual/v2/d/02/ "next activity")
