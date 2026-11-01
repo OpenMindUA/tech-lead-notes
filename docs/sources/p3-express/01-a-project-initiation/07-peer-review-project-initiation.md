@@ -12,7 +12,7 @@ license: CC-BY-4.0
 authors: PTCoE — Nader K. Rad et al.
 tags: [p3-express, a, project-initiation, a07]
 ---
-# A07 - Have project initiation peer-reviewed
+# A07 – Have project initiation peer-reviewed
 
 This management activity belongs to the **Project Initiation** group. This group of activities are run at the beginning to prepare us for the project.
 
@@ -20,11 +20,13 @@ At this point, initiation is almost done, and it’s time to ask another project
 
 If the score is too low, you may need to spend more time on the previous management activities before moving on to the next ones, but more importantly, you need to find the root cause and see how you can prevent low scores in the future.
 
-[Health Register template](https://p3.express/manual/v2/health-register.ods)
+[Health Register template](https://p3.express/en/modules/p3.express/manual/v2/health-register.ods)
 
 ## Purpose
 
-The main purpose is to pause and check whether your management activities are OK. Having an external person check your work is beneficial because you may be too close to the work to see some of the issues. Furthermore, this is an opportunity for people who manage different projects in the organization to see each other’s work and learn more in the process.
+The main purpose is to pause and check whether your management activities are OK. Having an external person check your work is beneficial because you may be too close to the work to see some of the issues. Furthermore,
+
+this is an opportunity for people who manage different projects in the organization to see each other’s work and learn more in the process.
 
 ## Common pitfalls
 
@@ -34,6 +36,12 @@ A common risk is that the person reviewing your work may hesitate to point out p
 
 The following principles play a significant role in this management activity:
 
-- [NUP1: Prefer results and the truth to affiliations.](https://nupp.guide/nup1/)
-- [NUP3: Always be proactive.](https://nupp.guide/nup3/)
-- [NUP5: Don’t do anything without a clear purpose.](https://nupp.guide/nup5/)
+- [NUP1:](https://p3.express/en/modules/nupp/manual/v1/nup1/)
+  Prefer results and the truth to affiliations
+- [NUP3:](https://p3.express/en/modules/nupp/manual/v1/nup3/)
+  Always be proactive
+- [NUP5:](https://p3.express/en/modules/nupp/manual/v1/nup5/)
+  Don’t do anything without a clear purpose
+
+[A06](https://p3.express/en/modules/p3.express/manual/v2/a/06/ "previous activity")
+[A08](https://p3.express/en/modules/p3.express/manual/v2/a/08/ "next activity")

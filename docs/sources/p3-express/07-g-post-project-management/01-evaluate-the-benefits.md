@@ -12,7 +12,7 @@ license: CC-BY-4.0
 authors: PTCoE — Nader K. Rad et al.
 tags: [p3-express, g, post-project-management, g01]
 ---
-# G01 - Evaluate the benefits
+# G01 – Evaluate the benefits
 
 This management activity belongs to the **post-project management** activity group: a 3- to 6-month cycle of activities that start after the project ends and continues for 1 to 5 years. This activity group may be merged with that of other finished projects in a central portfolio management system.
 
@@ -42,5 +42,10 @@ You can avoid some of the commonest issues by considering the following:
 
 The following principles play a significant role in this management activity:
 
-- [NUP3: Always be proactive.](https://nupp.guide/nup3/)
-- [NUP5: Don’t do anything without a clear purpose.](https://nupp.guide/nup5/)
+- [NUP3:](https://p3.express/en/modules/nupp/manual/v1/nup3/)
+  Always be proactive
+- [NUP5:](https://p3.express/en/modules/nupp/manual/v1/nup5/)
+  Don’t do anything without a clear purpose
+
+[F06](https://p3.express/en/modules/p3.express/manual/v2/f/06/ "previous activity")
+[G02](https://p3.express/en/modules/p3.express/manual/v2/g/02/ "next activity")

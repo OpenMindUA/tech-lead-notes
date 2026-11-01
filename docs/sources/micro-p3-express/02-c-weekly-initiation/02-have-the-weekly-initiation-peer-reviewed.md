@@ -12,15 +12,13 @@ license: CC-BY-4.0
 authors: PTCoE — Nader K. Rad et al.
 tags: [micro-p3-express, c, weekly-initiation, c2]
 ---
-# C2 - Have the Weekly Initiation peer-reviewed
+# C2 – Have the Weekly Initiation peer-reviewed
 
-  
+This management activity belongs to the **Weekly Management** group, which is a group of activities run at the beginning of each week to revise the plans and align for the upcoming week.
 
 It’s important to always remain critical:
 
 Project Manager Hat
-
-  
 
 Have we initiated the week properly so that we're ready to move on?
 
@@ -34,20 +32,15 @@ Peer reviews are necessary for the management aspects. Depending on the type of 
 
 Creator Hat
 
-  
-
 Do we need a production peer review?
 
 Investor Hat
-
-  
 
 Do we need a business peer review?
 
 User Hat
 
-  
-
 Do we need someone to peer-review the user aspects?
 
-[C1](https://micro.p3.express/c1/ "previous activity") [C3](https://micro.p3.express/c3/ "next activity")
+[C1](https://micro.p3.express/en/modules/micro.p3.express/manual/v1/c/1/ "previous activity")
+[C3](https://micro.p3.express/en/modules/micro.p3.express/manual/v1/c/3/ "next activity")

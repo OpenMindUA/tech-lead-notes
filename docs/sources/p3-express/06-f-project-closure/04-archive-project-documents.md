@@ -12,7 +12,7 @@ license: CC-BY-4.0
 authors: PTCoE — Nader K. Rad et al.
 tags: [p3-express, f, project-closure, f04]
 ---
-# F04 - Archive the project documents
+# F04 – Archive the project documents
 
 This management activity belongs to the **Project Closure** group. This activity group is done when the product of the project is complete, or when you decide to cancel the project.
 
@@ -37,6 +37,12 @@ In addition to the above, a common problem with documents is that the text is no
 
 The following principles play a significant role in this management activity:
 
-- [NUP2: Preserve and optimize energy and resources.](https://nupp.guide/nup2/)
-- [NUP5: Don’t do anything without a clear purpose.](https://nupp.guide/nup5/)
-- [NUP6: Use repeatable elements.](https://nupp.guide/nup6/)
+- [NUP2:](https://p3.express/en/modules/nupp/manual/v1/nup2/)
+  Preserve and optimize energy and resources
+- [NUP5:](https://p3.express/en/modules/nupp/manual/v1/nup5/)
+  Don’t do anything without a clear purpose
+- [NUP6:](https://p3.express/en/modules/nupp/manual/v1/nup6/)
+  Use repeatable elements
+
+[F03](https://p3.express/en/modules/p3.express/manual/v2/f/03/ "previous activity")
+[F05](https://p3.express/en/modules/p3.express/manual/v2/f/05/ "next activity")

@@ -9,7 +9,7 @@ license: CC-BY-4.0
 authors: PTCoE — Nader K. Rad et al.
 tags: [nupp, principle, nup6, use-repeatable-elements]
 ---
-# Use repeatable elements
+# NUP6 – Use repeatable elements
 
 An ad hoc approach to the project takes too much energy and resources, and always runs the risk of missing some of the necessary elements. The best way of simplifying what has to be done is to use repeatable elements, and preferably to take them in repeatable cycles.
 
@@ -45,7 +45,4 @@ Using a methodology or a framework for running a project is another use of repea
 
 Any repeatable element is abstract and needs customization to adapt it to the real world. There’s a spectrum of abstraction and need for customization, though: small, relatively concrete quality checklists are at one end of the spectrum with the least amount of abstraction and need for tailoring, while methodologies are at the other end, with the highest need for tailoring. You should always note the need for tailoring, otherwise, the repeatable element won’t match your needs properly.
 
-[▼ PDF](https://nupp.guide/nupp-en.pdf)
-
-[«](https://nupp.guide/nup5/)
-»
+[NUP5](https://nupp.guide/en/modules/nupp/manual/v1/nup5/ "previous activity")

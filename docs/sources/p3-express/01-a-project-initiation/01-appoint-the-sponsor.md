@@ -12,7 +12,7 @@ license: CC-BY-4.0
 authors: PTCoE — Nader K. Rad et al.
 tags: [p3-express, a, project-initiation, a01]
 ---
-# A01 - Appoint the sponsor
+# A01 – Appoint the sponsor
 
 This management activity belongs to the **Project Initiation** group. This group of activities are run at the beginning to prepare us for the project.
 
@@ -45,5 +45,10 @@ The following should be considered when deciding about the sponsor:
 
 The following principles play a significant role in this management activity:
 
-- [NUP2: Preserve and optimize energy and resources.](https://nupp.guide/nup2/)
-- [NUP5: Don’t do anything without a clear purpose.](https://nupp.guide/nup5/)
+- [NUP2:](https://p3.express/en/modules/nupp/manual/v1/nup2/)
+  Preserve and optimize energy and resources
+- [NUP5:](https://p3.express/en/modules/nupp/manual/v1/nup5/)
+  Don’t do anything without a clear purpose
+
+[IN](https://p3.express/en/modules/p3.express/manual/v2/ "previous activity")
+[A02](https://p3.express/en/modules/p3.express/manual/v2/a/02/ "next activity")

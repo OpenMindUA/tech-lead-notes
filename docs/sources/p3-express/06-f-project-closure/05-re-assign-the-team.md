@@ -12,7 +12,7 @@ license: CC-BY-4.0
 authors: PTCoE — Nader K. Rad et al.
 tags: [p3-express, f, project-closure, f05]
 ---
-# F05 - Celebrate!
+# F05 – Celebrate!
 
 This management activity belongs to the **Project Closure** group. This activity group is done when the product of the project is complete, or when you decide to cancel the project.
 
@@ -30,5 +30,10 @@ Make sure it’s a memorable and enjoyable event, and not a dry corporate event 
 
 The following principles play a significant role in this management activity:
 
-- [NUP4: Remember that a chain is only as strong as its weakest link.](https://nupp.guide/nup4/)
-- [NUP5: Don’t do anything without a clear purpose.](https://nupp.guide/nup5/)
+- [NUP4:](https://p3.express/en/modules/nupp/manual/v1/nup4/)
+  Remember that a chain is only as strong as its weakest link
+- [NUP5:](https://p3.express/en/modules/nupp/manual/v1/nup5/)
+  Don’t do anything without a clear purpose
+
+[F04](https://p3.express/en/modules/p3.express/manual/v2/f/04/ "previous activity")
+[F06](https://p3.express/en/modules/p3.express/manual/v2/f/06/ "next activity")
